@@ -12,7 +12,7 @@ title: 问题汇总
 
 ??? note "标签说明"
 
-    <font color=green>【:material-check:已解决】</font>：此问题或BUG已经解决。
+    :material-check:：表示此问题或bug已经解决。
 
     <font color=#448aff>【非BUG】</font>：此问题非bug。
 
@@ -70,7 +70,10 @@ title: 问题汇总
 
 !!! bug "8. 水门飞雷神不突进问题"
 
+    <font color=#C2185B>【已复原BUG🐛】</font>
     <font color=#FF5252>【:material-close:待修复】</font>
+
+    经测试，仅在克隆模式下，敌人就在眼前，但还是原地释放螺旋丸。
 
     备注：此类问题应该只会发生在克隆模式下，拥有相似功能的角色大部分未适配克隆模式，
 
@@ -85,11 +88,11 @@ title: 问题汇总
 
     合并相似问题，奥义二是被动，奥义二技能图标表现待优化。
 
-!!! question "10. 忍具购买不显示"
+!!! success "10. 忍具购买不显示"
 
-    <font color=#E64A19>【待排查】</font>
+    重复问题，见# 13
 
-!!! success "11. <font color=green>【:material-check:已解决】</font>拉面回血和被攻击掉时没有过渡动画，瞬间提高降低，非常突兀"
+!!! success "11. 拉面回血和被攻击掉时没有过渡动画，瞬间提高降低，非常突兀"
 
     <font color=#448aff>【非BUG】</font>
     【UI待完善】
@@ -101,17 +104,17 @@ title: 问题汇总
 
     补充：彩蛋下的3v3和4v4均有UI问题，3v3两个UI问题。
 
-!!! success "13. <font color=green>【:material-check:已解决】</font>不显示新三件忍具的问题"
+!!! success "13. 不显示新三件忍具的问题"
 
     未做完的，所以又移除了。
 
-!!! question "14. 【未知】血池不回血问题"
+!!! question "14. 角色在主塔范围内无法触发自动回血"
 
     <font color=#E64A19>【待排查】</font>
 
     停止移动每隔几秒会有几百点HP回复，如果出现异常，请补充对局角色、模式、和阵营。
 
-!!! success "15. <font color=green>【:material-check:已解决】</font>迪达拉技能一飞鸟只攻击塔和忍者，不攻击小兵问题"
+!!! success "15. 迪达拉技能一飞鸟只攻击塔和忍者，不攻击小兵问题"
 
     有优先等级，默认攻击塔和忍者，一直是这样的。
 
@@ -137,9 +140,12 @@ title: 问题汇总
 
     请补充下机型和版本号。
 
-!!! success "21. <font color=green>【:material-check:已解决】</font>纲手奥义二无限回血问题"
+!!! bug "21. 纲手奥义二无限回血问题"
 
-    奥义时间一过就是普通状态栏，此技能特色。
+    <font color=#C2185B>【已复原BUG🐛】</font>
+    <font color=#FF5252>【:material-close:待修复】</font>
+
+    经测试，释放奥义2后，将在较长的时间内一直处于回血状态。
 
 !!! question "22. 纲手站立普攻自动为穿着火影袍，释放技能时为普通状"
 
@@ -148,7 +154,7 @@ title: 问题汇总
 
     素材原因，来自源码的部分素材和以前不一样，纲手只有14帧攻击是不一样的。
 
-!!! success "23. <font color=green>【:material-check:已解决】</font>选人界面背景与人物框内颜色不一致"
+!!! success "23. 选人界面背景与人物框内颜色不一致"
 
     注意：当本模式可以自选角色时，为红色背景。
 
@@ -180,11 +186,11 @@ title: 问题汇总
 
     <font color=#E64A19>【待排查】</font>
 
-!!! success "31. <font color=green>【:material-check:已解决】</font>克隆模式会出现4个人"
+!!! success "31. 克隆模式会出现4个人"
 
     唯一的彩蛋被你发现了。
 
-!!! success "32. <font color=green>【:material-check:已解决】</font>结算界面显示不完全，结算界面UI错误"
+!!! success "32. 结算界面显示不完全，结算界面UI错误"
 
     【UI待完善】
 
@@ -267,6 +273,46 @@ title: 问题汇总
     1. 此技能非所有状态的角色都有效
 
     2. <font color=#E64A19>【待排查】</font>
+
+!!! question "49. 第四张地图上方会有一条像素线"
+
+    <font color=#FF5252>【:material-close:待修复】</font>
+
+    为了修复地图黑线问题（引擎问题），所有地图相关的图块都需要加1像素延展，此地图图块的位置有些冲突。
+
+!!! success "50. 刚进出装页面的时候点速走鞋没有音效"
+
+    这个因为默认选择就是第一个装备，所以你再选择他也没有播放音频的意义
+
+!!! question "51. 有时结算页面塔的位置会出现贴图异常"
+
+    <font color=#E64A19>【待排查】</font>
+
+!!! question "52. 很多角色技能后面都多一段硬直"
+
+    <font color=#E64A19>【待排查】</font>
+
+!!! bug "53. 1v1模式ai角都在右边的时候，开局后很长一段时间不动（AI角色在两边有时不会移动）"
+
+    <font color=#C2185B>【已复原BUG🐛】</font>
+    <font color=#FF5252>【:material-close:待修复】</font>
+
+!!! question "54. 千代奶奶克隆模式奥义一不生效。"
+
+    <font color=#E64A19>【待排查】</font>
+
+!!! bug "55. 金鸣二技能影分身之术EX召唤出来的是九喇嘛"
+
+    <font color=#C2185B>【已复原BUG🐛】</font>
+    <font color=#FF5252>【:material-close:待修复】</font>
+
+!!! question "56. 小李开到杜门之后移动时会有停顿现象"
+
+    <font color=#E64A19>【待排查】</font>
+
+!!! question "57. 队友击杀敌人之后自己不会增加金币和经验收益"
+
+    <font color=#E64A19>【待排查】</font>
 
 ---
 

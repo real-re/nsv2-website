@@ -1,0 +1,1 @@
+clear && python -m mkdocs serve

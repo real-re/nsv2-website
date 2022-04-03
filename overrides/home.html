@@ -1,0 +1,174 @@
+<!--
+  Copyright (c) 2022 Re <hi@naruto.re>
+
+  Following was modified from https://github.com/squidfunk/mkdocs-material/blob/master/material/overrides/home.html
+-->
+
+{% extends "base.html" %}
+
+<!-- Render hero under tabs -->
+{% block tabs %}
+{{ super() }}
+
+<!-- Additional styles for landing page -->
+<style>
+  @media screen and (max-width:29.9375em) {
+
+    .md-typeset .mdx-columns ol,
+    .md-typeset .mdx-columns ul {
+      -moz-columns: initial;
+      columns: initial
+    }
+  }
+
+  .md-typeset .mdx-columns li {
+    -moz-column-break-inside: avoid;
+    break-inside: avoid
+  }
+
+  .mdx-container {
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(0, 0%, 100%, 1)' /></svg>") no-repeat bottom, linear-gradient(to bottom, var(--md-primary-fg-color), #a63fd9 99%, var(--md-default-bg-color) 99%);
+    padding-top: 1rem
+  }
+
+  [data-md-color-scheme=slate] .mdx-container {
+    background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1123 258'><path d='M1124,2c0,0 0,256 0,256l-1125,0l0,-48c0,0 16,5 55,5c116,0 197,-92 325,-92c121,0 114,46 254,46c140,0 214,-167 572,-166Z' style='fill: hsla(232, 15%, 21%, 1)' /></svg>") no-repeat bottom, linear-gradient(to bottom, var(--md-primary-fg-color), #a63fd9 99%, var(--md-default-bg-color) 99%)
+  }
+
+  .mdx-hero {
+    color: var(--md-primary-bg-color);
+    margin: 0 .8rem
+  }
+
+  .mdx-hero h1 {
+    color: currentcolor;
+    font-weight: 700;
+    margin-bottom: 1rem
+  }
+
+  @media screen and (max-width:29.9375em) {
+    .mdx-hero h1 {
+      font-size: 1.4rem
+    }
+  }
+
+  .mdx-hero__content {
+    padding-bottom: 6rem
+  }
+
+  @media screen and (min-width:60em) {
+    .mdx-hero {
+      align-items: stretch;
+      display: flex
+    }
+
+    .mdx-hero__content {
+      margin-top: 3.5rem;
+      max-width: 19rem;
+      padding-bottom: 14vw
+    }
+
+    .mdx-hero__image {
+      order: 1;
+      transform: translateX(4rem);
+      width: 38rem
+    }
+  }
+
+  @media screen and (min-width:76.25em) {
+    .mdx-hero__image {
+      transform: translateX(8rem)
+    }
+  }
+
+  .mdx-hero .md-button {
+    color: var(--md-primary-bg-color);
+    margin-right: .5rem;
+    margin-top: .5rem
+  }
+
+  .mdx-hero .md-button:focus,
+  .mdx-hero .md-button:hover {
+    background-color: var(--md-accent-fg-color);
+    border-color: var(--md-accent-fg-color);
+    color: var(--md-accent-bg-color)
+  }
+
+  .mdx-hero .md-button--primary {
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+    color: #894da8
+  }
+
+  /* Application header should be static for the landing page */
+  .md-header {
+    position: initial;
+  }
+
+  /* Remove spacing, as we cannot hide it completely */
+  .md-main__inner {
+    margin: 0;
+  }
+
+  /* Hide main content for now */
+  .md-content {
+    display: none;
+  }
+
+  /* Hide table of contents */
+  @media screen and (min-width: 60em) {
+    .md-sidebar--secondary {
+      display: none;
+    }
+  }
+
+  /* Hide navigation */
+  @media screen and (min-width: 76.25em) {
+    .md-sidebar--primary {
+      display: none;
+    }
+  }
+</style>
+
+<!-- Hero for landing page -->
+<section class="mdx-container">
+  <div class="md-grid md-typeset">
+    <div class="mdx-hero">
+
+      <!-- Hero image -->
+      <div class="mdx-hero__image">
+        <img src="assets/img/logo.png" alt="" width="845" height="418" draggable="false">
+      </div>
+
+      <!-- Get current language by url -->
+      {% set lang='en' if i18n_page_locale not in config.i18n else i18n_page_locale %}
+      {% set i18n=config.i18n[lang] %}
+      {% set home=config.i18n[lang].home %}
+      <!-- Hero content -->
+      <div class="mdx-hero__content">
+        <h1>
+          {{ home.title }}
+        </h1>
+        {% if i18n.site_description and i18n.site_description != '' %}
+        <p>{{ i18n.site_description }}</p>
+        {% else %}
+        <p>{{ config.i18n['en'].site_description }}</p>
+        {% endif %}
+        <a href="{{ page.next_page.url | url }}" class="md-button md-button--primary">
+          {{ home.start_btn }}
+        </a>
+        <a href="{{ 'about/sponsor' | url }}" class="md-button">
+          {{ home.sponsor_btn }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endblock %}
+
+<!-- Content -->
+{% block content %}{% endblock %}
+
+<!-- Application footer -->
+{% block footer %}{% endblock %}

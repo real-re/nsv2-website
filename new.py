@@ -5,7 +5,7 @@ import sys
 
 LANG_LIST = [
     'zh',  # default language
-    'zh_TW',
+    # 'zh_TW',
     'en',
     'ja',
 ]

@@ -2,39 +2,44 @@
 title: 如何成为一名赞助者
 ---
 
-<div class="grid cards" markdown>
+## W:broken_heart:y ?
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+对于一个独立游戏开发者而言，鼓励和赞助或许是对其最大的帮助。
+但并非每一位独立游戏开发者都有一份工作 或 稳定度日的收入；
+也不是每一位都能顺利完成自己的理想，一直坚持自己的道路，默默前行。
+坚持不一定成功，但是半途而废注定失败。
 
-    ---
+有些人放弃了，因为生活无法维持下去，不得已去找一份工作维持生计；
+有些人则是失败了，一败涂地，害怕的不敢再去尝试；
+而有些人甚至`碌碌无为`的坚持10几年，最后一朝成名天下知。
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+这里，我也始终秉着`Talk Less Do More（少说多做）`的原则，一直致力开发V2版本，投入大量时间和人力物力等，
+对我来说回报可能并不重要，我只是想维持基本生活，一直做着自己喜欢的事，一点点进步，
+这样每天都能过的轻松、快乐一些，每天都充满活力。
 
-    [:octicons-arrow-right-24: Getting started](#)
+Hi，如果你也想让 **他** 继续坚持下去，请不要忘记赞助哦！
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+当然并不是人人都要`强制`赞助的，这仅仅出自于你个人的意愿和受限于个人能力，发自内心且不受他人影响的。
+并不是钱能够解决一切，但是没有钱人人举步维艰。大家都是普普通通的人，
+每个人的一份爱心或是一句夸赞对我来说都是莫大的帮助。
 
-    ---
+## H:heart:{ .heart }w ?
 
-    Focus on your content and generate a responsive and searchable static site
+1. 爱发电
 
-    [:octicons-arrow-right-24: Reference](#)
+    https://afdian.net/@real_re
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+2. 微信 & 支付宝
 
-    ---
+    ![wx](../../assets/img/wx_pay.png)
+    ![aipay](../../assets/img/ali_pay.png)
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+## Where ?
 
-    [:octicons-arrow-right-24: Customization](#)
+!!! question "当你收到赞助后，用来做什么？"
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+    当然，首当其冲是维持基本生活开销和域名维护费用，改善改善生活质量。
 
-    ---
+    当有一定资金后，需要购买物理服务器（加快开发测试效率，搭建网站，续缴纳不菲的宽带费）。
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
-
-</div>
+    最后，当有足够资金后，分发部分给美术创作者和有贡献的人，和未来购买定制作品等。

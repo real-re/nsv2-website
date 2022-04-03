@@ -1,1 +1,5 @@
+# ignore build dir
 site/
+
+# ignore vscode cache dir
+.vscode/cache

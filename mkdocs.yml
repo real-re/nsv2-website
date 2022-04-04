@@ -157,7 +157,7 @@ plugins:
           site_name: 火影战记 - V2 文档
       material_alternate: true
   - git-revision-date-localized:
-      type: iso_date
+      type: datetime
       timezone: Asia/Shanghai
       enable_creation_date: false
       exclude:
@@ -165,9 +165,6 @@ plugins:
         - assets/*
       fallback_to_build_date: true
       enabled: true
-  # - redirects:
-  #     redirect_maps:
-  #       about/become_a_sponsor.md: about/sponsor/index.md
   - search:
       lang:
         - en

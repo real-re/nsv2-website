@@ -129,7 +129,9 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - game-guides/index.md
       - game-guides/platform/mobile/index.md
       - game-guides/platform/pc/index.md
-  - issues/index.md
+  - 问题汇总:
+      - issues/index.md
+      - issues/faq/index.md
   - changelog/index.md
   - 关于:
       - about/index.md

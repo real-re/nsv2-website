@@ -146,9 +146,16 @@ i18n:
       - light_btn: 切换至夜间模式
       - dark_btn: 切换至日间模式
     home:
-      title: '火影战记: V2的简体中文技术文档'
+      title: "火影战记: V2的简体中文技术文档"
       start_btn: 快速开始
       sponsor_btn: 成为赞助者
+    issue:
+      total: 总数
+      success: 已解决
+      bug: BUG
+      question: 其他问题
+      failure: 崩溃
+      unknown: 未知
 
 # Plugins
 plugins:
@@ -178,7 +185,7 @@ plugins:
   - minify:
       minify_html: true
       # minify_js: true
-      # minify_css: true
+      minify_css: true
       htmlmin_opts:
         remove_comments: true
         remove_all_empty_space: true
@@ -186,5 +193,5 @@ plugins:
         remove_optional_attribute_quotes: true
       # js_files:
       #   -
-      # css_files:
-      #   -
+      css_files:
+        - assets/css/extra.css

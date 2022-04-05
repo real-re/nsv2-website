@@ -1,0 +1,49 @@
+{% extends "main.html" %}
+
+{% block content %}
+  {{ super() }}
+  <!-- Get current language by url -->
+  {% set lang='en' if i18n_page_locale not in config.i18n else i18n_page_locale %}
+  {% set i18n=config.i18n[lang] %}
+  {% set issue=config.i18n[lang].issue %}
+
+<script>
+var successNum = 0;
+var bugNum = 0;
+var questionNum = 0;
+var failureNum = 0;
+var unknownNum = 0;
+
+var issues = document.getElementsByClassName('admonition');
+var totalNum = issues.length;
+for (var i = 0; i < issues.length; i++) {
+    switch (issues[i].classList[1]) {
+        case 'success': successNum++; break;
+        case 'bug': bugNum++; break;
+        case 'question': questionNum++; break;
+        case 'failure': failureNum++; break;
+        default: unknownNum++; break;
+    }
+}
+// insert issue statistic
+if (issues != undefined) {
+    var statsEle = document.getElementsByName('issue-stats')[0];
+    statsEle.innerHTML = "<table><thead><tr>" +
+        "<th>{{ issue.total }}</th>" +
+        "<th>{{ issue.success }}</th>" +
+        "<th>{{ issue.bug }}</th>" +
+        "<th>{{ issue.question }}</th>" +
+        "<th>{{ issue.failure }}</th>" +
+        "<th>{{ issue.unknown }}</th>" +
+        "</tr></thead><tbody>" +
+        "<tr><td>" + totalNum + "</td>" +
+        "<td>" + successNum + "</td>" +
+        "<td>" + bugNum + "</td>" +
+        "<td>" + questionNum + "</td>" +
+        "<td>" + failureNum + "</td>" +
+        "<td>" + unknownNum + "</td></tr>" +
+        "</tbody></table>";
+}
+</script>
+
+{% endblock %}

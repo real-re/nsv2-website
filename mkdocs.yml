@@ -136,6 +136,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
   - 关于:
       - about/index.md
       - about/sponsor/index.md
+      - about/team/index.md
       - about/supported-platforms/index.md
 
 i18n:

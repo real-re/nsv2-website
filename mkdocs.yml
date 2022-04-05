@@ -62,7 +62,7 @@ theme:
   icon:
     logo: logo
   pymdownx:
-    sponsor: "https://github.com/sponsors/naruto-senki"
+    sponsor: "https://docs.naruto.re/about/sponsor"
 
 # Customization
 extra:

@@ -109,7 +109,7 @@ markdown_extensions:
       user: squidfunk
       repo: mkdocs-material
   - pymdownx.mark
-  # - pymdownx.progressbar # unsupported
+  # - pymdownx.progressbar
   - pymdownx.smartsymbols
   - pymdownx.superfences:
       custom_fences:
@@ -172,6 +172,7 @@ plugins:
         - en
         - ja
         - zh
+  - tags
   - tooltips
   - minify:
       minify_html: true

@@ -1,5 +1,5 @@
 ---
-title: 如何成为一名赞助者
+title: How to become a sponsor
 ---
 
 ## W:broken_heart:y ? { id="why" }
@@ -20,10 +20,10 @@ Hi，当然并不是人人都要赞助的，这仅仅出自于你个人的意愿
 
 ## H:heart:{ .heart }w ? { id="how" }
 
-| :love_you_gesture_tone2:发电 | :material-wechat:微信 | :fontawesome-brands-alipay:付宝 | :fontawesome-brands-paypal:ayPal |
+| :fontawesome-brands-paypal:ayPal | :love_you_gesture_tone2:afdian | :material-wechat:WeChat Payment | :fontawesome-brands-alipay:Alipay  |
 | :---: | :---: | :---: | :---: |
-| https://afdian.net/@real_re | | | [paypal.me/SponsorRe](https://paypal.me/SponsorRe) |
-| ![爱发电](../../assets/img/afdian-Re.jpg) | ![微信](../../assets/img/wx_pay.png) | ![支付宝](../../assets/img/ali_pay.png) | |
+| [paypal.me/SponsorRe](https://paypal.me/SponsorRe) | https://afdian.net/@real_re | | |
+| | ![afdian](../../assets/img/afdian-Re.jpg) | ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) |
 
 ## Where ?
 

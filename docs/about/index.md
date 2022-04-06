@@ -1,10 +1,10 @@
 ---
-title: 关于
+title: 关于作者
 ---
 
 各位火影战记的爱好者和忠实粉丝们，大家好，我是Re，也是V2版本的作者。
 
-起初，我并没有打算制作V2版本，而是致力于开发`火影战记：Re（已暂停）`，
+起初，我并没有打算制作V2版本，而是致力于开发`火影战记: Re（已暂停）`，
 后来得知火影战记开源后，我秉着学习的态度去研究，最后越陷越深... 同时也越发觉Re版不够完善了。
 
 最终，我不得不走向开发V2版的道路，该项目于2020年10份左右开始，一直至今，仍在积极开发中。
@@ -30,9 +30,9 @@ title: 关于
 
 ## 官方链接
 
-1. 游戏官网：[https://game.naruto.re](https://game.naruto.re)
+1. 游戏官网: [https://game.naruto.re](https://game.naruto.re)
 
-2. 文档网站：[https://docs.naruto.re](https://docs.naruto.re)
+2. 文档网站: [https://docs.naruto.re](https://docs.naruto.re)
 
 3. Re の [Bilibili频道 - _____Re](https://space.bilibili.com/122989580)
 
@@ -42,14 +42,22 @@ title: 关于
 
 > QQ群人数有限，建议订阅公众号，同步获取最新咨询。
 
-火影战记V2 微信公众号：Naruto-Senki
+email: hi@naruto.re
+
+火影战记V2 微信公众号: Naruto-Senki
 
 ![wx](../assets/img/wx.jpg)
 
-火影战记V2 官方QQ群：[806656456](https://jq.qq.com/?_wv=1027&k=8XMaykQb)
+火影战记V2 官方QQ群: [806656456](https://jq.qq.com/?_wv=1027&k=8XMaykQb)
 
-火影战记 官方QQ群 1：883103592
+火影战记 官方QQ群 1: 883103592
 
-火影战记 官方QQ群 2：614496214
+火影战记 官方QQ群 2: 614496214
 
-火影战记 官方QQ群 3：877960167
+火影战记 官方QQ群 3: 877960167
+
+### Discord
+
+[discord.gg/JGA6P8p](https://discord.gg/JGA6P8p)
+
+<iframe src="https://discord.com/widget?id=768961957990367232&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

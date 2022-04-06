@@ -1,5 +1,5 @@
 ---
-title: 支持的平台
+title: Supported Platforms
 ---
 
 目前 **火影战记: V2** 最新版支持运行的平台如下：

@@ -1,0 +1,65 @@
+---
+title: About Author
+---
+
+各位火影战记的爱好者和忠实粉丝们, 大家好, 我是Re, 也是V2版本的作者.
+
+起初, 我并没有打算制作V2版本, 而是致力于开发`Naruto Senki: Re (development suspended)`, 
+后来得知火影战记开源后, 我秉着学习的态度去研究, 最后越陷越深... 同时也越发觉Re版不够完善了.
+
+最终, 我不得不走向开发V2版的道路, 该项目于2020年10份左右开始, 一直至今, 仍在积极开发中.
+而目前V2版本仍处在优化和修复问题阶段, 但大部分工作已经完毕, 只剩下些许未解决的问题.
+
+开发V2版本, 这并不是一件简单的事情, 有太多太多的工作要做, 这不仅仅是写代码, 
+有大多琐碎工作只能由我来做, 只有我有时间去完善去不断修改这些东西, 
+其余一些小问题和美术方面被其他`大佬`接管, 这样我还是省了不少力气.
+所以, 这也是为什么在将近18个月之后才迎来第二个版本.
+
+关于我自己, 我是一个对做自己喜欢的事有些鲁莽的人, 或者说是想做哪些事马上就开干那种.
+所以, 我不喜欢上班, 工作不适合, 也没意思, 每天也都是投入在独立游戏开发.
+今年年前我就辞去工作, 转为全职开发游戏, 家里人虽然不是太理解, 但也没有阻拦, 
+我一直就是这样一个人, 我觉得应该做的话不管别人怎么说我都不会听.
+
+现在没有什么好的做游戏的想法, 所以大部分时间投入到开发V2版中, 个人开发能力有限, 又加上大量的修改优化代码, 
+难免出现问题bug.就算是有上万人测试的系统也难免有隐藏的bug, 何况是一个人开发和测试, 
+所以大家有时间可以积极的在群里文档中进行反馈问题, 以方便开发者更快、更准确的进行修复.
+
+最后, 感谢支持我、帮助过我的人、火影战记的开发团队和默默付出的人等.
+
+---
+
+## Links
+
+1. Website: [https://game.naruto.re](https://game.naruto.re)
+
+2. Docs: [https://docs.naruto.re](https://docs.naruto.re)
+
+3. Re の [Youtube  Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
+
+4. Re の [Bilibili Channel - _____Re](https://space.bilibili.com/122989580)
+
+## Contact
+
+email: hi@naruto.re
+
+### Discord
+
+[discord.gg/JGA6P8p](https://discord.gg/JGA6P8p)
+
+<iframe src="https://discord.com/widget?id=768961957990367232&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+### Tencent QQ
+
+> Tencent QQ group has a limit on the number of people, it's recommended subscribe the `WeChat Official Account` first.
+
+Naruto Senki: V2 WeChat Official Account: Naruto-Senki
+
+![wx](../assets/img/wx.jpg)
+
+Naruto Senki: V2 Official QQ group: [806656456](https://jq.qq.com/?_wv=1027&k=8XMaykQb)
+
+Naruto Senki Official QQ group 1: 883103592
+
+Naruto Senki Official QQ group 2: 614496214
+
+Naruto Senki Official QQ group 3: 877960167

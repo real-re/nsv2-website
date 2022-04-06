@@ -7,8 +7,8 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 | Platform | System Requirements                                     | Tested                    |
 | -------- | ------------------------------------------------------- | ------------------------- |
 | Android  | Minimum Android 4.2.2 (support armeabi-v7a & arm64-v8a) | Android 12.0              |
-| Windows  | 64-bit only (32-bit in testing)                         | Windows 10 64-bit         |
-| Linux    | 64-bit only (need install gtk3)                         | Manjaro Linux 5.17 64-bit |
+| Windows  | 64-bit (32-bit in testing)                              | Windows 10 64-bit         |
+| Linux    | 64-bit (need install gtk3)                              | Manjaro Linux 5.17 64-bit |
 | IOS      | untested (comming soon)                                 |                           |
 | Mac      | untested (comming soon)                                 |                           |
 

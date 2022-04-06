@@ -2,26 +2,23 @@
 title: Supported Platforms
 ---
 
-目前 **火影战记: V2** 最新版支持运行的平台如下：
+Platforms supported by the latest version of **Naruto Senki: V2**：
 
-| 平台    | 需求                                           | 测试通过                |
-| ------- | ---------------------------------------------- | ----------------------- |
-| Android | 支持 armeabi-v7a和arm64-v8a，最低运行系统4.2.2 | 安卓 12.0               |
-| Windows | 仅支持 x64 系统（32位版本测试中）              | Windows 10 64位         |
-| Linux   | 仅支持 x64 系统（需要安装gtk3）                | Manjaro Linux 5.17 64位 |
-| IOS     | 未测试（未来发布）                             |                         |
-| Mac     | 未测试（未来发布）                             |                         |
+| Platform | System Requirements                                     | Tested                    |
+| -------- | ------------------------------------------------------- | ------------------------- |
+| Android  | Minimum Android 4.2.2 (support armeabi-v7a & arm64-v8a) | Android 12.0              |
+| Windows  | 64-bit only (32-bit in testing)                         | Windows 10 64-bit         |
+| Linux    | 64-bit only (need install gtk3)                         | Manjaro Linux 5.17 64-bit |
+| IOS      | untested (comming soon)                                 |                           |
+| Mac      | untested (comming soon)                                 |                           |
 
-!!! note "注意"
+!!! hint "Windows user"
 
-    对于Windows用户，如果无法打开游戏，应下载安装最新`vc 2015-2022`的运行库，群文件和蓝奏云都有。
+    If you cannot open the game, you should
+    install the latest `Microsoft Visual C++ Redistributable packages`.
 
-!!! note "注意"
+    For windows 64-bit, it's recommended to install both of the following.
 
-    简单理解，x86代表32位系统，x64代表64位系统。
+    [:material-download: vc redist 64-bit](https://aka.ms/vs/17/release/vc_redist.x64.exe){ .md-button }
 
-    其他架构，如armeabi-v7a代表32位系统，arm64-v8a代表64位的系统，
-    进几年来推出的手机大多都为64位系统。
-
-    32位程序可以在64位系统运行，反之不能。
-
+    [:material-download: vc redist 32-bit](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }

@@ -66,6 +66,9 @@ theme:
 
 # Customization
 extra:
+  analytics:
+    provider: google
+    property: G-0BMYZM9E3H
   social:
     - icon: fontawesome/solid/globe
       link: https://game.naruto.re
@@ -106,10 +109,11 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: _ # NOTE: Link redirectly to docs.naruto.re in javascript
+      repo: _
   - pymdownx.mark
   # - pymdownx.progressbar
+  - pymdownx.saneheaders
   - pymdownx.smartsymbols
   - pymdownx.superfences:
       custom_fences:
@@ -141,7 +145,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - about/sponsor/index.md
       - about/team/index.md
       - about/supported-platforms/index.md
-      - about/downloads/index.md
+      - about/download/index.md
 
 i18n:
   zh:

@@ -58,6 +58,23 @@ email: hi@naruto.re
 
 ### Discord
 
+<a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/768961957990367232?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord 服务器" /></a>
+
 [discord.gg/JGA6P8p](https://discord.gg/JGA6P8p)
 
-<iframe src="https://discord.com/widget?id=768961957990367232&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+---
+
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+<div id="waline"></div>
+<script>
+Waline({
+  el: '#waline',
+  serverURL: 'https://waline-ivory-three.vercel.app',
+  visitor: true,
+  emoji: [
+    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
+    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+  ],
+});
+</script>

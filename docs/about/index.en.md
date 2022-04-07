@@ -44,9 +44,9 @@ email: hi@naruto.re
 
 ### Discord
 
-[discord.gg/JGA6P8p](https://discord.gg/JGA6P8p)
+<a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/768961957990367232?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
 
-<iframe src="https://discord.com/widget?id=768961957990367232&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[discord.gg/JGA6P8p](https://discord.gg/JGA6P8p)
 
 ### Tencent QQ
 
@@ -63,3 +63,21 @@ Naruto Senki Official QQ group 1: 883103592
 Naruto Senki Official QQ group 2: 614496214
 
 Naruto Senki Official QQ group 3: 877960167
+
+---
+
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+<div id="waline"></div>
+<script>
+Waline({
+  el: '#waline',
+  serverURL: 'https://waline-ivory-three.vercel.app',
+  visitor: true,
+  emoji: [
+    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
+    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+  ],
+  lang: 'en',
+});
+</script>

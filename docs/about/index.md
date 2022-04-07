@@ -28,7 +28,7 @@ title: 关于作者
 
 ---
 
-## 官方链接
+## 官方链接 { id="links" }
 
 1. 游戏官网: [https://game.naruto.re](https://game.naruto.re)
 
@@ -38,7 +38,7 @@ title: 关于作者
 
 4. Re の [Youtube 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
 
-## 联系方式
+## 联系方式 { id="contact" }
 
 > QQ群人数有限，建议订阅公众号，同步获取最新咨询。
 

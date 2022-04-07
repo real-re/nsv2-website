@@ -129,6 +129,9 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - game-guides/index.md
       - game-guides/platform/mobile/index.md
       - game-guides/platform/pc/index.md
+      # TODO
+      # - game-guides/characters/index.md
+      # - game-guides/glossary/index.md
   - 问题汇总:
       - issues/index.md
       - issues/faq/index.md
@@ -138,6 +141,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - about/sponsor/index.md
       - about/team/index.md
       - about/supported-platforms/index.md
+      - about/downloads/index.md
 
 i18n:
   zh:

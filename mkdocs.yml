@@ -139,7 +139,9 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
   - 问题汇总:
       - issues/index.md
       - issues/faq/index.md
-  - changelog/index.md
+  -  更新日志:
+      - changelog/index.md
+      - changelog/website.md
   - 关于:
       - about/index.md
       - about/sponsor/index.md
@@ -197,6 +199,7 @@ plugins:
         en:
           游戏指南: Game Guides
           问题汇总: Issues
+          更新日志: Changelog
           关于: About
 
   - git-revision-date-localized:

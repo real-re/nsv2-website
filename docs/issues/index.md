@@ -18,7 +18,7 @@ template: issue.html
 >
 > 最后更新: {{ git_revision_date_localized }}
 
-???+ note "反馈问题格式"
+??? note "反馈问题格式"
 
     反馈问题，如涉及到战斗逻辑，应涵盖以下部分：
 
@@ -372,3 +372,5 @@ template: issue.html
 !!! bug "65. 牙使用3技能后有时无效果，赤丸将不会进入红色强化状态"
 
     <font color=#FF5252>【待修复】</font>
+
+!!! bug "65. 修复角都技能UI显示效果，及奥义2无法被触发"

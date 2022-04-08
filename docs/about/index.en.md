@@ -30,11 +30,13 @@ title: About Author
 
 ## Links
 
-1. Website: [https://game.naruto.re](https://game.naruto.re)
+1. Game :video_game: Website: [https://game.naruto.re](https://game.naruto.re)
 
-2. Re の [Youtube  Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
+2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
+__Bilibili__[ Channel - _____Re](https://space.bilibili.com/122989580)
 
-3. Re の [Bilibili Channel - _____Re](https://space.bilibili.com/122989580)
+3. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
+__YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
 
 ## Contact
 
@@ -50,7 +52,7 @@ email: hi@naruto.re
 
 > Tencent QQ group has a limit on the number of people, it's recommended subscribe the `WeChat Official Account` first.
 
-Naruto Senki: V2 WeChat Official Account: Naruto-Senki
+Our WeChat Official Account: Naruto-Senki `(火影战记V2)`
 
 ![wx](../assets/img/wx.jpg)
 

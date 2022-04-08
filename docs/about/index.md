@@ -30,11 +30,13 @@ title: 关于作者
 
 ## 官方链接 { id="links" }
 
-1. 游戏官网: [https://game.naruto.re](https://game.naruto.re)
+1. 游戏:video_game:官网: [https://game.naruto.re](https://game.naruto.re)
 
-2. Re の [Bilibili频道 - _____Re](https://space.bilibili.com/122989580)
+2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
+__Bilibili__[ 频道 - _____Re](https://space.bilibili.com/122989580)
 
-3. Re の [Youtube 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
+3. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
+__YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
 
 ## 联系方式 { id="contact" }
 
@@ -42,7 +44,9 @@ title: 关于作者
 
 email: hi@naruto.re
 
-火影战记V2 微信公众号: Naruto-Senki
+关注微信公众号: 火影战记V2`（Naruto-Senki）`
+
+:point_up_2:同步获取最新资讯及更多内容！
 
 ![wx](../assets/img/wx.jpg)
 
@@ -53,6 +57,11 @@ email: hi@naruto.re
 火影战记 官方QQ群 2: 614496214
 
 火影战记 官方QQ群 3: 877960167
+
+!!! tip "温馨提示"
+
+    进群请严格遵守群规，阅读公告及翻阅`群文件`内的`在线文档`，
+    共建美好和谐的玩家交流环境，人人有责。
 
 ### Discord
 

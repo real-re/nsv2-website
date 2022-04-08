@@ -13,7 +13,7 @@ title: 更新日志
 - 🔥新特性
     - 支持 安卓12.0
     - 支持 Windows 64位
-    - PC端：支持F11按键[切换窗口大小](../game-guides/platform/pc/index.md#特殊功能)
+    - PC端：支持++f11++键[切换窗口大小](../game-guides/platform/pc/index.md#特殊功能)
     - 安卓和Windows可以通过游戏内左上角的 **News** 按钮访问[官方](https://game.naruto.re)啦（网站目前托管于GitHub，部分地区可能无法访问或过慢）
 
 - 🚀变更

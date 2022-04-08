@@ -32,11 +32,9 @@ title: About Author
 
 1. Website: [https://game.naruto.re](https://game.naruto.re)
 
-2. Docs: [https://docs.naruto.re](https://docs.naruto.re)
+2. Re の [Youtube  Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
 
-3. Re の [Youtube  Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
-
-4. Re の [Bilibili Channel - _____Re](https://space.bilibili.com/122989580)
+3. Re の [Bilibili Channel - _____Re](https://space.bilibili.com/122989580)
 
 ## Contact
 

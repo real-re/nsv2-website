@@ -1,11 +1,11 @@
-name: Publish docs
+name: Publish website
 on:
   push:
     branches:
       - main
 jobs:
   build:
-    name: Deploy docs
+    name: Deploy website
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main

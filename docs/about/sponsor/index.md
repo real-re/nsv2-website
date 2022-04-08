@@ -2,7 +2,7 @@
 title: 如何成为一名赞助者
 ---
 
-## W:broken_heart:y ? { id="why" }
+## 为:broken_heart:么 ? { id="why" }
 
 对于任何一个独立游戏开发者而言，鼓励和赞助或许是对其最大的帮助。
 但并非每一位独立游戏开发者都有一份工作 或 稳定的收入；
@@ -17,9 +17,10 @@ title: 如何成为一名赞助者
 Hi，当然并不是人人都要赞助的，这仅仅出自于你个人的意愿和受限于个人能力。
 并不是钱能够解决一切，但是没有钱人人举步维艰，生活不宜，大家理解。
 
-对我而言，每个人的一份爱心或是一句夸赞对我来说都是莫大的帮助。
+每个人的一份爱心:smiling_face_with_3_hearts:或是一句夸赞对我来说都是莫大的帮助，由衷感谢所有默默付出的人，
+离开了你们的支持，我是无法继续做下的。
 
-## H:heart:{ .heart }w ? { id="how" }
+## 如:heart:{ .heart }何 ? { id="how" }
 
 | :love_you_gesture_tone2:发电 | :material-wechat:微信 | :fontawesome-brands-alipay:付宝 |
 | :---: | :---: | :---: |
@@ -30,7 +31,7 @@ Hi，当然并不是人人都要赞助的，这仅仅出自于你个人的意愿
 | :---: | :---: |
 |  [opencollective.com/narutosenki](https://opencollective.com/narutosenki) | [paypal.me/SponsorRe](https://paypal.me/SponsorRe) |
 
-## Where ?
+## 哪里:confused: ?
 
 !!! question "当你收到赞助后，用来做什么？"
 

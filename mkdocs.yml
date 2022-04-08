@@ -1,7 +1,7 @@
 # Project information
 site_name: Naruto Senki - V2 Documentation
 site_author: Re
-site_url: https://docs.naruto.re/
+site_url: https://game.naruto.re/
 edit_uri: https://github.com/naruto-senki/docs/edit/main/docs/
 
 # Deployment
@@ -62,7 +62,7 @@ theme:
   icon:
     logo: logo
   pymdownx:
-    sponsor: "https://docs.naruto.re/about/sponsor"
+    sponsor: "https://game.naruto.re/about/sponsor"
 
 # Customization
 extra:
@@ -109,7 +109,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: _ # NOTE: Link redirectly to docs.naruto.re in javascript
+      user: _ # NOTE: Link redirectly to game.naruto.re in javascript
       repo: _
   - pymdownx.mark
   # - pymdownx.progressbar

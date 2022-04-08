@@ -30,7 +30,7 @@ Hi，当然并不是人人都要赞助的，这仅仅出自于你个人的意愿
 |        https://afdian.net/@real_re        |                                                |                                         |
 | ![afdian](../../assets/img/afdian-Re.jpg) | ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) |
 
-## Where ?
+## Where:confused: ?
 
 !!! question "当你收到赞助后，用来做什么？"
 

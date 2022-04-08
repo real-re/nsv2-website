@@ -32,11 +32,9 @@ title: 关于作者
 
 1. 游戏官网: [https://game.naruto.re](https://game.naruto.re)
 
-2. 文档网站: [https://docs.naruto.re](https://docs.naruto.re)
+2. Re の [Bilibili频道 - _____Re](https://space.bilibili.com/122989580)
 
-3. Re の [Bilibili频道 - _____Re](https://space.bilibili.com/122989580)
-
-4. Re の [Youtube 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
+3. Re の [Youtube 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
 
 ## 联系方式 { id="contact" }
 

@@ -5,4 +5,4 @@ template: issue.html
 
 !!! warning "The current language is not currently supported !!!"
 
-    Please check the Chinese link [https://docs.naruto.re/issues](https://docs.naruto.re/issues).
+    Please check the Chinese link [game.naruto.re/issues](https://game.naruto.re/issues).

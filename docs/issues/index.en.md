@@ -1,6 +1,6 @@
 ---
 title: Issues
-template: issue.html
+template: issues.html
 ---
 
 !!! warning "The current language is not currently supported !!!"

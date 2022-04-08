@@ -1,6 +1,6 @@
 ---
 title: 问题汇总
-template: issue.html
+template: issues.html
 ---
 
 > **此栏目统计目前所有已经确认的问题或bug，同时将罗列个版本反馈的问题及进度。**

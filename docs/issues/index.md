@@ -373,4 +373,4 @@ template: issue.html
 
     <font color=#FF5252>【待修复】</font>
 
-!!! bug "65. 修复角都技能UI显示效果，及奥义2无法被触发"
+!!! bug "66. 角都奥义技能UI显示效果，及奥义2无法被触发"

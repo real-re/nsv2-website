@@ -5,26 +5,28 @@ title: About Author
 各位火影战记的爱好者和忠实粉丝们, 大家好, 我是Re, 也是V2版本的作者.
 
 起初, 我并没有打算制作V2版本, 而是致力于开发`Naruto Senki: Re (development suspended)`, 
-后来得知火影战记开源后, 我秉着学习的态度去研究, 最后越陷越深... 同时也越发觉Re版不够完善了.
+后来得知火影战记开源后, 我秉着学习的态度去研究, 最后越陷越深...
 
-最终, 我不得不走向开发V2版的道路, 该项目于2020年10份左右开始, 一直至今, 仍在积极开发中.
-而目前V2版本仍处在优化和修复问题阶段, 但大部分工作已经完毕, 只剩下些许未解决的问题.
+最终, 我不得不走向开发V2版的道路, 该项目于2020年10份前后开始, 一直至今, 仍在积极开发中.
+而目前V2版本仍处在优化和修复问题阶段, 但大部分工作已经完毕, 只剩下些许未解决的问题, 
+随即就会进入到稳定开发阶段 (更快、更稳定、更高质量的更新).
 
-开发V2版本, 这并不是一件简单的事情, 有太多太多的工作要做, 这不仅仅是写代码, 
-有大多琐碎工作只能由我来做, 只有我有时间去完善去不断修改这些东西, 
-其余一些小问题和美术方面被其他`大佬`接管, 这样我还是省了不少力气.
-所以, 这也是为什么在将近18个月之后才迎来第二个版本.
+开发V2版本, 这并不是一件简单的事情, 不仅包含大量的开发测试任务, 
+同时也要维护网站、社区和服务器等, 实际的工作量及复杂程度超乎想象
+`(有时会几十个小时去排查修复一个bug, 有时早上起来写文档再次回过神来发现今天已经结束了)`.
+这所有的事情并不能由是一个来完成, 社区管理和美术方面被其他专门的`大佬`接管, 这样我还是省了不少力气.
+所以, 这也是为什么在近18个月之后才迎来第二个版本原因之一.
 
-关于我自己, 我是一个对做自己喜欢的事有些鲁莽的人, 或者说是想做哪些事马上就开干那种.
-所以, 我不喜欢上班, 工作不适合, 也没意思, 每天也都是投入在独立游戏开发.
-今年年前我就辞去工作, 转为全职开发游戏, 家里人虽然不是太理解, 但也没有阻拦, 
-我一直就是这样一个人, 我觉得应该做的话不管别人怎么说我都不会听.
+关于我自己, 我是一个想做喜欢的事情马上就开干那种, 所以, 
+我选择全身心投入游戏开发中, 最后在2022年前辞去工作, 转为全职开发独立游戏.
 
-现在没有什么好的做游戏的想法, 所以大部分时间投入到开发V2版中, 个人开发能力有限, 又加上大量的修改优化代码, 
-难免出现问题bug.就算是有上万人测试的系统也难免有隐藏的bug, 何况是一个人开发和测试, 
-所以大家有时间可以积极的在群里文档中进行反馈问题, 以方便开发者更快、更准确的进行修复.
+现在没有什么好的做游戏的想法, 所以大部分时间投入到开发V2版中, 
+个人开发能力有限, 又加上大量的重构优化代码, 制作新内容等, 难免出现问题bug.
+所以大家有时间可以积极的在群里文档中进行反馈问题, 以方便我更快的进行修复.
 
 最后, 感谢支持我、帮助过我的人、火影战记的开发团队和默默付出的人等.
+
+__特别声明: 本游戏将一直保持100%免费, 且永远不会做出主动弹出或诱导玩家点击广告等行为.__
 
 ---
 
@@ -63,6 +65,26 @@ Naruto Senki Official QQ group 1: 883103592
 Naruto Senki Official QQ group 2: 614496214
 
 Naruto Senki Official QQ group 3: 877960167
+
+## Copyright
+
+    Naruto Senki: V2 was made with the resources for non-commerical use.
+    If you are having any problems or suggestions, please contact us.
+
+    email: <hi@naruto.re>
+
+__1. It is forbidden for anyone to use this game to do any illegal acts
+such as commercial behavior, misappropriation, false publicity, fraud, etc.__
+
+__2. No one is allowed to publish and use this game for modification and
+creation without the permission from the development team.__
+
+__If you see the above behavior in others, please contact the development team immediately.__
+
+## Special Thanks
+
+__Special thanks to Neimad, Zoso, benhazard, 曹黎晟,
+Zakume, Ojima, Blackisle, jinyu, chiyan and the others.__
 
 ---
 

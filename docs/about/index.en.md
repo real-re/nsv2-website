@@ -71,7 +71,7 @@ Naruto Senki Official QQ group 3: 877960167
     Naruto Senki: V2 was made with the resources for non-commerical use.
     If you are having any problems or suggestions, please contact us.
 
-    ALL RIGHTS RESERVED NAMCO BANDAI AND CREATORS.
+    ALL RIGHTS RESERVED BANDAI NAMCO AND CREATORS.
 
     email: <hi@naruto.re>
 
@@ -86,7 +86,7 @@ __If you see the above behavior in others, please contact the development team i
 ## Special Thanks
 
 __Special thanks to Neimad, Zoso, benhazard, 曹黎晟,
-Zakume, Ojima, Blackisle, jinyu, chiyan and the others.__
+Zakume, Ojima, Blackisle, jinyu, chiyan, etc.__
 
 ---
 

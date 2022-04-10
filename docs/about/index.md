@@ -17,6 +17,8 @@ title: 关于作者
 这所有的事情并不能由是一个来完成，社区管理和美术方面被其他专门的`大佬`接管，这样我还是省了不少力气。
 所以，这也是为什么在近18个月之后才迎来第二个版本原因之一。
 
+尽管如此，本作依旧受到海内外众多玩家及原开发团队成员的鼎力支持。
+
 关于我自己，我是一个想做喜欢的事情马上就开干那种，所以，
 我选择全身心投入游戏开发中，最后在2022年前辞去工作，转为全职开发独立游戏。
 
@@ -47,6 +49,8 @@ __YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf
 
 email: hi@naruto.re
 
+锁定游戏论坛：[naruto.re](#)`（部署中）`
+
 关注微信公众号: 火影战记V2`（Naruto-Senki）`
 
 :point_up_2:同步获取最新资讯及更多内容！
@@ -66,6 +70,8 @@ email: hi@naruto.re
     进群请严格遵守群规，阅读公告及翻阅`群文件`内的`在线文档`，
     共建美好和谐的玩家交流环境，人人有责。
 
+    部分交流群，管理严格，请玩家注意发言，切勿提及公告所示的`雷区`。
+
 ### Discord
 
 <a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/768961957990367232?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord 服务器" /></a>
@@ -78,7 +84,7 @@ email: hi@naruto.re
     均归属万代南宫梦及其相关公司、相关网络制作者 以及 本开发团队所有，
     如有任何问题，请及时与我们联系。
 
-    紧急事项 联系人：<hi@naruto.re>
+    联系人：<hi@naruto.re>
 
 __1. 禁止任何人使用本游戏做任何 商业行为、盗用、虚假宣传、诈骗等非法行为。__
 

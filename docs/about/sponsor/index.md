@@ -16,7 +16,7 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 每个人的一份爱心:smiling_face_with_3_hearts:或是一句夸赞👍🏻都是我前行的动力。
 
-由衷感谢所有为此默默付出的人们，离开了你们的支持，我是无法继续做下的。
+由衷感谢所有为此默默付出的人们，正是因为有你们的支持与鼓励，我才能走到今天。
 
 ## 如:heart:{ .heart }何 ? { id="how" }
 
@@ -25,9 +25,13 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 | https://afdian.net/@real_re | | |
 | ![爱发电](../../assets/img/afdian-Re.jpg) | ![微信](../../assets/img/wx_pay.png) | ![支付宝](../../assets/img/ali_pay.png) |
 
-| opencollective | :fontawesome-brands-paypal:ayPal |
-| :---: | :---: |
-|  [opencollective.com/narutosenki](https://opencollective.com/narutosenki) | [paypal.me/SponsorRe](https://paypal.me/SponsorRe) |
+| :fontawesome-brands-paypal:ayPal |
+| :---: |
+| [paypal.me/SponsorRe](https://paypal.me/SponsorRe) |
+
+!!! hint ""
+
+    如果您以非个人形式进行赞助，请联系<hi@naruto.re>。
 
 ## 哪里:confused: ?
 

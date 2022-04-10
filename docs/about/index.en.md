@@ -44,6 +44,8 @@ __YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZd
 
 email: hi@naruto.re
 
+Game Forum：[naruto.re](#)`(comming soon)`
+
 ### Discord
 
 <a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/768961957990367232?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>

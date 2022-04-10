@@ -136,10 +136,12 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       # TODO
       # - game-guides/characters/index.md
       # - game-guides/glossary/index.md
+  - 维基百科:
+      - wiki/history.md
   - 问题汇总:
       - issues/index.md
       - issues/faq/index.md
-  -  更新日志:
+  - 更新日志:
       - changelog/index.md
       - changelog/website.md
   - 关于:
@@ -198,6 +200,7 @@ plugins:
       nav_translations:
         en:
           游戏指南: Game Guides
+          维基百科: Wiki
           问题汇总: Issues
           更新日志: Changelog
           关于: About

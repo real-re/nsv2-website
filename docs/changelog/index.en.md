@@ -27,7 +27,7 @@ title: Changelog
     - PC: fix some keyboard issues
     - fix Lee, Kakuzu and Kisame skills from `v2.0.0`
 
-- 🎉Other
+- 🎉Easter eggs
     - Clone mode entered after multiple taps on the logo will be 4v4 and more
 
 

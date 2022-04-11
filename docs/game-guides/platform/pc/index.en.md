@@ -9,7 +9,7 @@ title: PC端
 
 ### Basic
 
-- Movement: ++w++ ++s++ ++a++ ++d++
+- Move: ++w++ ++s++ ++a++ ++d++
 - Attack: ++j++
 - Skill 1: ++u++
 - Skill 2: ++i++

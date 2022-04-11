@@ -86,7 +86,7 @@ __If you see the above behavior in others, please contact the development team i
 ## Special Thanks
 
 __Special thanks to Neimad, Zoso, benhazard, 曹黎晟,
-Zakume, Ojima, Blackisle, jinyu, chiyan, etc.__
+Zakume, Ojima, Blackisle, Hausumasuta, jinyu, chiyan, etc.__
 
 ---
 

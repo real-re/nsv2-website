@@ -6,7 +6,7 @@ title: Changelog
 
 - 🔥New
     - support Windows 64-bit
-    - PC: support use ++f11++ to [change window size](../game-guides/platform/pc/index.md)
+    - PC: support use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#special_feature)
     - Click **News** button to open our [website](https://game.naruto.re) on Android and Windows
     - UI: add mode selection interface
     - add 1v1, 4v4 and Clone modes

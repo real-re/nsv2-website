@@ -1,6 +1,10 @@
 Naruto Senki: V2 Documentation
 ==============================
 
+[[简体中文](README.md)] [English]
+
+---
+
 > Documentation for Naruto Senki: V2 and more.
 
 This project uses Markdown for documentation which is compiled with [mkdocs](http://www.mkdocs.org).

@@ -310,9 +310,7 @@ template: issues.html
 
     【待排查】
 
-!!! bug "53. 金鸣二技能影分身之术EX召唤出来的是九喇嘛"
-
-    <font color=#FF5252>【待修复】</font>
+!!! success "53. 金鸣二技能影分身之术EX召唤出来的是九喇嘛"
 
     原本是金鸣分身。
 

@@ -1,4 +1,4 @@
-Naruto Senki: V2 文档
+Naruto Senki: V2 网站
 ==============================
 
 [简体中文] [[English](README_EN.md)]
@@ -7,7 +7,7 @@ Naruto Senki: V2 文档
 
 > Naruto Senki: V2的文档及更多内容.
 
-此文档使用Markdown编写，由[mkdocs](http://www.mkdocs.org)编译运行.
+此网站使用Markdown编写，由[mkdocs](http://www.mkdocs.org)编译运行.
 
 ## 运行
 

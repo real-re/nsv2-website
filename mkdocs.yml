@@ -1,5 +1,5 @@
 # Project information
-site_name: Naruto Senki - V2 Documentation
+site_name: Naruto Senki - V2
 site_author: Re
 site_url: https://game.naruto.re/
 edit_uri: https://github.com/naruto-senki/docs/edit/main/docs/
@@ -147,7 +147,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
   - 关于:
       - about/index.md
       - about/sponsor/index.md
-      - about/team/index.md
+      - about/joining-us/index.md
       - about/supported-platforms/index.md
       - about/download/index.md
 
@@ -158,7 +158,7 @@ i18n:
       - light_btn: 切换至夜间模式
       - dark_btn: 切换至日间模式
     home:
-      title: "火影战记: V2的简体中文技术文档"
+      title: "火影战记: V2的中文文档及更多信息"
       start_btn: 快速开始
       sponsor_btn: 成为赞助者
     issue:
@@ -174,7 +174,7 @@ i18n:
       - light_btn: Switch to dark mode
       - dark_btn: Switch to light mode
     home:
-      title: "Technical Documentation for Naruto Senki: V2"
+      title: "Documentation for Naruto Senki: V2 and more"
       start_btn: Quick start
       sponsor_btn: Become a sponsor
     issue:
@@ -192,10 +192,10 @@ plugins:
       languages:
         zh:
           name: 简体中文
-          site_name: 火影战记 - V2 文档
+          site_name: 火影战记 - V2
         en:
           name: English
-          site_name: Naruto Senki - V2 Documentation
+          site_name: Naruto Senki - V2
       material_alternate: true
       nav_translations:
         en:

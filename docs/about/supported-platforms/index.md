@@ -9,8 +9,8 @@ title: 支持的平台
 | Android | 最低运行系统4.2.2（armeabi-v7a & arm64-v8a） | 安卓 12.0                    |
 | Windows | 64位系统                                     | Windows 10 64位 `19044.1620` |
 | Linux   | 64位系统（需要安装gtk3）                     | Manjaro Linux 5.17 64位      |
-| IOS     | 未测试（未来发布，需要越狱）                 |                              |
-| Mac     | 未测试（未来发布）                           |                              |
+| IOS     | 未测试（未来发布，需要越狱[^1]）             |                              |
+| Mac     | 未测试（未来发布[^2]）                       |                              |
 
 !!! hint "Windows用户"
 
@@ -26,13 +26,5 @@ title: 支持的平台
 
         [:material-download: vc运行库32位](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }
 
-
-!!! note "注意"
-
-    简单理解，x86代表32位系统，x64代表64位系统。
-
-    其他CPU架构，如armeabi-v7a代表32位，简称arm，arm64-v8a代表64位，简称arm64，
-    进几年来推出的手机大多都为64位系统。
-
-    32位程序可以在64位系统运行，反之不能。
-
+[^1]: 若想用户不越狱安装，需注册Apple开发者账号（100$/年），当然有其他方法，限制多且麻烦。
+[^2]: 暂无可用的设备测试。

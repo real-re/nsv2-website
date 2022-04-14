@@ -14,7 +14,7 @@ title: 下载
 | Android |      armeabi-v7a       |   :octicons-x-circle-16:   |
 | Windows |          x86           |   :octicons-x-circle-16:   |
 
-!!! tip
+!!! tip "提示"
 
     :octicons-x-circle-16: : 未支持
 

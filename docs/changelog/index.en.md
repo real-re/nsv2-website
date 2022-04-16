@@ -2,7 +2,7 @@
 title: Changelog
 ---
 
-## v2.1.0 <small>[beta] 2022-4-1</small>
+## v2.1.0 <small>[beta] 2022-4-1</small> { id="v210" }
 
 - 🔥New
     - support Windows 64-bit
@@ -22,7 +22,7 @@ title: Changelog
     - UI: reduce interface animation duration
 
 - 🐞Fixed
-    - change engine to [adxe](https://github.com/adxeproject/adxe) and no more audio problems
+    - no more audio problems
     - fix a Logo audio playback issue
     - PC: fix some keyboard issues
     - fix Lee, Kakuzu and Kisame skills from `v2.0.0`
@@ -31,7 +31,7 @@ title: Changelog
     - Clone mode entered after multiple taps on the logo will be 4v4 and more
 
 
-## v2.0.0 <small>[beta] 2020-11-1</small>
+## v2.0.0 <small>[beta] 2020-11-1</small> { id="v200" }
 
 - 🔥New
     - support Android 11.0

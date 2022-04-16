@@ -8,7 +8,7 @@ title: 更新日志
 
     若无标记则为稳定版本。
 
-## v2.1.0 <small>[beta] 2022-4-1</small>
+## v2.1.0 <small>[beta] 2022-4-1</small> { id="v210" }
 
 - 🔥新特性
     - 支持 Windows 64位
@@ -28,7 +28,7 @@ title: 更新日志
     - UI：降低部分界面动画的时长，减少等待时间
 
 - 🐞修复
-    - 更换引擎为[adxe](https://github.com/adxeproject/adxe)，彻底终结Android音频问题
+    - 彻底终结Android音频问题
     - 修复Logo界面音频播放问题
     - PC端：修复一些键盘操作的问题
     - 修复小李、角都和干柿鬼鲛的技能问题自`v2.1.0`
@@ -37,7 +37,7 @@ title: 更新日志
     - 多次点击Logo，进入克隆模式将会是4v4，部分模式可以自选角色
 
 
-## v2.0.0 <small>[beta] 2020-11-1</small>
+## v2.0.0 <small>[beta] 2020-11-1</small> { id="v200" }
 
 - 🔥新特性
     - 支持 安卓11.0

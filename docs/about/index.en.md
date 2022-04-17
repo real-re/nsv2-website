@@ -30,13 +30,13 @@ title: About Author
 
 ## Links
 
-1. Game :video_game: Website: [https://game.naruto.re](https://game.naruto.re)
+1. Game :video_game: Website: [https://game.naruto.re](https://game.naruto.re){target="_blank"}
 
 2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
-__Bilibili__[ Channel - _____Re](https://space.bilibili.com/122989580)
+__Bilibili__[ Channel - _____Re](https://space.bilibili.com/122989580){target="_blank"}
 
 3. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
-__YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg)
+__YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg){target="_blank"}
 
 ## Contact
 

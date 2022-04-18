@@ -13,7 +13,7 @@ title: 更新日志
 - 🔥新特性
     - 支持 Windows 64位
     - PC端：支持++f11++键[切换窗口大小](../game-guides/platform/pc/index.md#special_feature)
-    - 安卓和Windows可以通过游戏内的 **News** 按钮访问[官方](https://game.naruto.re)啦（网站目前托管于GitHub，部分地区可能无法访问或过慢）
+    - 安卓和Windows可以通过游戏内的 **News** 按钮访问[官方](https://game.naruto.re)啦
     - UI：增加模式选择界面
     - 加入1v1、4v4和克隆模式
     - 加入旧版角色佩恩、大蛇丸和君麻吕`（感谢萌姐（hausumasuta）提供AI）`

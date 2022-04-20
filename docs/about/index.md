@@ -42,7 +42,7 @@ __YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf
 
 ## 联系方式 { id="contact" }
 
-> QQ群人数有限，建议订阅公众号，同步获取最新咨询。
+> QQ群人数有限，建议订阅公众号，同步获取最新动态。
 
 email: hi@naruto.re
 
@@ -50,7 +50,7 @@ email: hi@naruto.re
 
 关注微信公众号: 火影战记V2`（Naruto-Senki）`
 
-:point_up_2:同步获取最新资讯及更多内容！
+:point_up_2:同步获取最新动态！
 
 ![wx](../assets/img/wx.jpg)
 

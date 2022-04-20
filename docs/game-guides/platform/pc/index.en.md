@@ -1,5 +1,5 @@
 ---
-title: PC端
+title: PC
 ---
 
 ## How to play
@@ -29,6 +29,8 @@ title: PC端
 
 ## Special Feature
 
+### Swich window
+
 use ++f11++ to swtich the window size:
 
 1. 1280x720
@@ -42,3 +44,24 @@ use ++f11++ to swtich the window size:
     In some Linux, switching window sizes can cause UI position issues,
 
     you can modify the `script/window.lua` file to achieve the same effect.
+
+### Custom keyboard controls
+
+> Customize keyboard controls by modifying the
+> `input.ini` file in the game root directory.
+
+!!! hint "1. Only supported keycodes range from A to Z (not case sensitive)."
+
+!!! hint "2. If the key is invalid or there are duplicate keys, an alert will pop up and settings won't be applied."
+
+Only the following commands are supported:
+
+- Normal attack
+
+- Skill 1 - 3
+
+- Ougi 1 - 2
+
+- Ramen
+
+- Gear 1 - 3

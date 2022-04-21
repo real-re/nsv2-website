@@ -35,7 +35,7 @@ title: 关于作者
 
 2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
 __Bilibili__[ 频道 - _____Re](https://space.bilibili.com/122989580){target="_blank"}
-`（未来将不定期更新，包括但不限于游戏）`
+`（未来将不定期更新，不仅限于游戏）`
 
 3. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
 __YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg){target="_blank"}

@@ -152,6 +152,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - about/sponsor/index.md
       - about/joining-us/index.md
       - about/supported-platforms/index.md
+      - about/readme/index.md
       - about/download/index.md
 
 i18n:

@@ -4,9 +4,9 @@ title: 路线图
 
 > 主要包括对未来的目标及开发进度。
 
-:octicons-versions-16: 当前版本：v2.1.0 beta
+:octicons-versions-16: 当前版本：v2.1.1 beta
 
-:octicons-versions-16: 下一版本：v2.1.1 beta
+:octicons-versions-16: 下一版本：v2.1.2 beta
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 

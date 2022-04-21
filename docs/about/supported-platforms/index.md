@@ -26,5 +26,9 @@ title: 支持的平台
 
         [:material-download: vc运行库32位](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }
 
+!!! warning "特别注意"
+
+    部分设备进入游戏会黑屏，暂时无法解决。
+
 [^1]: 若想用户不越狱安装，需注册Apple开发者账号（100$/年），当然有其他方法，限制多且麻烦。
 [^2]: 暂无可用的设备测试。

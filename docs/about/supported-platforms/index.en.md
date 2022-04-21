@@ -27,3 +27,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
         [:material-download: vc redist 64-bit](https://aka.ms/vs/17/release/vc_redist.x64.exe){ .md-button }
 
         [:material-download: vc redist 32-bit](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }
+
+!!! warning
+
+    Screen goes black when playing games on some devices, which cannot be solved temporarily.

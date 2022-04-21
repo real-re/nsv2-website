@@ -14,6 +14,8 @@ title: 下载
 | Android |      armeabi-v7a       |   :octicons-x-circle-16:   |
 | Windows |          x86           |   :octicons-x-circle-16:   |
 
+下在链接[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}
+
 !!! tip "提示"
 
     :octicons-x-circle-16: : 未支持

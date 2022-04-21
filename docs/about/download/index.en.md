@@ -14,6 +14,8 @@ title: Download
 |  Android  |          armeabi-v7a           |   :octicons-x-circle-16:    |
 |  Windows  |              x86               |   :octicons-x-circle-16:    |
 
+Google Drive: [click here](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing)
+
 !!! tip
 
     :octicons-x-circle-16: : unsupported

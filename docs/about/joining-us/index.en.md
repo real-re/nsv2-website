@@ -32,4 +32,4 @@ Not to your taste, see below 👇.
 In the future, some `tasks` such as voting statistics,
 will be released in the game forum (in deployment) from time to time, and everyone can contribute freely.
 
-You can also fork this [repo](https://github.com/naruto-senki/docs){target="_blank"} on GitHub and write.
+You can also fork this [repo](https://github.com/real-re/nsv2-website){target="_blank"} on GitHub and write.

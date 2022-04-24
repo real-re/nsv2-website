@@ -2,15 +2,15 @@
 site_name: Naruto Senki - V2
 site_author: Re
 site_url: https://game.naruto.re/
-edit_uri: https://github.com/naruto-senki/docs/edit/main/docs/
+edit_uri: https://github.com/real-re/nsv2-website/edit/main/docs/
 
 # Deployment
 remote_name: origin
 remote_branch: gh-pages
 
 # Repository
-repo_name: naruto-senki/docs
-repo_url: https://github.com/naruto-senki/docs
+repo_name: real-re/nsv2-website
+repo_url: https://github.com/real-re/nsv2-website
 
 # Copyright
 copyright: Copyright &copy; 2022 Re | We will always stand with you, never stop and keep going.

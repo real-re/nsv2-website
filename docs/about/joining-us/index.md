@@ -31,4 +31,4 @@ Hi，如果你想帮助我们更快且高质量的完成工作 !
 
 你也可以在论坛内向我们提出你的想法、修改意见等。
 
-也可以在GitHub上fork此[项目](https://github.com/naruto-senki/docs){target="_blank"}，参与网站的撰写。
+也可以在GitHub上fork此[网站项目](https://github.com/real-re/nsv2-website){target="_blank"}，参与网站的撰写。

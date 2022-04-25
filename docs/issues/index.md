@@ -322,3 +322,6 @@ template: issues.html
 
     相同问题 #73。
 
+!!! bug "76. 在克隆模式击杀会错误算到其他角色身上"
+
+    <font color=#FF5252>【待修复】</font>

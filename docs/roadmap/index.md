@@ -12,6 +12,8 @@ title: 路线图
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 
+`本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
+
 ## 下一版
 
 > 此项涵盖了下一测试版至下一正式版之间的所有新内容（不定时更新）。

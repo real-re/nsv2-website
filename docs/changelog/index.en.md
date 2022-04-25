@@ -14,6 +14,7 @@ title: Changelog
 
 - 🚀Changed
     - Auto restores `800` HP near the inner tower
+    - `Kakuzu` uses skill 1 to increase attack power limited to 15 times
 
 - ⚡️Improved
     - improved 1v1 menu sound playback
@@ -27,6 +28,7 @@ title: Changelog
     - fixed multiple BGM playback bugs
     - fixed missing `Kimimaro` intro sound
     - fixed no sound was playing when a character was using ougi 2
+    - fixed players being able to use skills when the game is not started
     - fixed characters not automatically recovering near the inner tower
     - PC: fixed numerous character bugs since v1.1.0
     - PC: fixed the attack button was not released when leaving the gear shop

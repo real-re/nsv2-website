@@ -62,8 +62,6 @@ theme:
   icon:
     logo: logo
     logo_url: https://s1.ax1x.com/2022/04/16/LJGHeS.png
-  pymdownx:
-    sponsor: https://game.naruto.re/about/sponsor
 
 # Customization
 extra:

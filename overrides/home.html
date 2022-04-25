@@ -142,6 +142,7 @@
 
       <!-- Get current language by url -->
       {% set lang='en' if i18n_page_locale not in config.i18n else i18n_page_locale %}
+      {% set url_head='' if lang == 'zh' else lang+'/' %}
       {% set i18n=config.i18n[lang] %}
       {% set home=config.i18n[lang].home %}
       <!-- Hero content -->
@@ -157,7 +158,7 @@
         <a href="{{ page.next_page.url | url }}" class="md-button md-button--primary">
           {{ home.start_btn }}
         </a>
-        <a href="{{ 'about/sponsor' | url }}" class="md-button">
+        <a href="{{ url_head + 'about/sponsor' | url }}" class="md-button">
           {{ home.sponsor_btn }}
         </a>
       </div>

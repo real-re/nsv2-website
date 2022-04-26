@@ -6,7 +6,7 @@ title: Changelog
 
     Please contact <hi@naruto.re>.
 
-## v2.1.1 <small>[beta] 2022-4-25</small> { id="v211" }
+## v2.1.1 <small>[beta] 2022-4-??</small> { id="v211" }
 
 - 🔥New
     - Mobile: Supports automatic checking for upgrades

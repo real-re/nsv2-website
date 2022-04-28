@@ -9,12 +9,13 @@ title: Changelog
 ## v2.1.1 <small>[beta] 2022-4-29</small> { id="v211" }
 
 - 🔥New
-    - UI: Use the new game mode UI `(Made by 乾癟之手)`
-    - Mobile: Supports automatic checking for upgrades
-    - PC: Support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls)
+    - UI: use the new game mode UI `(Made by 乾癟之手)`
+    - Mobile: supports automatic checking for upgrades
+    - PC: support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls)
+    - PC: clicking the `News` button will open this page with default browser on Linux
 
 - 🚀Changed
-    - Auto restores `800` HP near the inner tower
+    - auto restores `800` HP near the inner tower
     - `Kakuzu` uses skill 1 to increase attack power limited to 15 times
 
 - ⚡️Improved
@@ -40,7 +41,7 @@ title: Changelog
 - 🔥New
     - support Windows 64-bit
     - PC: support use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)
-    - Click **News** button to open our website on Android and Windows
+    - click the `News` button to open our website on Android and Windows
     - UI: add mode selection interface
     - add 1v1, 4v4 and Clone modes
     - rejoin Pain, Orochimaru and Kimimaro `(Thanks Hausumasuta for providing AI)`

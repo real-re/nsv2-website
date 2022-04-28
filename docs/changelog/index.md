@@ -16,6 +16,7 @@ title: 更新日志
     - UI：应用全新的`游戏模式`界面`（由乾癟之手创作）`
     - 移动端：支持自动检查更新和手动下载
     - PC：支持[自定义按键](../game-guides/platform/pc/index.md#custom-keyboard-controls)
+    - PC：在Linux上点击`News`按钮将直接使用浏览器打开本页面
 
 - 🚀变更
     - 内塔附近自动回血修正为`800`点
@@ -61,7 +62,7 @@ title: 更新日志
 - 🔥新特性
     - 支持 Windows 64位
     - PC：支持++f11++键[切换窗口大小](../game-guides/platform/pc/index.md#switch-window)
-    - 安卓和Windows可以通过游戏内的 **News** 按钮访问官方啦
+    - 安卓和Windows可以通过游戏内的`News`按钮访问游戏更新日志
     - UI：增加模式选择界面
     - 加入1v1、4v4和克隆模式
     - 加入旧版角色佩恩、大蛇丸和君麻吕`（感谢萌姐（hausumasuta）提供AI）`

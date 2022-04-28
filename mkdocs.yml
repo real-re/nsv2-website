@@ -137,7 +137,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       # - game-guides/glossary/index.md
   - 维基百科:
       - wiki/history.md
-      - wiki/character.md
+      - wiki/characters.md
   - 路线图:
       - roadmap/index.md
   - 问题汇总:

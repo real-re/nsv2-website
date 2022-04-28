@@ -6,9 +6,10 @@ title: Changelog
 
     Please contact <hi@naruto.re>.
 
-## v2.1.1 <small>[beta] 2022-4-??</small> { id="v211" }
+## v2.1.1 <small>[beta] 2022-4-29</small> { id="v211" }
 
 - 🔥New
+    - UI: Use the new game mode UI `(Made by 乾癟之手)`
     - Mobile: Supports automatic checking for upgrades
     - PC: Support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls)
 
@@ -39,7 +40,7 @@ title: Changelog
 - 🔥New
     - support Windows 64-bit
     - PC: support use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)
-    - Click **News** button to open our [website](https://game.naruto.re) on Android and Windows
+    - Click **News** button to open our website on Android and Windows
     - UI: add mode selection interface
     - add 1v1, 4v4 and Clone modes
     - rejoin Pain, Orochimaru and Kimimaro `(Thanks Hausumasuta for providing AI)`

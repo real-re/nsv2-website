@@ -14,18 +14,18 @@ title: Changelog
     - PC: support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls)
     - PC: clicking the `News` button will open this page with default browser on Linux
 
-- 🚀Changed
+- 🚀Changes
     - auto restores `800` HP near the inner tower
     - `Kakuzu` uses skill 1 to increase attack power limited to 15 times
 
-- ⚡️Improved
+- ⚡️Improvements
     - improved 1v1 menu sound playback
     - `AI Shikamaru` using ougi 2 may not hit
     - `AI Nagato` can use skill 2 without limitation
     - `AI Nagao` skill 1 can respawn himself
     - `AI Nagao` uses skill 1 even when no allies are killed
 
-- 🐞Fixed
+- 🐞Fixes
     - fixed character selection menu UI
     - fixed multiple BGM playback bugs
     - fixed missing `Kimimaro` intro sound
@@ -46,16 +46,16 @@ title: Changelog
     - add 1v1, 4v4 and Clone modes
     - rejoin Pain, Orochimaru and Kimimaro `(Thanks Hausumasuta for providing AI)`
 
-- 🚀Changed
+- 🚀Changes
     - UI: add more return buttons on PC
     - PC: removed arrow keys to control characters
 
-- ⚡️Improved
+- ⚡️Improvements
     - improved character and audio preloading
     - all audio and sound under control by mute button
     - UI: reduce interface animation duration
 
-- 🐞Fixed
+- 🐞Fixes
     - no more audio problems
     - fixed a Logo audio playback issue
     - PC: fixed some keyboard issues
@@ -72,7 +72,7 @@ title: Changelog
     - support Windows 32-bit
     - support Linux 64-bit (incomplete)
 
-- 🚀Changed
+- 🚀Changes
     - UI: support widescreen devices
     - UI: new layout to support desktop
     - map background supports widescreen devices

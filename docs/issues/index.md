@@ -51,6 +51,14 @@ template: issues.html
 
 <div name='issue-stats'></div>
 
+
+## v2.1.1 已知问题
+
+!!! bug "模式选择界面不规则按钮触控会有问题"
+
+    下个版本修复。
+
+
 ## v2.1.0 已知问题
 
 !!! success "1. 选人界面人物语音播放不完全，像是被掐断一样"

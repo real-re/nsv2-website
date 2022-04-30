@@ -31,6 +31,7 @@ title: Changelog
     - fixed multiple BGM playback bugs
     - fixed missing `Kimimaro` intro sound
     - fixed no sound was playing when a character was using ougi 2
+    - fixed no kill reward in clone mode
     - fixed players being able to use skills when the game is not started
     - fixed characters not automatically recovering near the inner tower
     - PC: fixed numerous character bugs since v1.1.0

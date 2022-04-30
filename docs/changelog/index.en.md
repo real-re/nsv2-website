@@ -26,6 +26,7 @@ title: Changelog
     - `AI Nagao` uses skill 1 even when no allies are killed
 
 - 🐞Fixes
+    - fixed some image wrong positions
     - fixed character selection menu UI
     - fixed multiple BGM playback bugs
     - fixed missing `Kimimaro` intro sound

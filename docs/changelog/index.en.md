@@ -22,8 +22,8 @@ title: Changelog
     - improved 1v1 menu sound playback
     - `AI Shikamaru` using ougi 2 may not hit
     - `AI Nagato` can use skill 2 without limitation
-    - `AI Nagao` skill 1 can respawn himself
     - `AI Nagao` uses skill 1 even when no allies are killed
+    - `Nagao` skill 1 can respawn himself
 
 - 🐞Fixes
     - fixed some image wrong positions

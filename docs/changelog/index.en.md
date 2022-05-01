@@ -6,7 +6,7 @@ title: Changelog
 
     Please contact <hi@naruto.re>.
 
-## v2.1.1 <small>[beta] 2022-5-1</small> { id="v211" }
+## v2.1.1 <small>[beta] 2022-5-2</small> { id="v211" }
 
 - 🔥New
     - UI: use the new game mode UI `(Made by 乾癟之手)`

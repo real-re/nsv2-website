@@ -14,7 +14,6 @@ var successNum = 0;
 var bugNum = 0;
 var questionNum = 0;
 var failureNum = 0;
-var unknownNum = 0;
 
 const DIRECT_LINK = 'https://github.com/_/_/issues/';
 const ISSUES_LINK = '#';
@@ -45,7 +44,6 @@ for (var i = 0; i < issues.length; i++) {
         case 'bug': bugNum++; break;
         case 'question': questionNum++; break;
         case 'failure': failureNum++; break;
-        default: unknownNum++; break;
     }
 }
 // insert issue statistic
@@ -57,14 +55,12 @@ if (issues != undefined) {
         "<th>{{ issue.bug }}</th>" +
         "<th>{{ issue.question }}</th>" +
         "<th>{{ issue.failure }}</th>" +
-        "<th>{{ issue.unknown }}</th>" +
         "</tr></thead><tbody>" +
         "<tr><td>" + totalNum + "</td>" +
         "<td>" + successNum + "</td>" +
         "<td>" + bugNum + "</td>" +
         "<td>" + questionNum + "</td>" +
         "<td>" + failureNum + "</td>" +
-        "<td>" + unknownNum + "</td></tr>" +
         "</tbody></table>";
 }
 </script>

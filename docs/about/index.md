@@ -72,8 +72,6 @@ email: hi@naruto.re
     切勿提及其他破解美化之类的游戏及平台等，这些导致曾经的火战完结，
     所以管理员会针对引发此类问题的人`无情打击`。
 
-    `未经他人苦，莫劝他人善。`
-
 ### Discord
 
 <a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/768961957990367232?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord 服务器" /></a>

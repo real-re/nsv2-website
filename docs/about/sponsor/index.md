@@ -25,10 +25,6 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 | https://afdian.net/@real_re | | |
 | ![爱发电](../../assets/img/afdian-Re.jpg) | ![微信](../../assets/img/wx_pay.png) | ![支付宝](../../assets/img/ali_pay.png) |
 
-| :fontawesome-brands-paypal:ayPal |
-| :---: |
-| [paypal.me/SponsorRe](https://paypal.me/SponsorRe) |
-
 !!! hint ""
 
     如果您以非个人形式进行赞助，请联系<hi@naruto.re>。

@@ -20,9 +20,9 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 ## H:heart:{ .heart }w ? { id="how" }
 
-|          :fontawesome-brands-paypal:ayPal          |
-| :------------------------------------------------: |
-| [paypal.me/SponsorRe](https://paypal.me/SponsorRe) |
+|             Patreon             | :fontawesome-brands-paypal:ayPal |
+| :-----------------------------: | :------------------------------: |
+| https://www.patreon.com/real_re |          (Comming soon)          |
 
 |      :love_you_gesture_tone2:afdian       |        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |
 | :---------------------------------------: | :--------------------------------------------: | :-------------------------------------: |

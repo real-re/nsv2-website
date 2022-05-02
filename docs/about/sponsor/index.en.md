@@ -21,13 +21,12 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 ## H:heart:{ .heart }w ? { id="how" }
 
 | Patreon | :fontawesome-brands-paypal:ayPal |
-| :---: | :------------------------------: |
+| :---: | :---: |
 | <a href="https://www.patreon.com/bePatron?u=38469649" data-patreon-widget-type="become-patron-button">Become a Patron!</a> | (Comming soon) |
 
-|      :love_you_gesture_tone2:afdian       |        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |
-| :---------------------------------------: | :--------------------------------------------: | :-------------------------------------: |
-|        https://afdian.net/@real_re        |                                                |                                         |
-| ![afdian](../../assets/img/afdian-Re.jpg) | ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) |
+|        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |
+| :--------------------------------------------: | :-------------------------------------: |
+| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) |
 
 ## Where:confused: ?
 

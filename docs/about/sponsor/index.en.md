@@ -20,9 +20,9 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 ## H:heart:{ .heart }w ? { id="how" }
 
-|                    Patreon                     | :fontawesome-brands-paypal:ayPal |
-| :--------------------------------------------: | :------------------------------: |
-| (Comming soon) https://www.patreon.com/real_re |          (Comming soon)          |
+| Patreon | :fontawesome-brands-paypal:ayPal |
+| :---: | :------------------------------: |
+| <a href="https://www.patreon.com/bePatron?u=38469649" data-patreon-widget-type="become-patron-button">Become a Patron!</a> | (Comming soon) |
 
 |      :love_you_gesture_tone2:afdian       |        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |
 | :---------------------------------------: | :--------------------------------------------: | :-------------------------------------: |
@@ -50,3 +50,5 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
     3. 在未来发布稳定版本后，可以获得先行版体验反馈权限，体验最新推出的功能等。
 
     其他的后续在加吧。
+
+<script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>

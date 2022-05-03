@@ -51,6 +51,10 @@ template: issues.html
 
 <div name='issue-stats'></div>
 
+!!! hint "PC端玩家请确保游戏你的游戏路径不包含中文"
+
+    否则可能会导致游戏闪退。
+
 !!! warning "目前以下bug影响较大，望周知"
 
     截至今日，系统收集到多种情况会导致游戏闪退，具体原因还在排查中，等待后续逐步修复。

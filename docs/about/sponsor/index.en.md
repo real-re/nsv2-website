@@ -24,9 +24,9 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 | :---: | :---: |
 | <a href="https://www.patreon.com/bePatron?u=38469649" data-patreon-widget-type="become-patron-button">Become a Patron!</a> | (Comming soon) |
 
-|        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |
-| :--------------------------------------------: | :-------------------------------------: |
-| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) |
+|        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |      :love_you_gesture_tone2:afdian      |
+| :--------------------------------------------: | :-------------------------------------: | :--------------------------------------: |
+| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) | https://afdian.net/@real_re (deprecated) |
 
 ## Where:confused: ?
 

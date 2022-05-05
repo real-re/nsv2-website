@@ -66,6 +66,8 @@ template: issues.html
     * 丁次
     * 水门
 
+    __如果你无法进行游戏或没有较好的体验，可以在火影战记的官方[QQ群](../about/index.md#contact)里找到其他官方成员的版本。__
+
 
 ## v2.1.1 已知问题
 

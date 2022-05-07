@@ -41,6 +41,9 @@ use ++f11++ to swtich the window size:
 
 !!! warning
 
+    Using the `News` button to open our game website may
+    give incorrect webview display after switching windows on Windows.
+
     In some Linux, switching window sizes can cause UI position issues,
 
     you can modify the `script/window.lua` file to achieve the same effect.

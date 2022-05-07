@@ -41,6 +41,8 @@ title: PC端
 
 !!! warning "警告"
 
+    在Windows上，切换窗口后再使用`News`按钮打开官网，可能会导致网页窗口显示问题。
+
     在某些Linux发行版上，切换窗口可能导致UI位置错误，可以修改`script/window.lua`文件内的窗口参数达到相同效果。
 
 ### 自定义按键 { id="custom-keyboard-controls" }

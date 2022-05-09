@@ -132,12 +132,11 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - game-guides/index.md
       - game-guides/platform/mobile/index.md
       - game-guides/platform/pc/index.md
-      # TODO
-      # - game-guides/characters/index.md
-      # - game-guides/glossary/index.md
   - 维基百科:
       - wiki/history.md
       - wiki/characters.md
+      # - wiki/items.md
+      # - wiki/glossary.md
   - 路线图:
       - roadmap/index.md
   - 问题汇总:
@@ -157,7 +156,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
 i18n:
   zh:
     site_description: 快速了解游戏玩法及更多信息。
-    theme: # TODO
+    theme: # TODO: support localization
       - light_btn: 切换至夜间模式
       - dark_btn: 切换至日间模式
     home:

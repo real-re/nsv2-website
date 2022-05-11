@@ -105,7 +105,7 @@ Zakume，Ojima，Blackisle，Hausumasuta，jinyu，chiyan
 <script>
 Waline({
   el: '#waline',
-  serverURL: 'https://waline-ivory-three.vercel.app',
+  serverURL: 'https://mb.naruto.re',
   visitor: true,
   emoji: [
     'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',

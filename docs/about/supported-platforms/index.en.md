@@ -9,7 +9,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 | Android  | Minimum Android 4.2.2 (armeabi-v7a & arm64-v8a) | Android 12.0                   |
 | Windows  | 64-bit                                          | Windows 10 64-bit `19044.1620` |
 | Linux    | 64-bit (requires gtk3)                          | Manjaro Linux 5.17 64-bit      |
-| IOS      | untested (comming soon, jailbreak required)     |                                |
+| IOS      | untested (comming soon)                         |                                |
 | Mac      | untested (comming soon)                         |                                |
 
 !!! hint "Windows user"
@@ -19,7 +19,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 
         [:material-download: MSVBCRT.AIO](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
-    2. If you already have the old redist package installed,
+    1. If you already have the old redist package installed,
     you can just download the following packages.
 
         `For windows 64-bit, it's recommended to install both of the following.`

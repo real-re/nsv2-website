@@ -163,6 +163,7 @@ i18n:
       title: "火影战记: V2的中文文档及更多信息"
       start_btn: 快速开始
       sponsor_btn: 成为赞助者
+      download_btn: 下载
     issue:
       total: 总数
       success: 已解决
@@ -178,6 +179,7 @@ i18n:
       title: "Documentation for Naruto Senki: V2 and more"
       start_btn: Quick start
       sponsor_btn: Become a sponsor
+      download_btn: Download
     issue:
       total: Total
       success: Done

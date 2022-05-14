@@ -135,7 +135,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
   - 维基百科:
       - wiki/history.md
       - wiki/characters.md
-      # - wiki/items.md
+      - wiki/items.md
       # - wiki/glossary.md
   - 路线图:
       - roadmap/index.md

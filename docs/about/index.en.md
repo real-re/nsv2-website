@@ -61,7 +61,7 @@ Our WeChat Official Account: Naruto-Senki `(火影战记V2)`
 
 Naruto Senki: V2 Official QQ group: [806656456](https://jq.qq.com/?_wv=1027&k=8XMaykQb) (only for reporting bugs)
 
-Naruto Senki Official QQ group 2: 614496214
+Naruto Senki Official QQ group 2: 614496214 (full)
 
 Naruto Senki Official QQ group 3: 877960167
 

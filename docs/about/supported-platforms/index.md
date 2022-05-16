@@ -10,7 +10,7 @@ title: 支持的平台
 | Windows | 64位系统                                     | Windows 10 64位 `19044.1620` |
 | Linux   | 64位系统（需要安装gtk3）                     | Manjaro Linux 5.17 64位      |
 | IOS     | 未测试（未来发布）                           |                              |
-| Mac     | 未测试（未来发布[^1]）                       |                              |
+| Mac     | 未测试（未来发布）                           |                              |
 
 !!! hint "Windows用户"
 
@@ -25,9 +25,3 @@ title: 支持的平台
         [:material-download: vc运行库64位](https://aka.ms/vs/17/release/vc_redist.x64.exe){ .md-button }
 
         [:material-download: vc运行库32位](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }
-
-!!! warning "特别注意"
-
-    部分设备进入游戏会黑屏，暂时无法解决。
-
-[^1]: 暂无可用的设备测试。

@@ -89,17 +89,18 @@ Zakume, Ojima, Blackisle, Hausumasuta, 乾癟之手, 缘消, etc.__
 
 ---
 
-<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
+<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
 <div id="waline"></div>
 <script>
-Waline({
+Waline.init({
   el: '#waline',
   serverURL: 'https://mb.naruto.re',
-  visitor: true,
+  pageview: true,
   emoji: [
-    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
-    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
-    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+    '//unpkg.com/@waline/emojis@1.0.1/tw-emoji',
+    '//unpkg.com/@waline/emojis@1.0.1/bilibili',
+    '//unpkg.com/@waline/emojis@1.0.1/tieba',
   ],
   lang: 'en',
 });

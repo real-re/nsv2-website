@@ -17,10 +17,3 @@ title: Download
 Google Drive: [click here](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
 
 GitHub Mirror: [click here](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
-
-!!! tip
-
-    :octicons-x-circle-16: : unsupported
-
-
-

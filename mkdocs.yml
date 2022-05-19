@@ -114,6 +114,8 @@ markdown_extensions:
   # - pymdownx.progressbar
   - pymdownx.saneheaders
   - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      base_path: docs
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -148,6 +150,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
   - 关于:
       - about/index.md
       - about/sponsor/index.md
+      - about/our-backer/index.md
       - about/joining-us/index.md
       - about/supported-platforms/index.md
       - about/readme/index.md

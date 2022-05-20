@@ -135,6 +135,7 @@
 * `2022-05-19` 真的会谢 - :material-currency-cny:2.00
 * `2022-05-19` ねんとした姿 - :material-currency-cny:0.50
 * `2022-05-20` 大国风范-叶天 - :material-currency-cny:10.0
+* `2022-05-20` *tty-Pine - :material-currency-cny:10.0
 
 ## Bilibili直播
 

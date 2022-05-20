@@ -38,7 +38,7 @@
 * `2022-05-04` **雨 - :material-currency-cny:7.00
 * `2022-05-04` J日薄锡山 - :material-currency-cny:54.00
 * `2022-05-04` 墨者 - :material-currency-cny:18.00 `加油＾０＾~`
-* `2022-05-04` *翔 - :material-currency-cny:00.00
+* `2022-05-04` *翔 - :material-currency-cny:100.00
 * `2022-05-04` **宇 - :material-currency-cny:15.00
 * `2022-05-04` van - :material-currency-cny:20.00
 * `2022-05-04` ***_V3Wf - :material-currency-cny:6.00 `金额不多，但是是心意，希望越来越好。`
@@ -53,7 +53,7 @@
 * `2022-05-04` 由心而动者 - :material-currency-cny:1.00 `这是为了火影战记`
 * `2022-05-05` 断空 - :material-currency-cny:5.00
 * `2022-05-05` ***_rPdS - :material-currency-cny:100.00 `感谢你一直以来的努力`
-* `2022-05-05` **龙 - :material-currency-cny:00.00
+* `2022-05-05` **龙 - :material-currency-cny:100.00
 * `2022-05-05` ***_947G - :material-currency-cny:10.00 `给童年的回忆个交代`
 * `2022-05-05` 张什么的 - :material-currency-cny:20.00
 * `2022-05-05` 愉悦 - :material-currency-cny:211.00 `坚持下去吧`
@@ -71,7 +71,7 @@
 * `2022-05-09` 小芒--- - :material-currency-cny:4.03
 * `2022-05-09` 镜之的彼岸 - :material-currency-cny:1.34
 * `2022-05-09` 镜之的彼岸 - :material-currency-cny:64.85
-* `2022-05-10` **宁 - :material-currency-cny:00.00
+* `2022-05-10` **宁 - :material-currency-cny:100.00
 * `2022-05-10` 终焉 - :material-currency-cny:18.00
 * `2022-05-10` Zzzzzz - :material-currency-cny:99.00 `加油！`
 * `2022-05-10` 不成猛男不改名 - :material-currency-cny:10.00 `支持，别放弃`
@@ -136,6 +136,16 @@
 * `2022-05-19` ねんとした姿 - :material-currency-cny:0.50
 * `2022-05-20` 大国风范-叶天 - :material-currency-cny:10.0
 * `2022-05-20` *tty-Pine - :material-currency-cny:10.0
+* `2022-05-20` 志爱 - :material-currency-cny:6.00
+* `2022-05-20` 真嗣 - :material-currency-cny:6.00
+* `2022-05-20` 椿 - :material-currency-cny:1.00
+* `2022-05-20` 旺柴 - :material-currency-cny:5.20
+* `2022-05-20` 修己 - :material-currency-cny:0.52
+* `2022-05-20` 我永远喜欢露西亚 - :material-currency-cny:5.20
+* `2022-05-20` 修己 - :material-currency-cny:5.20
+* `2022-05-20` 大国风范-叶天 - :material-currency-cny:5.2
+* `2022-05-20` 真嗣 - :material-currency-cny:10.00
+* `2022-05-20` ， - :material-currency-cny:8.80
 
 ## Bilibili直播
 

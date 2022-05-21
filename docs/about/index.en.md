@@ -63,7 +63,9 @@ Naruto Senki: V2 Official QQ group: [806656456](https://jq.qq.com/?_wv=1027&k=8X
 
 Naruto Senki Official QQ group 2: 614496214 (full)
 
-Naruto Senki Official QQ group 3: 877960167
+Naruto Senki Official QQ group 3: 877960167 (full)
+
+Naruto Senki Official QQ group 4: 566206461
 
 ## Copyright
 

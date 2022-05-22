@@ -148,7 +148,7 @@
 * `2022-05-20` ， - :material-currency-cny:8.80
 * `2022-05-20` 秘 技 包 子 - :material-currency-cny:2.00 `火战加油！`
 * `2022-05-21` Uchiha Partick Star - :material-currency-cny:18.88 `请一定加油！`
-* `2022-05-21` ㅤ - :material-currency-cny:5.21 `助力火战_橘子味的貓`
+* `2022-05-21` ㅤ - :material-currency-cny:5.21 `助力火战`
 * `2022-05-22` 锋锋 - :material-currency-cny:5.00
 * `2022-05-22` 千 - :material-currency-cny:15.00 `作者大大加油鸭！！`
 * `2022-05-22` 杰身自好 - :material-currency-cny:5.00

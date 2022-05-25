@@ -80,7 +80,6 @@ extra:
 
 extra_css:
   - assets/css/extra.css
-  - assets/css/hint.min.css
 
 # Extensions
 markdown_extensions:

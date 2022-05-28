@@ -29,7 +29,7 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 | :material-wechat:微信 | :fontawesome-brands-alipay:付宝 | :love_you_gesture_tone2:发电 |
 | :---: | :---: | :---: |
-| ![微信](../../assets/img/wx_pay.png) | ![支付宝](../../assets/img/ali_pay.png) | https://afdian.net/@real_re（即将弃用） |
+| ![微信](../../assets/img/wx_pay.png) | ![支付宝](../../assets/img/ali_pay.png)[一键到达](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } | https://afdian.net/@real_re（即将弃用） |
 
 | Patreon | :fontawesome-brands-paypal:ayPal |
 | :---: | :---: |

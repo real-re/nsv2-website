@@ -33,7 +33,7 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 |        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |      :love_you_gesture_tone2:afdian      |
 | :--------------------------------------------: | :-------------------------------------: | :--------------------------------------: |
-| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png) | https://afdian.net/@real_re (deprecated) |
+| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png)[Open App](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } | https://afdian.net/@real_re (deprecated) |
 
 ## Where:confused: ?
 

@@ -7,8 +7,8 @@ title: Download
 |  Android  |           Generally            |                             |
 |  Windows  |              x64               |                             |
 |   Linux   |              x64               |                             |
-|    IOS    |     :octicons-x-circle-16:     |   :octicons-x-circle-16:    |
-|    Mac    |     :octicons-x-circle-16:     |   :octicons-x-circle-16:    |
+|    iOS    |     :octicons-x-circle-16:     |   :octicons-x-circle-16:    |
+|   macOS   |              x64               |                             |
 |     -     |               -                |              -              |
 |  Android  |           arm64-v8a            |   :octicons-x-circle-16:    |
 |  Android  |          armeabi-v7a           |   :octicons-x-circle-16:    |

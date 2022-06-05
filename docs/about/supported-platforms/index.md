@@ -9,8 +9,8 @@ title: 支持的平台
 | Android | 最低运行系统4.2.2（armeabi-v7a & arm64-v8a） | 安卓 12.0               |
 | Windows | 64位系统                                     | Windows 11 64位         |
 | Linux   | 64位系统（需要安装gtk3）                     | Manjaro Linux 5.17 64位 |
-| IOS     | 未测试（未来发布）                           |                         |
-| Mac     | 未测试（未来发布）                           |                         |
+| iOS     | 测试通过（未来发布）                         |                         |
+| macOS   | 64位系统                                     | macOS 12.1 64位         |
 
 !!! hint "Windows用户"
 

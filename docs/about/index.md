@@ -35,14 +35,14 @@ title: 关于作者
 
 2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
 __Bilibili__[ 频道 - _____Re](https://space.bilibili.com/122989580){target="_blank"}
-`（未来将不定期更新，不仅限于游戏）`
+`（定期更新和直播，不仅限于游戏）`
 
 3. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
 __YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg){target="_blank"}
 
 ## 联系方式 { id="contact" }
 
-> QQ群人数有限，建议订阅公众号，同步获取最新动态。
+> QQ群人数有限，可以关注我的B站频道或者订阅公众号，同步获取最新动态。
 
 email: hi@naruto.re
 
@@ -60,14 +60,14 @@ email: hi@naruto.re
 
 火影战记 官方QQ ③群: 877960167（满）
 
-火影战记 官方QQ ④群: 566206461
+火影战记 官方QQ ④群: 566206461（满）
 
-火影战记V2 官方QQ群: [806656456](https://jq.qq.com/?_wv=1027&k=8XMaykQb)（备用）
+火影战记 官方QQ ⑤群: 482082627
 
 !!! tip "温馨提示"
 
     火影战记的官方群均为2000人，由专人每年花费大笔金钱维护，
-    大家要主动避免加入到多个群组，V2群仅作备用。
+    大家要主动避免加入到多个群组。
 
     进群请严格遵守群规，阅读公告及翻阅`群文件`内的`在线文档`，
     共建美好和谐的玩家交流环境，人人有责。`（通常只需加入一个交流群即可）`
@@ -75,7 +75,7 @@ email: hi@naruto.re
     部分交流群，管理严格且限制部分人员加入，请玩家注意发言，切勿提及公告所示的`雷区`。
 
     切勿提及其他破解美化之类的游戏及平台等，这些导致曾经的火战完结，
-    所以管理员会针对引发此类问题的人`无情打击`。
+    所以管理员会针对触犯此类问题的人`无情打击`。
 
 ### Discord
 
@@ -99,7 +99,7 @@ __若玩家发现以上行为，请即时与开发团队联系，共同维护美
 
 ## 特别感谢
 
-__特别感谢 Neimad，Zoso，benhazard，曹黎晟,
+__特别感谢 Neimad，Zoso，benhazard，曹黎晟，
 Zakume，Ojima，Blackisle，Hausumasuta，乾癟之手，缘消
 和其他做出贡献的人。__
 

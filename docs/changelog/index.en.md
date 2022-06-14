@@ -6,6 +6,7 @@ title: Changelog
 
     Please contact <hi@naruto.re>.
 
+
 ## v2.1.1 <small>[beta] 2022-5-2</small> { id="v211" }
 
 - 🔥New
@@ -20,9 +21,7 @@ title: Changelog
 
 - ⚡️Improvements
     - improved 1v1 menu sound playback
-    - `AI Shikamaru` using ougi 2 may not hit
-    - `AI Nagato` can use skill 2 without limitation
-    - `AI Nagato` uses skill 1 even when no allies are killed
+    - `Shikamaru AI` using ougi 2 may not hit
     - `Nagato` skill 1 can respawn himself
 
 - 🐞Fixes
@@ -72,9 +71,12 @@ title: Changelog
 - 🔥New
     - support Android 11.0
     - support Windows 32-bit
-    - support Linux 64-bit (incomplete)
+    - support Linux 64-bit
 
 - 🚀Changes
     - UI: support widescreen devices
     - UI: new layout to support desktop
     - map background supports widescreen devices
+
+- 🐞Fixes
+    - fixed hp value could be negative when character dies

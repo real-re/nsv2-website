@@ -4,13 +4,18 @@ title: Supported Platforms
 
 Platforms supported by the latest version of **Naruto Senki: V2**：
 
-| Platform | System Requirements                           | Tested                    |
-| -------- | --------------------------------------------- | ------------------------- |
-| Android  | Minimum Android 4.4 (armeabi-v7a & arm64-v8a) | Android 12.0              |
-| Windows  | 64-bit                                        | Windows 11 64-bit         |
-| Linux    | 64-bit (requires gtk3)                        | Manjaro Linux 5.17 64-bit |
-| iOS      | test succeeded (comming soon)                 |                           |
-| macOS    | 64-bit                                        | macOS 12.1 64-bit         |
+| Platform | System Requirements | Tested                    |
+| -------- | ------------------- | ------------------------- |
+| Android  | Minimum Android 4.4 | Android 12.0              |
+| Windows  | 64-bit              | Windows 11 64-bit         |
+| Linux    | 64-bit              | Manjaro Linux 5.17 64-bit |
+| iOS      | comming soon        |                           |
+| macOS    | 64-bit              | macOS 12.1 64-bit         |
+
+
+!!! hint "Android user"
+
+    `armeabi-v7a` and `arm64-v8a` architectures are supported.
 
 !!! hint "Windows user"
 
@@ -28,6 +33,16 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 
         [:material-download: vc redist 32-bit](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }
 
-!!! warning
+!!! hint "Linux user"
 
-    Screen goes black when playing games on some devices, which cannot be solved temporarily.
+    requires `gtk3`.
+
+    Maybe some Linux distributions don't use `PulseAudio` to play audio,
+    then you should install `PulseAudio` manually.
+
+    If you cannot run the game, please run the command `ldd ./NarutoSenki` in game root directory
+    to display all dependencies and install all missing dependencies manually.
+
+!!! hint "iOS user"
+
+    Jailbreak required.

@@ -46,7 +46,7 @@ use ++f11++ to swtich the window size:
 
     In some Linux, switching window sizes can cause UI position issues,
 
-    you can modify the `script/window.lua` file to achieve the same effect.
+    you can modify the `input.ini` file to achieve the same effect.
 
 ### Custom keyboard controls
 

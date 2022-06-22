@@ -21,9 +21,3 @@ title: 下载
 GitHub镜像：[click here](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
 
 Google Drive：[click here](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
-
-!!! question "为什么一个app会分出多个架构的版本？"
-
-    在移动端，只选择对应架构的app，可以减少10-30+MB的大小，且同时[蓝奏云](https://lanzou.com)有100MB上传限制。
-
-    （缺点是app在传输至不支持此架构的设备上将无法运行，此时应选择通用版本，即包含了所有架构的app）

@@ -10,7 +10,16 @@ title: 更新日志
 
     PC端：指Windows、Linux和macOS平台。
 
-> 已知问题，前往[问题汇总](../issues/index.md)查看。
+!!! error "重要说明"
+
+    __本游戏只在Re的[B站 _____Re](https://space.bilibili.com/122989580){target="_blank"}、
+    官网及火影战记官方QQ群内发布更新。__
+
+    如果你是从其他渠道下载本游戏，
+
+    __请确保不要被欺骗等其他方式损失你的钱财，__
+
+    如果你的设备出现任何错误、BUG将与本团队无关。
 
 
 ## v2.1.3 <small>[beta] 2022-7-？</small> { id="v213" }

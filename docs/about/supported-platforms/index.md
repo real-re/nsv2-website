@@ -19,17 +19,9 @@ title: 支持的平台
 
 !!! hint "Windows用户"
 
-    1. 如果你是新手不了解 或 没有安装过vc运行库，应下载安装最新版本`微软常用运行库集合`。
+    如果你不了解或从来没有安装过vc运行库，应下载安装最新版本`微软常用运行库集合`。
 
-        [:material-download: 微软常用运行库集合](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
-
-    2. 如果你的系统已经安装过旧版运行库，且无法运行游戏，只需要如下操作：
-
-        下载安装最新的`vc 运行库`。`（64位系统建议全部安装）`
-
-        [:material-download: vc运行库64位](https://aka.ms/vs/17/release/vc_redist.x64.exe){ .md-button }
-
-        [:material-download: vc运行库32位](https://aka.ms/vs/17/release/vc_redist.x86.exe){ .md-button }
+    [:material-download: 下载](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
 !!! hint "Linux用户"
 

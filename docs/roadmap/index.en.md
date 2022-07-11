@@ -2,9 +2,9 @@
 title: Roadmap
 ---
 
-:octicons-versions-16: Current Version: v2.1.2 beta
+:octicons-versions-16: Current Version: v2.1.3 beta
 
-:octicons-versions-16: Next Version: v2.1.3 beta
+:octicons-versions-16: Next Version: v2.1.4 beta
 
 :octicons-versions-16: Next Stable Version: v2.2.0
 
@@ -12,4 +12,4 @@ title: Roadmap
 
 !!! warning "The current language is not currently supported !!!"
 
-    Please check the Chinese link [game.naruto.re/roadmap](https://game.naruto.re/roadmap).
+    Please check the Chinese link [game.naruto.re/roadmap](https://game.naruto.re/roadmap/).

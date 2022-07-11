@@ -6,6 +6,29 @@ title: Changelog
 
     Please contact <hi@naruto.re>.
 
+!!! warning "For full changelog"
+
+    Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/).
+
+
+## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }
+
+- 🔥New
+    - support iOS `(Jailbreak required)`
+
+- 🐞Fixes
+    - fixed a crash bug
+    - fixed many critical bugs
+
+
+## v2.1.2 <small>[beta] 2022-6-7</small> { id="v212" }
+
+- 🔥New
+    - support macOS 64-bit
+
+- 🐞Fixes
+    - fixed many critical bugs
+
 
 ## v2.1.1 <small>[beta] 2022-5-2</small> { id="v211" }
 

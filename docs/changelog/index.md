@@ -21,8 +21,6 @@ title: 更新日志
 
     如果你的设备出现任何异常将与本团队无关。
 
-!!! note "iOS`（越狱）`某些原因，延迟发布。"
-
 
 ## v2.1.4 <small>[beta] 2022-8-？</small> { id="v214" }
 
@@ -111,7 +109,7 @@ title: 更新日志
     - UI：应用全新的`游戏模式`界面`（由乾癟之手创作）`
     - 移动端：支持自动检查更新和手动下载
     - PC端：支持[自定义按键](../game-guides/platform/pc/index.md#custom-keyboard-controls)
-    - PC端：在Linux上点击`News`按钮将直接使用浏览器打开本页面
+    - PC端：在Linux上点击`News`按钮将跳转至浏览器
 
 - 🚀变更
     - 内塔附近自动回血修正为`800`点

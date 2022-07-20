@@ -1,5 +1,6 @@
 ---
 title: Changelog
+template: issues-link.html
 ---
 
 !!! hint "Want to help us improve translations?"
@@ -11,10 +12,13 @@ title: Changelog
     Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/).
 
 
-## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }
+## v2.1.4 <small>[beta] 2022-8-?</small> { id="v214" }
 
 - 🔥New
     - support iOS `(Jailbreak required)`
+
+
+## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }
 
 - 🐞Fixes
     - fixed a crash bug

@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  <!-- Get current language by url -->
+  {% set lang='en' if i18n_page_locale not in config.i18n else i18n_page_locale %}
+  {% set i18n=config.i18n[lang] %}
+  {% set issue=config.i18n[lang].issue %}
+
+<script>
+const DIRECT_LINK = 'https://github.com/_/_/issues/';
+const ISSUES_LINK = '../issues/#';
+const DIRECT_LINK_TITLE = 'GitHub Issue: _/_ ';
+const ISSUES_LINK_TITLE = "{{ issue.link_title }}";
+
+var links = document.getElementsByClassName('magiclink');
+for (var i = 0; i < links.length; i++) {
+    var link = links[i];
+    var href = link.getAttribute('href');
+    if (href != "" && href.startsWith(DIRECT_LINK))
+        link.setAttribute('href', href.replace(DIRECT_LINK, ISSUES_LINK));
+    var title = link.getAttribute('title');
+    if (title !="" && title.startsWith(DIRECT_LINK_TITLE))
+        link.setAttribute('title', title.replace(DIRECT_LINK_TITLE, ISSUES_LINK_TITLE));
+}
+</script>
+
+{% endblock %}

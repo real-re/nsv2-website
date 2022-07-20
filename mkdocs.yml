@@ -166,6 +166,7 @@ i18n:
       sponsor_btn: 成为赞助者
       download_btn: 下载
     issue:
+      link_title: "问题："
       total: 总数
       success: 已解决
       bug: BUG
@@ -182,6 +183,7 @@ i18n:
       sponsor_btn: Become a sponsor
       download_btn: Download
     issue:
+      link_title: "Game Issue: "
       total: Total
       success: Done
       bug: BUG

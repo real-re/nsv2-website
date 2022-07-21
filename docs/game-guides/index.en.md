@@ -13,9 +13,9 @@ title: Game Guides
     In all modes, the character will be randomly selected when not selected.
 
 - 1v1: 1v1 duel, full power and coins `(Currently mainly used for testing)`
-- 3v3: 3v3 `(enable gears)`
-- 4v4: 4v4 `(enable gears)`
-- Hardcore: 4v4 `(disable gears)`
+- 3v3: 3v3 `(Enable gears)`
+- 4v4: 4v4 `(Enable gears and the amount of chakra obtained is halved)`
+- Hardcore: 4v4 `(Disable gears and the amount of chakra obtained is halved)`
 - Clone: 3v3 by default
 
 !!! note

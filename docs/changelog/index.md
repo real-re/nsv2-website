@@ -29,7 +29,7 @@ template: issues-link.html
 
 - 🔥新特性
     - 支持iOS`（越狱）`，具体查看[平台说明](../about/supported-platforms/index.md)
-    - 移动端：技能按钮布局自动适配宽屏设备
+    - UI：移动端的技能按键布局适配宽屏设备
     - UI：支持设置攻击按键大小
 
 - 🚀变更

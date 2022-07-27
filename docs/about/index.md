@@ -100,7 +100,8 @@ __若玩家发现以上行为，请即时与开发团队联系，共同维护美
 ## 特别感谢
 
 __特别感谢 Neimad，Zoso，benhazard，曹黎晟，
-Zakume，Ojima，Blackisle，Hausumasutā，乾癟之手，缘消消消消消
+Zakume，Ojima，Blackisle，愉悦，萌姐（Hausumasutā），乾癟之手，缘消消消消消，
+鞨鞨
 和其他做出贡献的人。__
 
 ---

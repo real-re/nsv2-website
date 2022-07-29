@@ -2,17 +2,17 @@
 title: 下载
 ---
 
-|  平台   | :octicons-cpu-16:架构  | :octicons-download-16:链接 |
-| :-----: | :--------------------: | :------------------------: |
-|  安卓   |          通用          |                            |
-| Windows |          x64           |                            |
-|  Linux  |          x64           |                            |
-|   iOS   | :octicons-x-circle-16: |   :octicons-x-circle-16:   |
-|  macOS  |          x64           |                            |
-|    -    |           -            |             -              |
-| Android |       arm64-v8a        |   :octicons-x-circle-16:   |
-| Android |      armeabi-v7a       |   :octicons-x-circle-16:   |
-| Windows |          x86           |   :octicons-x-circle-16:   |
+|  平台   | :octicons-cpu-16:架构 | :octicons-download-16:链接 |
+| :-----: | :-------------------: | :------------------------: |
+|  安卓   |         通用          |                            |
+| Windows |          x64          |                            |
+|  Linux  |          x64          |                            |
+|   iOS   |         通用          |   :octicons-x-circle-16:   |
+|  macOS  |          x64          |                            |
+|    -    |           -           |             -              |
+| Android |       arm64-v8a       |   :octicons-x-circle-16:   |
+| Android |      armeabi-v7a      |   :octicons-x-circle-16:   |
+| Windows |          x86          |   :octicons-x-circle-16:   |
 
 ## 下载链接
 

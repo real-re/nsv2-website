@@ -93,6 +93,12 @@ template: issues.html
 
     原始项目遗留。
 
+!!! bug "140. 当角色在处于非正常移速前使用了【速走忍鞋】，则不久后会导致移动速度变为正常"
+
+    历史遗留。
+
+    相似问题 #125。
+
 
 ## v2.1.2 已知问题
 
@@ -156,6 +162,8 @@ template: issues.html
     和鹿丸的AI情况相同，具体查看日志[game.naruto.re/changelog/#v211](https://game.naruto.re/changelog/#v211)。
 
 !!! success "85. 鸣人可以不在不到LV6之前觉醒金鸣"
+
+    原始项目遗留。
 
     四级只能觉醒仙鸣，
 

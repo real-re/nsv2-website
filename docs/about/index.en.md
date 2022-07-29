@@ -88,8 +88,8 @@ __If you see the above behavior in others, please contact the development team i
 
 ## Special Thanks
 
-__Special thanks to Neimad, Zoso, benhazard, 曹黎晟,
-Zakume, Ojima, Blackisle, 愉悦, 萌姐（Hausumasutā）, 乾癟之手, 缘消消消消消,
+__Special thanks to Neimad, Zoso, benhazard, 曹黎晟, Zakume, Ojima,
+愉悦, 楠姐, Blackisle, 萌姐 (Hausumasutā), 乾癟之手, 缘消消消消消,
 鞨鞨,
 etc.__
 

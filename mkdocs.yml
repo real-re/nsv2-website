@@ -13,7 +13,7 @@ repo_name: real-re/nsv2-website
 repo_url: https://github.com/real-re/nsv2-website
 
 # Copyright
-copyright: Copyright &copy; 2022 Re | We will always stand with you, never stop and keep going.
+copyright: Copyright &copy; 2020-2022 Re | We will always stand with you, never stop and keep going.
 
 theme:
   name: material

@@ -17,7 +17,8 @@ You may consider participating in the following categories:
 | Pixel Artist    | Have some basics in pixel painting or Mugen creator | Make char sprite, in-game icons, effect. |
 | Pixel UI Creator| - | Make pixel-style UI, small icons, etc. |
 | Map Creator     | Ability to use [Tiled](https://www.mapeditor.org){target="_blank"} software. | Create new game map. |
-| PS              | Ability to use software such as PS, AI. | Responsible for making game promotional pictures, etc. |
+| PS              | - | Responsible for making game promotional pictures, etc. |
+| AE              | - | Create game UI effect, etc. |
 | Icon Designer   | - | Design our unique website icons and more. |
 | Translator      | One of English, Japanese, Simplified/Traditional Chinese, etc. | Translate or revise website, in-game text, etc. (Click [here](https://crowdin.com/project/nsv2)) |  |
 | Content Writers | - | Responsible for writing or revising the content of the website, etc. |

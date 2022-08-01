@@ -150,7 +150,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - issues/faq/index.md
   - changelog/index.md
   - 比赛:
-      - maches/index.md
+      - matches/index.md
   - 关于:
       - about/index.md
       - about/sponsor/index.md

@@ -2,6 +2,8 @@
 title: 比赛
 ---
 
+![](https://s1.ax1x.com/2022/08/04/veVKBT.jpg)
+
 > 火影战记官方举办的比赛，单数届数使用`萌姐（Hausumasutā）`版本进行，双数则使用`V2`版进行。
 >
 > 每一届比赛都会由[@愉悦大叔](https://space.bilibili.com/18278506){target="_blank"}发放奖品，其中大部分奖品均可折现。

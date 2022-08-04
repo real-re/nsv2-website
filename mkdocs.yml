@@ -72,6 +72,7 @@ extra:
   analytics:
     provider: google
     property: G-0BMYZM9E3H
+  generator: false
   social:
     - icon: fontawesome/solid/globe
       link: https://game.naruto.re

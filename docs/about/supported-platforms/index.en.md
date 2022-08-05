@@ -36,4 +36,4 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 
 !!! hint "iOS user"
 
-    Jailbreak required.
+    Jailbreak required. (Don't do it unless you know what you are doing!)

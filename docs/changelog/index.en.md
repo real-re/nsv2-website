@@ -16,6 +16,12 @@ template: issues-link.html
 
 - 🔥New
     - support iOS `(Jailbreak required)`
+    - UI: support for changing attack button size
+
+- 🐞Fixes
+    - fixed `Shikamaru` crash bug
+    - fixed `Tsunade` crash bug
+    - fixed many critical bugs
 
 
 ## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }

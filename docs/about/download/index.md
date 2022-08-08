@@ -57,3 +57,5 @@ Google Drive：[click here](https://drive.google.com/drive/folders/1addvZRBvPBGD
 !!! hint "iOS用户"
 
     需要设备越狱（如果你准备给你的设备越狱，请确保你知道自己在做什么）。
+
+    仅支持iPhone5S、iPad Air、iPad mini2及更新的设备。

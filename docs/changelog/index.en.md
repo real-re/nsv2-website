@@ -16,7 +16,6 @@ template: issues-link.html
 
 - 🔥New
     - support iOS `(Jailbreak required)`
-    - support Apple Silicon / M1
     - UI: support for changing attack button size
 
 - 🐞Fixes

@@ -29,7 +29,6 @@ template: issues-link.html
 
 - 🔥新特性
     - 支持iOS`（越狱）`，具体查看[平台说明](../about/download/index.md#supported-platforms)
-    - 支持Apple Silicon / M1
     - UI：支持设置攻击按键大小
 
 - 🚀变更

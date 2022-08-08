@@ -7,7 +7,7 @@ title: Download
 |  Android  |           Generally            |                             |
 |  Windows  |              x64               |                             |
 |   Linux   |              x64               |                             |
-|    iOS    |           Generally            |   :octicons-x-circle-16:    |
+|    iOS    |             arm64              |   :octicons-x-circle-16:    |
 |   macOS   |          x64 / arm64           |                             |
 |     -     |               -                |              -              |
 |  Android  |           arm64-v8a            |   :octicons-x-circle-16:    |

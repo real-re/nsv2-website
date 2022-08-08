@@ -19,7 +19,7 @@ title: 支持的平台
 
 !!! hint "Windows用户"
 
-    如果你不了解或从来没有安装过vc运行库，应下载安装最新版本`微软常用运行库集合`。
+    如果你无法正常开始游戏或不了解、从未安装过vc运行库，都应下载安装最新版本`微软常用运行库集合软件`。
 
     [:material-download: 下载](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 

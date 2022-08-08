@@ -13,7 +13,7 @@ repo_name: real-re/nsv2-website
 repo_url: https://github.com/real-re/nsv2-website
 
 # Copyright
-copyright: Copyright &copy; 2020-2022 Re | We will always stand with you, never stop and keep going.
+copyright: Copyright &copy; 2018-2022 Re | We will always stand with you, never stop and keep going.
 
 site_config:
   match_announcement: "火影战记官方第三届竞速比赛 - 火影战记：佰 ！（7/30 ~ 8/14）👈点击查看"
@@ -215,7 +215,7 @@ plugins:
           维基百科: Wiki
           路线图: Roadmap
           问题汇总: Issues
-          比赛: Maches
+          比赛: Matches
           关于: About
 
   - git-revision-date-localized:

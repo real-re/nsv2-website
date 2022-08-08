@@ -8,7 +8,7 @@ title: 下载
 | Windows |          x64          |                            |
 |  Linux  |          x64          |                            |
 |   iOS   |         arm64         |   :octicons-x-circle-16:   |
-|  macOS  |      x64 / arm64      |                            |
+|  macOS  |          x64          |                            |
 |    -    |           -           |             -              |
 | Android |       arm64-v8a       |   :octicons-x-circle-16:   |
 | Android |      armeabi-v7a      |   :octicons-x-circle-16:   |
@@ -26,13 +26,13 @@ Google Drive：[click here](https://drive.google.com/drive/folders/1addvZRBvPBGD
 
 **火影战记: V2** 最新版支持运行的平台如下：
 
-| 平台    | 系统需求              | 测试通过                |
-| ------- | --------------------- | ----------------------- |
-| Android | 最低运行系统4.4       | 安卓 12.0               |
-| Windows | 64位系统              | Windows 11 64位         |
-| Linux   | 64位系统              | Manjaro Linux 5.19 64位 |
-| iOS     | 最低运行系统9.0       | iOS 15.0+               |
-| macOS   | 64位系统 / arm64 (M1) | macOS 12.1 64位         |
+| 平台    | 系统需求        | 测试通过                |
+| ------- | --------------- | ----------------------- |
+| Android | 最低运行系统4.4 | 安卓 12.0               |
+| Windows | 64位系统        | Windows 11 64位         |
+| Linux   | 64位系统        | Manjaro Linux 5.19 64位 |
+| iOS     | 最低运行系统9.0 | iOS 15.0+               |
+| macOS   | 64位系统        | macOS 12.1 64位         |
 
 
 !!! hint "安卓用户"

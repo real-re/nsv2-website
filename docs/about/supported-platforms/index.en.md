@@ -10,7 +10,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 | Windows  | 64-bit              | Windows 11 64-bit         |
 | Linux    | 64-bit              | Manjaro Linux 5.19 64-bit |
 | iOS      | Minimum iOS 9.0     | iOS 15.0+                 |
-| macOS    | 64-bit              | macOS 12.1 64-bit         |
+| macOS    | 64-bit / arm64 (M1) | macOS 12.1 64-bit         |
 
 
 !!! hint "Android user"

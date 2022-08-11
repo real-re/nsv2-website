@@ -23,9 +23,9 @@ template: issues-link.html
     如果你的设备出现任何异常将与本团队无关。
 
 
-## v2.1.4 <small>[beta] 2022-8-？</small> { id="v214" }
 
 > 预告
+## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
 - 🔥新特性
     - 支持iOS`（越狱）`，具体查看[平台说明](../about/download/index.md#supported-platforms)

@@ -12,7 +12,7 @@ template: issues-link.html
     Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/).
 
 
-## v2.1.4 <small>[beta] 2022-8-?</small> { id="v214" }
+## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
 - 🔥New
     - support iOS `(Jailbreak required)`

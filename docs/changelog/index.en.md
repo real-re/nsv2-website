@@ -14,11 +14,11 @@ template: issues-link.html
 
 ## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
-- 🔥New
+- ✨New
     - support iOS `(Jailbreak required)`
     - UI: support for changing attack button size
 
-- 🐞Fixes
+- 🔧Fixes
     - fixed `Shikamaru` crash bug
     - fixed `Tsunade` crash bug
     - fixed many critical bugs
@@ -26,23 +26,23 @@ template: issues-link.html
 
 ## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }
 
-- 🐞Fixes
+- 🔧Fixes
     - fixed a crash bug
     - fixed many critical bugs
 
 
 ## v2.1.2 <small>[beta] 2022-6-7</small> { id="v212" }
 
-- 🔥New
+- ✨New
     - support macOS 64-bit
 
-- 🐞Fixes
+- 🔧Fixes
     - fixed many critical bugs
 
 
 ## v2.1.1 <small>[beta] 2022-5-2</small> { id="v211" }
 
-- 🔥New
+- ✨New
     - UI: use the new game mode UI `(Made by 乾癟之手)`
     - Mobile: supports automatic checking for upgrades
     - PC: support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls)
@@ -57,7 +57,7 @@ template: issues-link.html
     - `Shikamaru AI` using ougi 2 may not hit
     - `Nagato` skill 1 can respawn himself
 
-- 🐞Fixes
+- 🔧Fixes
     - fixed some image wrong positions
     - fixed character selection menu UI
     - fixed multiple BGM playback bugs
@@ -72,7 +72,7 @@ template: issues-link.html
 
 ## v2.1.0 <small>[beta] 2022-4-1</small> { id="v210" }
 
-- 🔥New
+- ✨New
     - support Windows 64-bit
     - PC: support use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)
     - click the `News` button to open our website on Android and Windows
@@ -89,7 +89,7 @@ template: issues-link.html
     - all audio and sound under control by mute button
     - UI: reduce interface animation duration
 
-- 🐞Fixes
+- 🔧Fixes
     - no more audio problems
     - fixed a Logo audio playback issue
     - PC: fixed some keyboard issues
@@ -101,7 +101,7 @@ template: issues-link.html
 
 ## v2.0.0 <small>[beta] 2020-11-1</small> { id="v200" }
 
-- 🔥New
+- ✨New
     - support Android 11.0
     - support Windows 32-bit
     - support Linux 64-bit
@@ -111,5 +111,5 @@ template: issues-link.html
     - UI: new layout to support desktop
     - map background supports widescreen devices
 
-- 🐞Fixes
+- 🔧Fixes
     - fixed hp value could be negative when character dies

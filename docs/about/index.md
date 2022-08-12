@@ -99,8 +99,8 @@ __若玩家发现以上行为，请即时与开发团队联系，共同维护美
 
 ## 特别感谢
 
-__特别感谢 Neimad，Zoso，benhazard，曹黎晟，Zakume，Ojima，
-楠姐，愉悦，Blackisle，狐狸，萌姐（Hausumasutā），乾癟之手，缘消消消消消，
+__特别感谢 小島多恵（Islet），Neimad，Zoso，benhazard，曹黎晟，Zakume，岛主（Ojima），
+楠姐，愉悦，黑岛（BlackIsle），狐狸，萌姐（Hausumasutā），乾癟之手，缘消消消消消，
 鞨鞨
 和其他做出贡献的人。__
 

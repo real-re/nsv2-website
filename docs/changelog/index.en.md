@@ -15,8 +15,8 @@ template: issues-link.html
 ## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
 - ✨New
-    - support iOS `(Jailbreak required)`
-    - UI: support for changing attack button size
+    - added support for iOS `(Jailbreak required)`
+    - UI: added support for changing attack button size
 
 - 🔧Fixes
     - fixed `Shikamaru` crash bug
@@ -34,7 +34,7 @@ template: issues-link.html
 ## v2.1.2 <small>[beta] 2022-6-7</small> { id="v212" }
 
 - ✨New
-    - support macOS 64-bit
+    - added support for macOS 64-bit
 
 - 🔧Fixes
     - fixed many critical bugs
@@ -73,15 +73,15 @@ template: issues-link.html
 ## v2.1.0 <small>[beta] 2022-4-1</small> { id="v210" }
 
 - ✨New
-    - support Windows 64-bit
-    - PC: support use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)
+    - added support for Windows 64-bit
+    - PC: added support for use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)
     - click the `News` button to open our website on Android and Windows
-    - UI: add mode selection interface
+    - UI: added mode selection interface
     - add 1v1, 4v4 and Clone modes
     - rejoin Pain, Orochimaru and Kimimaro `(Thanks Hausumasuta for providing AI)`
 
 - 🚀Changes
-    - UI: add more return buttons on PC
+    - UI: added more return buttons on PC
     - PC: removed arrow keys to control characters
 
 - ⚡️Improvements
@@ -102,12 +102,12 @@ template: issues-link.html
 ## v2.0.0 <small>[beta] 2020-11-1</small> { id="v200" }
 
 - ✨New
-    - support Android 11.0
-    - support Windows 32-bit
-    - support Linux 64-bit
+    - added support for Android 11.0
+    - added support for Windows 32-bit
+    - added support for Linux 64-bit
 
 - 🚀Changes
-    - UI: support widescreen devices
+    - UI: added support for widescreen devices
     - UI: new layout to support desktop
     - map background supports widescreen devices
 

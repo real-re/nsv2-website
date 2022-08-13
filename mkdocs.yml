@@ -27,7 +27,7 @@ theme:
     - 404.html
 
   features:
-    - announce.dismiss
+    # - announce.dismiss
     - content.code.annotate
     # - content.tabs.link
     - header.autohide

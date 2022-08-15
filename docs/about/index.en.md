@@ -67,7 +67,7 @@ Naruto Senki Official QQ group 3: 877960167
 
 Naruto Senki Official QQ group 4: 566206461
 
-Naruto Senki Official QQ group 5: 482082627 (full)
+Naruto Senki Official QQ group 5: 482082627
 
 ## Copyright
 

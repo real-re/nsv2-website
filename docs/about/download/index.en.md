@@ -8,10 +8,9 @@ title: Download
 |  Windows  |              x64               |                             |
 |   Linux   |              x64               |                             |
 |    iOS    |             arm64              |   :octicons-x-circle-16:    |
-|   macOS   |          x64 / arm64           |                             |
+|   macOS   |              x64               |                             |
+|   macOS   |             arm64              |                             |
 |     -     |               -                |              -              |
-|  Android  |           arm64-v8a            |   :octicons-x-circle-16:    |
-|  Android  |          armeabi-v7a           |   :octicons-x-circle-16:    |
 |  Windows  |              x86               |   :octicons-x-circle-16:    |
 
 Google Drive: [click here](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
@@ -25,7 +24,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 | Platform | System Requirements | Tested                     |
 | -------- | ------------------- | -------------------------- |
 | Android  | Minimum Android 4.4 | Android 12.0               |
-| Windows  | 64-bit              | Windows 11 64-bit          |
+| Windows  | 64-bit              | Windows 11/10 64-bit       |
 | Linux    | 64-bit              | Manjaro Linux 6.0.0 64-bit |
 | iOS      | Minimum iOS 9.0     | iOS 15.0+                  |
 | macOS    | 64-bit /arm64 (M1+) | macOS 12.1 64-bit          |

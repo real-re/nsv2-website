@@ -8,10 +8,9 @@ title: 下载
 | Windows |          x64          |                            |
 |  Linux  |          x64          |                            |
 |   iOS   |         arm64         |   :octicons-x-circle-16:   |
-|  macOS  |      x64 / arm64      |                            |
+|  macOS  |          x64          |                            |
+|  macOS  |         arm64         |                            |
 |    -    |           -           |             -              |
-| Android |       arm64-v8a       |   :octicons-x-circle-16:   |
-| Android |      armeabi-v7a      |   :octicons-x-circle-16:   |
 | Windows |          x86          |   :octicons-x-circle-16:   |
 
 ## 下载链接
@@ -29,7 +28,7 @@ Google Drive：[click here](https://drive.google.com/drive/folders/1addvZRBvPBGD
 | 平台    | 系统需求           | 测试通过                |
 | ------- | ------------------ | ----------------------- |
 | Android | 安卓 4.4+          | 安卓 12.0               |
-| Windows | 64位               | Windows 11 64位         |
+| Windows | 64位               | Windows 11/10 64位      |
 | Linux   | 64位               | Manjaro Linux 5.19 64位 |
 | iOS     | iOS 9.0+           | iOS 15.0+               |
 | macOS   | 64位 / arm64 (M1+) | macOS 12.1 64位         |

@@ -3,3 +3,5 @@
 
 # ignore build dir
 site/
+
+overrides/announce.event.html

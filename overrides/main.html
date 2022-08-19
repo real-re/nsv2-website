@@ -4,18 +4,7 @@
 
 {% extends "base.html" %}
 
-{% block announce %}
-    {% set lang='en' if i18n_page_locale not in config.i18n else i18n_page_locale %}
-    {% set url_head='' if lang == 'zh' else lang+'/' %}
 
-    <p align="center">
-        <a href="{{ url_head + 'matches/' | url }}">
-            <b>
-                {{ config.site_config.match_announcement }}
-            </b>
-        </a>
-    </p>
-{% endblock %}
 
 <!-- Content -->
 {% block content %}

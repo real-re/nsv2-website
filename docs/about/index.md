@@ -54,8 +54,6 @@ email: hi@naruto.re
 
 ![wx](../assets/img/wx.jpg)
 
-火影战记 官方QQ ①群: 883103592（禁止emoji）
-
 火影战记 官方QQ ②群: 614496214
 
 火影战记 官方QQ ③群: 877960167

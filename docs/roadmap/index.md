@@ -6,9 +6,9 @@ title: 路线图
 >
 > 目前通常每隔3～4周会进行一次更新，最近几个版本将以优化UI、修复bug、角色平衡及少量新功能为主。
 
-:octicons-versions-16: 当前版本：v2.1.3 beta
+:octicons-versions-16: 当前版本：v2.1.4 beta
 
-:octicons-versions-16: 下一版本：v2.1.4 beta
+:octicons-versions-16: 下一版本：v2.1.5 beta
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 

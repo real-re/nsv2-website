@@ -47,7 +47,7 @@ template: issues-link.html
     - UI：角色信息界面点击觉醒后，清除之前显示的技能介绍
 
 
-## v2.1.4-fix <small>[beta] 2022-8-23 </small> { id="v214-fix" }
+## v2.1.4-fix <small>[beta] 2022-8-24 </small> { id="v214-fix" }
 
 - ✨新特性
     - 支持 Apple Silicon / M1

@@ -34,6 +34,7 @@ template: issues-link.html
 > 预告
 
 - ✨新特性
+    - 支持 Apple Silicon / M1
     - 三个新忍具
     - Windows、Linux、iOS和macOS平台将支持自动检测更新`（无内置下载）`
     - UI：移动端 支持简单调整按键布局
@@ -50,7 +51,6 @@ template: issues-link.html
 ## v2.1.4-fix <small>[beta] 2022-8-24 </small> { id="v214-fix" }
 
 - ✨新特性
-    - 支持 Apple Silicon / M1
     - 支持 安卓13
     - UI：当角色`（部分女性）`解锁新的背景后，选择界面将自动替换为新立绘
     - UI：角色界面双击可替换技能的技能按钮时，将更新相应技能的图标及描述`（指卡卡西3和水门1技能）`

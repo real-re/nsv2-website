@@ -29,7 +29,7 @@ template: issues-link.html
 
 - ✨新特性
     - 支持 Apple Silicon / M1
-    - 三个新忍具【火影吊坠、瞬身术、剧毒苦无】详见[物品百科](../wiki/items.md)
+    - 三个新忍具【火影吊坠、瞬身术、剧毒苦无】详见[物品百科](../wiki/items.md){target="_blank"}
     - Windows、Linux、iOS和macOS平台将支持自动检测更新`（无内置下载）`
     - UI：移动端 支持简单调整按键布局
     - UI：选择进入模式后，支持控制是否启用忍具、守护忍和硬核模式（查克拉获取减半）`【每个模式需单独设置，自动存储，停用硬核模式】`
@@ -39,9 +39,13 @@ template: issues-link.html
     - UI：更新制作团队界面及提示官网链接
     - 忍具【速走忍鞋】更名为【烟雾弹】，并增加一点烟雾效果
     - 平衡忍具【替身术】 0金币售出，每次使用需消耗100金币
+    - 平衡`牙` 略微降低骑乘`赤丸`时的移动速度，上调`赤丸`的移动速度
 
 - ⚡️优化
     - UI：角色信息界面点击觉醒后，清除之前显示的技能介绍
+
+- 📖网站
+    - 新增AI购买忍具列表，详见[AI篇](../wiki/ai.md){target="_blank"}
 
 
 ## v2.1.4-fix <small>[beta] 2022-8-24 </small> { id="v214-fix" }
@@ -57,7 +61,7 @@ template: issues-link.html
 - ⚡️优化
     - UI：移动端 攻击按键缩放倍数支持到1.75x
     - UI：无忍具模式的结算界面将不再显示忍具栏位
-    - 更改忍具【烟雾弹】描述，详见[忍具说明](../wiki/items.md)
+    - 更改忍具【烟雾弹】描述，详见[忍具说明](../wiki/items.md){target="_blank"}
 
 - 🔧修复
     - 🔥修复`长门`奥义2 通灵的`天道`阵亡后导致的崩溃
@@ -67,14 +71,11 @@ template: issues-link.html
     - 修复角色信息界面的流光动画显示效果
     - 修复鸣人、卡卡西、丁次、千手扉间、猿飞日斩、水门、鼬、鬼鲛、阿飞、纲手、佐助和千代婆婆的技能描述错误
 
-- 📖网站
-    - 新增AI购买忍具列表，详见[AI篇](../wiki/ai.md)
-
 
 ## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
 - ✨新特性
-    - 支持iOS`（越狱）`，具体查看[平台说明](../about/download/index.md#supported-platforms)
+    - 支持iOS`（越狱）`，具体查看[平台说明](../about/download/index.md#supported-platforms){target="_blank"}
     - UI：支持设置攻击按键大小
 
 - 🚀变更
@@ -97,7 +98,7 @@ template: issues-link.html
     - 平衡`修罗道`技能 提高火箭移速
     - 平衡`角都`技能3 减伤效果从25%降至20%
     - 平衡`千代婆婆`技能1 移除霸体效果
-    - 平衡`千代婆婆`技能1 减伤效果从25%降至10%，具体查看[角色说明](../wiki/characters.md#Chiyo)
+    - 平衡`千代婆婆`技能1 减伤效果从25%降至10%，具体查看[角色说明](../wiki/characters.md#Chiyo){target="_blank"}
     - 平衡`千代婆婆`奥义1 移除霸体效果
     - 平衡1v1模式，角色复活时间从10增加至12秒
     - 角色到达4级时，复活时间从11增加至12秒
@@ -136,7 +137,7 @@ template: issues-link.html
     - 修复触发彩蛋后在非4人模式时，查克拉获取会减半
 
 - 📖网站
-    - 更新游戏[发展史](../wiki/history.md)
+    - 更新游戏[发展史](../wiki/history.md){target="_blank"}
 
 
 ## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }

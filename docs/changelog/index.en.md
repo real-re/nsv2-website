@@ -9,7 +9,7 @@ template: issues-link.html
 
 !!! warning "For full changelog"
 
-    Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/).
+    Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/){target="_blank"}.
 
 
 ## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
@@ -45,7 +45,7 @@ template: issues-link.html
 - ✨New
     - UI: use the new game mode UI `(Made by 乾癟之手)`
     - Mobile: supports automatic checking for upgrades
-    - PC: support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls)
+    - PC: support [custom keyboard controls](../game-guides/platform/pc/index.md#custom-keyboard-controls){target="_blank"}
     - PC: clicking the `News` button will open this page with default browser on Linux
 
 - 🚀Changes

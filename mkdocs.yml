@@ -160,6 +160,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - about/joining-us/index.md
       - about/readme/index.md
       - about/download/index.md
+      - about/privacy-policy/index.md
 
 i18n:
   zh:

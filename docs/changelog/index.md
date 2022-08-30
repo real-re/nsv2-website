@@ -46,6 +46,7 @@ template: issues-link.html
 
 - 📖网站
     - 新增AI购买忍具列表，详见[AI篇](../wiki/ai.md){target="_blank"}
+    - 新增[隐私政策](../about/privacy-policy/index.md){target="_blank"}
 
 
 ## v2.1.4-fix <small>[beta] 2022-8-24 </small> { id="v214-fix" }

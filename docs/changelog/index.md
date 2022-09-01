@@ -30,7 +30,7 @@ template: issues-link.html
 - ✨新特性
     - 支持 Apple Silicon / M1
     - 三个新忍具【火影吊坠、瞬身术、剧毒苦无】详见[物品百科](../wiki/items.md){target="_blank"}
-    - Windows、Linux、iOS和macOS平台将支持自动检测更新`（无内置下载）`
+    - Windows、Linux、iOS和macOS平台支持自动检测更新`（无内置下载）`
     - UI：移动端 支持简单调整按键布局
     - UI：选择进入模式后，支持控制是否启用忍具、守护忍和硬核模式（查克拉获取减半）`【每个模式需单独设置，自动存储，停用硬核模式】`
 
@@ -43,6 +43,10 @@ template: issues-link.html
 
 - ⚡️优化
     - UI：角色信息界面点击觉醒后，清除之前显示的技能介绍
+
+- 🔧修复
+    - 修复第四张地图多余的一条像素线
+    - 修复`纲手`部分不正确的素材
 
 - 📖网站
     - 新增AI购买忍具列表，详见[AI篇](../wiki/ai.md){target="_blank"}

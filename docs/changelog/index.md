@@ -13,7 +13,7 @@ template: issues-link.html
 
 !!! error "重要说明"
 
-    __本游戏只在Re的[B站 _____Re](https://space.bilibili.com/122989580){target="_blank"}、
+    __本游戏只在Re的B站[火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}、
     官网及火影战记官方QQ群内发布更新。__
 
     如果你是从其他渠道下载本游戏，均为盗版，

@@ -37,7 +37,7 @@ title: About Author
 __YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg){target="_blank"}
 
 3. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
-__Bilibili__[ Channel - _____Re](https://space.bilibili.com/122989580){target="_blank"}
+__Bilibili__[ Channel - 火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}
 
 ## Contact
 

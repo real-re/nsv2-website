@@ -7,7 +7,7 @@ title: 下载
 |  安卓   |         通用          |                            |
 | Windows |          x64          |                            |
 |  Linux  |          x64          |                            |
-|   iOS   |         arm64         |   :octicons-x-circle-16:   |
+|   iOS   |         arm64         |                            |
 |  macOS  |          x64          |                            |
 |  macOS  |         arm64         |                            |
 |    -    |           -           |             -              |
@@ -17,21 +17,21 @@ title: 下载
 
 蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}
 
-GitHub镜像：[click here](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
+GitHub镜像：[点此跳转](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
 
-Google Drive：[click here](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
+Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
 
 ## 支持的平台 { id="supported-platforms" }
 
 **火影战记: V2** 最新版支持运行的平台如下：
 
-| 平台    | 系统需求           | 测试通过                |
-| ------- | ------------------ | ----------------------- |
-| Android | 安卓 4.4+          | 安卓 12.0               |
-| Windows | 64位               | Windows 11/10 64位      |
-| Linux   | 64位               | Manjaro Linux 5.19 64位 |
-| iOS     | iOS 9.0+           | iOS 15.0+               |
-| macOS   | 64位 / arm64 (M1+) | macOS 12.1 64位         |
+| 平台    | 系统需求           | 测试通过                 |
+| ------- | ------------------ | ------------------------ |
+| Android | 安卓 4.4+          | 安卓 13.0                |
+| Windows | 64位               | Windows 11/10 64位       |
+| Linux   | 64位               | Manjaro Linux 6.0.0 64位 |
+| iOS     | iOS 9.0+           | iOS 15.0+                |
+| macOS   | 64位 / arm64 (M1+) | macOS 12.1 64位          |
 
 
 !!! hint "安卓用户"
@@ -56,5 +56,7 @@ Google Drive：[click here](https://drive.google.com/drive/folders/1addvZRBvPBGD
 !!! hint "iOS用户"
 
     需要设备越狱（如果你准备给你的设备越狱，请确保你知道自己在做什么）。
+
+    或者选择其他方式免越狱签名，但会有7天限制，到期需重签名，具体方法请自行搜索。
 
     仅支持iPhone5S、iPad Air、iPad mini2及更新的设备。

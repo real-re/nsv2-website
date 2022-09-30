@@ -23,7 +23,7 @@ template: issues-link.html
     如果你的设备出现任何异常将与本团队无关。
 
 
-## v2.1.5 <small>[beta] 2022-9-？</small> { id="v215" }
+## v2.1.5 <small>[beta] 2022-10-？</small> { id="v215" }
 
 > 预告
 

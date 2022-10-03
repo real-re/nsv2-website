@@ -25,7 +25,7 @@ template: issues-link.html
 
 ## v2.1.5 <small>[beta] 2022-10-？</small> { id="v215" }
 
-> 预告
+> 预告（因故延期）
 
 - ✨新特性
     - 支持 Apple Silicon / M1

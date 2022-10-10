@@ -144,6 +144,7 @@ template: issues-link.html
 
 - 📖网站
     - 更新游戏[发展史](../wiki/history.md){target="_blank"}
+    - 更新[游戏指南](../game-guides/index.md){target="_blank"}
 
 
 ## v2.1.3 <small>[beta] 2022-7-11</small> { id="v213" }

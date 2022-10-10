@@ -39,7 +39,7 @@ title: PC端
 
 3. 全屏
 
-!!! warning "警告"
+!!! warning "注意"
 
     在Windows上，切换窗口后再使用`News`按钮打开官网，可能会导致网页窗口显示问题。
 

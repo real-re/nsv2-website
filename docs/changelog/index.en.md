@@ -12,6 +12,10 @@ template: issues-link.html
     Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/){target="_blank"}.
 
 
+## v2.1.5 <small>[beta] 2022-11-？</small> { id="v215" }
+
+> Still in development.
+
 ## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
 - ✨New

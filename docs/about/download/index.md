@@ -60,3 +60,7 @@ Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPB
     或者选择其他方式免越狱签名，但会有7天限制，到期需重签名，具体方法请自行搜索。
 
     仅支持iPhone5S、iPad Air、iPad mini2及更新的设备。
+
+!!! hint "macOS用户"
+
+    macOS为通用架构包，可在x64和arm64（M1+）设备上运行。

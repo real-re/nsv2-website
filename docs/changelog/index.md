@@ -52,7 +52,8 @@ template: issues-link.html
     - 修复`君麻吕`技能1错误的伤害数值，从660降至260
 
 - 📖网站
-    - 新增AI购买忍具列表，详见[AI篇](../wiki/ai.md){target="_blank"}
+    - 更新[路线图](../roadmap/index.md){target="_blank"}
+    - 新增AI购买忍具列表，详见[Wiki - AI篇](../wiki/ai.md){target="_blank"}
     - 新增[隐私政策](../about/privacy-policy/index.md){target="_blank"}
 
 

@@ -48,7 +48,7 @@ Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPB
 
     需要确保安装`gtk3`。
 
-    音频播放支持PipeWire/PortAudio/PulseAudio/JACK，若无法播放声音，需手动安装以上其一的音频库。
+    音频播放支持`PipeWire/PortAudio/PulseAudio/JACK`，若无法播放声音，需手动安装以上其一的音频库。
 
     如果游戏无法运行则说明缺少依赖库，请在游戏根目录内执行`ldd ./NarutoSenki`查看所有的依赖库，
     再手动安装缺少的依赖库。

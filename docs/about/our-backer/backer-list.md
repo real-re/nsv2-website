@@ -46,7 +46,7 @@
 * `2022-05-04` ***_q7Aj - :material-currency-cny:18.00
 * `2022-05-04` ***_EjcY - :material-currency-cny:5.00 `加油，希望越做越好`
 * `2022-05-04` Dsiaster - :material-currency-cny:20.00 `加油，我支持你，2022年还有人在支撑这款老游戏，我敬佩你。这是我的绵薄之力，一点心意。`
-* `2022-05-04 20:54:19` 晴蓝天 - :material-currency-cny:10.00 `感谢作者，一片心意`
+* `2022-05-04` 晴蓝天 - :material-currency-cny:10.00 `感谢作者，一片心意`
 * `2022-05-04` 大繁天 - :material-currency-cny:33.00 `火影战记，一点心意`
 * `2022-05-04` 雨中央 - :material-currency-cny:5.00 `加油`
 * `2022-05-04` 一个路過的旅行者 - :material-currency-cny:1.34

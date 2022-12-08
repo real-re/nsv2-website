@@ -17,6 +17,10 @@ title: 路线图
 
 `本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
 
+!!! event "当前主要工作"
+    - [ ] 开发工具链 &emsp;__[===----------]`30%`__
+    - [ ] 新版本 &emsp;&emsp;&emsp;__[=========-]`90%`__
+
 ## 进度 {id="next"}
 
 > 此项涵盖了 __当前版本__ 至 __下一正式版__ 之间的所有新内容（不定时更新）。

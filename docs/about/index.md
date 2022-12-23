@@ -103,21 +103,3 @@ __特别感谢 小島多恵（Islet），Neimad，Zoso，benhazard，曹黎晟�
 楠姐，愉悦，黑岛（BlackIsle），狐狸，萌姐（Hausumasutā），乾癟之手，缘消消消消消，
 鞨鞨
 及 热爱这款游戏的你们。__
-
----
-
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
-<div id="waline"></div>
-<script>
-Waline.init({
-  el: '#waline',
-  serverURL: 'https://mb.naruto.re',
-  pageview: true,
-  emoji: [
-    '//unpkg.com/@waline/emojis@1.0.1/tw-emoji',
-    '//unpkg.com/@waline/emojis@1.0.1/bilibili',
-    '//unpkg.com/@waline/emojis@1.0.1/tieba',
-  ],
-});
-</script>

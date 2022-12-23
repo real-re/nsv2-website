@@ -92,22 +92,3 @@ __Special thanks to 小島多恵 (Islet), Neimad, Zoso, benhazard, 曹黎晟, Za
 楠姐, 愉悦, 黑岛 (Blackisle), 狐狸, 萌姐 (Hausumasutā), 乾癟之手, 缘消消消消消,
 鞨鞨,
 etc.__
-
----
-
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-<link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet'/>
-<div id="waline"></div>
-<script>
-Waline.init({
-  el: '#waline',
-  serverURL: 'https://mb.naruto.re',
-  pageview: true,
-  emoji: [
-    '//unpkg.com/@waline/emojis@1.0.1/tw-emoji',
-    '//unpkg.com/@waline/emojis@1.0.1/bilibili',
-    '//unpkg.com/@waline/emojis@1.0.1/tieba',
-  ],
-  lang: 'en',
-});
-</script>

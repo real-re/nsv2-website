@@ -65,6 +65,7 @@ template: issues-link.html
     - 更新[Wiki - 物品篇](../wiki/items.md){target="_blank"}
     - 新增AI购买忍具列表，详见[Wiki - AI篇](../wiki/ai.md){target="_blank"}
     - 新增[隐私政策](../about/privacy-policy/index.md){target="_blank"}
+    - 移除评论功能（因国内IP将无法访问）
 
 
 ## v2.1.4-fix <small>[beta] 2022-8-24 </small> { id="v214-fix" }

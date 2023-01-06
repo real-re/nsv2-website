@@ -25,7 +25,7 @@ template: issues-link.html
 
 ## v2.1.5 <small>[beta] 2023-01-？</small> { id="v215" }
 
-> 预告（因故四次延期，开发中...）
+> 预告（因故四次延期，重制部分UI中...）
 >
 > ios v2.1.4-fix 无法使用，请去蓝奏云下载2.1.4旧版ipa安装包
 

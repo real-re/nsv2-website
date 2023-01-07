@@ -27,7 +27,7 @@ template: issues-link.html
 
 > 预告（因故四次延期，重制部分UI中...）
 >
-> ios v2.1.4-fix 无法使用，请去蓝奏云下载2.1.4旧版ipa安装包
+> ios v2.1.4-fix 无法使用及音频播放有bug，请去蓝奏云下载2.1.4旧版安装包
 
 - ✨新特性
     - 支持 Apple Silicon / M1
@@ -65,7 +65,7 @@ template: issues-link.html
     - 更新[Wiki - 物品篇](../wiki/items.md){target="_blank"}
     - 新增AI购买忍具列表，详见[Wiki - AI篇](../wiki/ai.md){target="_blank"}
     - 新增[隐私政策](../about/privacy-policy/index.md){target="_blank"}
-    - 移除评论功能（因国内IP将无法访问）
+    - 移除评论功能（因国内IP无法访问）
 
 
 ## v2.1.4-fix <small>[beta] 2022-8-24 </small> { id="v214-fix" }
@@ -291,7 +291,7 @@ template: issues-link.html
 - ⚡️优化
     - 优化角色和音频的预加载
     - 所有音频完全受静音选项控制
-    - UI：降低部分界面动画的时长，减少等待时间
+    - UI：降低部分界面过度动画的时长，减少等待时间
 
 - 🔧修复
     - 🔥彻底终结安卓端音频问题

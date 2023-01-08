@@ -18,8 +18,9 @@ title: 路线图
 `本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
 
 !!! info "当前主要工作"
-    - [ ] 重制部分 UI &emsp;__[--------------]`00%`__
-    - [ ] 新版本 &emsp;&emsp;&emsp;__[=========-]`90%`__
+    - v2.1.5
+        - [ ] 重制部分 UI&emsp;__[--------------]`00%`__
+        - [ ] 新版本工作 &emsp;__[=========-]`90%`__
     - [ ] 开发工具链 &emsp;__[===----------]`30%`__
 
 ## 进度 {id="next"}

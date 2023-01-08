@@ -30,18 +30,18 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 | macOS    | 64-bit / arm64 (M1+) | macOS 12.1 64-bit          |
 
 
-!!! hint "Android user"
+!!! tip "Android user"
 
     `armeabi-v7a` and `arm64-v8a` architectures are supported.
 
-!!! hint "Windows user"
+!!! tip "Windows user"
 
     If you don't have any vc redist package installed,
     you should download and install the latest version of `MSVBCRT.AIO`.
 
     [:material-download: Download MSVBCRT.AIO](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
-!!! hint "Linux user"
+!!! tip "Linux user"
 
     requires `gtk3`.
 
@@ -51,12 +51,12 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
     If you cannot run the game, please run the command `ldd ./NarutoSenki` in game root directory
     to display all dependencies and install all missing dependencies manually.
 
-!!! hint "iOS user"
+!!! tip "iOS user"
 
     Jailbreak required. (Don't do it unless you know what you are doing!)
 
     Only supports iPhone5S, iPad Air, iPad mini2 and newer devices。
 
-!!! hint "macOS user"
+!!! tip "macOS user"
 
     This is a universal binary on Mac that you can run on x64 and arm64 (M1+) devices.

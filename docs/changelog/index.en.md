@@ -3,7 +3,7 @@ title: Changelog
 template: issues-link.html
 ---
 
-!!! hint "Want to help us improve translations?"
+!!! tip "Want to help us improve translations?"
 
     Please contact <hi@naruto.re>.
 

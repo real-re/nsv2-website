@@ -34,17 +34,17 @@ Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPB
 | macOS   | 64位 / arm64 (M1+) | macOS 12.1 64位          |
 
 
-!!! hint "安卓用户"
+!!! tip "安卓用户"
 
     目前支持`armeabi-v7a`和`arm64-v8a`架构。
 
-!!! hint "Windows用户"
+!!! tip "Windows用户"
 
     如果你无法正常开始游戏或不了解、从未安装过vc运行库，都应下载安装最新版本`微软常用运行库集合软件`。
 
     [:material-download: 下载](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
-!!! hint "Linux用户"
+!!! tip "Linux用户"
 
     需要确保安装`gtk3`。
 
@@ -53,7 +53,7 @@ Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPB
     如果游戏无法运行则说明缺少依赖库，请在游戏根目录内执行`ldd ./NarutoSenki`查看所有的依赖库，
     再手动安装缺少的依赖库。
 
-!!! hint "iOS用户"
+!!! tip "iOS用户"
 
     需要设备越狱（如果你准备给你的设备越狱，请确保你知道自己在做什么）。
 
@@ -61,6 +61,6 @@ Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPB
 
     仅支持iPhone5S、iPad Air、iPad mini2及更新的设备。
 
-!!! hint "macOS用户"
+!!! tip "macOS用户"
 
     macOS为通用架构包，可在x64和arm64（M1+）设备上运行。

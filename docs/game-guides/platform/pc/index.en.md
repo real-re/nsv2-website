@@ -53,9 +53,9 @@ use ++f11++ to swtich the window size:
 > Customize keyboard controls by modifying the
 > `input.ini` file in the game root directory.
 
-!!! hint "1. Only supported keycodes range from A to Z (not case sensitive)."
+!!! tip "1. Only supported keycodes range from A to Z (not case sensitive)."
 
-!!! hint "2. If the key is invalid or there are duplicate keys, an alert will pop up and settings won't be applied."
+!!! tip "2. If the key is invalid or there are duplicate keys, an alert will pop up and settings won't be applied."
 
 Only the following commands are supported:
 

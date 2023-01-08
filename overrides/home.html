@@ -155,7 +155,7 @@
         {% else %}
         <p>{{ config.i18n['en'].site_description }}</p>
         {% endif %}
-        <a href="{{ page.next_page.url | url }}" class="md-button md-button--primary">
+        <a href="{{ url_head + 'about/download' | url }}" class="md-button md-button--primary">
           {{ home.download_btn }}
         </a>
         <a href="{{ url_head + 'about/sponsor' | url }}" class="md-button">

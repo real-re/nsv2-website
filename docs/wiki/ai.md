@@ -48,7 +48,7 @@ title: AI 篇
 	<span class="hint--right hint--medium" aria-label="立即从受伤状态中恢复并进入隐身状态1.5s【100金币/次】">替身术</span>、<span class="hint--top hint--medium" aria-label="减少普通技能的冷却时间，并提高所有攻击的暴击率及暴击伤害【CD大于10减少5s，反之减少4s】">忍术大全</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>
 
 !!! example "角都"
-	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">忍具陷阱</span>、<span class="hint--top hint--medium" aria-label="提高角色3000HP上限并减少25%所受到的伤害">锁链忍铠</span>、<span class="hint--top hint--medium" aria-label="普通攻击追加破防效果，并提升伤害">兵粮丸</span>
+	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">苦无陷阱</span>、<span class="hint--top hint--medium" aria-label="提高角色3000HP上限并减少25%所受到的伤害">锁链忍铠</span>、<span class="hint--top hint--medium" aria-label="普通攻击追加破防效果，并提升伤害">兵粮丸</span>
 
 !!! example "勘九郎"
 	<span class="hint--right hint--medium" aria-label="掷出一个涂有剧毒的苦无，对首个受击的敌人造成减速和持续3s的中毒伤害">剧毒苦无</span>、<span class="hint--top hint--medium" aria-label="普通攻击追加破防效果，并提升伤害">兵粮丸</span>、<span class="hint--top hint--medium" aria-label="提高角色3000HP上限并减少25%所受到的伤害">锁链忍铠</span>
@@ -75,7 +75,7 @@ title: AI 篇
 	<span class="hint--right hint--medium" aria-label="掷出一个涂有剧毒的苦无，对首个受击的敌人造成减速和持续3s的中毒伤害">剧毒苦无</span>、<span class="hint--top hint--medium" aria-label="减少普通技能的冷却时间，并提高所有攻击的暴击率及暴击伤害【CD大于10减少5s，反之减少4s】">忍术大全</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>
 
 !!! example "漩涡鸣人"
-	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">忍具陷阱</span>、<span class="hint--top hint--medium" aria-label="提高使用拉面的回复量至4500，并降低拉面冷却时间2s">特质饭团</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>
+	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">苦无陷阱</span>、<span class="hint--top hint--medium" aria-label="提高使用拉面的回复量至4500，并降低拉面冷却时间2s">特质饭团</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>
 
 !!! example "日向宁次"
 	<span class="hint--right hint--medium" aria-label="提高使用拉面的回复量至4500，并降低拉面冷却时间2s">特质饭团</span>、<span class="hint--top hint--medium" aria-label="减少普通技能的冷却时间，并提高所有攻击的暴击率及暴击伤害【CD大于10减少5s，反之减少4s】">忍术大全</span>、<span class="hint--top hint--medium" aria-label="提升角色25%额外的查克拉获取">查克拉护腕</span>
@@ -108,13 +108,13 @@ title: AI 篇
 	<span class="hint--right hint--medium" aria-label="掷出一个涂有剧毒的苦无，对首个受击的敌人造成减速和持续3s的中毒伤害">剧毒苦无</span>、<span class="hint--top hint--medium" aria-label="减少普通技能的冷却时间，并提高所有攻击的暴击率及暴击伤害【CD大于10减少5s，反之减少4s】">忍术大全</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>
 
 !!! example "阿飞"
-	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">忍具陷阱</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>、<span class="hint--top hint--medium" aria-label="减少普通技能的冷却时间，并提高所有攻击的暴击率及暴击伤害【CD大于10减少5s，反之减少4s】">忍术大全</span>
+	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">苦无陷阱</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>、<span class="hint--top hint--medium" aria-label="减少普通技能的冷却时间，并提高所有攻击的暴击率及暴击伤害【CD大于10减少5s，反之减少4s】">忍术大全</span>
 
 !!! example "千手扉间"
 	<span class="hint--right hint--medium" aria-label="立即从受伤状态中恢复并进入隐身状态1.5s【100金币/次】">替身术</span>、<span class="hint--top hint--medium" aria-label="提升角色25%额外的查克拉获取">查克拉护腕</span>、<span class="hint--top hint--medium" aria-label="提高使用拉面的回复量至4500，并降低拉面冷却时间2s">特质饭团</span>
 
 !!! example "纲手"
-	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">忍具陷阱</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>、<span class="hint--top hint--medium" aria-label="普通攻击追加破防效果，并提升伤害">兵粮丸</span>
+	<span class="hint--right hint--medium" aria-label="释放一个苦无陷阱，触发后将击倒敌人并造成伤害【随等级成长增加伤害，500 * 等级】">苦无陷阱</span>、<span class="hint--top hint--medium" aria-label="每攻击一名敌人将获得18%的查克拉加成【包括守护忍】">查克拉手里剑</span>、<span class="hint--top hint--medium" aria-label="普通攻击追加破防效果，并提升伤害">兵粮丸</span>
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hint.css/2.7.0/hint.min.css" integrity="sha512-gnj0WGxmbeTgYXck9CyFjrdkEFcZE4xwnJb/nG3bcl5OlWHJ9ixRkJK0MDPtCytnO3IBIh0Omqawv0UPpl0LoA==" crossorigin="anonymous" referrerpolicy="no-referrer" />

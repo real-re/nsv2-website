@@ -31,9 +31,9 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 | :---: | :---: |
 | <a href="https://www.patreon.com/bePatron?u=38469649" data-patreon-widget-type="become-patron-button">Become a Patron!</a> | (Comming soon) |
 
-|        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |
-| :--------------------------------------------: | :-------------------------------------: |
-| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png)[Open App](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } |
+|        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |    :fontawesome-brands-alipay:Alipay Ⅱ  |
+| :--------------------------------------------: | :-------------------------------------: | :-------------------------------------: |
+| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png)[Open App](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } | ![alipay Ⅱ](../../assets/img/ali_pay2.png) |
 
 ## Where:confused: ?
 
@@ -51,9 +51,7 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
     1. 你可进入感谢名单和一个我来自心底默默的感:heart:谢。
 
-    2. 在 __论坛__ `（部署中）`内你将获得特别的支持者勋章。
-
-    3. 在未来发布稳定版本后，可以获得先行版体验反馈权限，体验最新推出的功能等。
+    2. 在未来发布稳定版本后，可以获得先行版体验反馈权限，体验最新推出的功能等。
 
     其他的后续在加吧。
 

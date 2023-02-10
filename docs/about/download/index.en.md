@@ -48,7 +48,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
     Playback audio supports `PipeWire/PortAudio/PulseAudio/JACK` backends, if you can't play
     then you should manually install one of the above.
 
-    If you cannot run the game, please run the command `ldd ./NarutoSenki` in game root directory
+    If you cannot run the game, please run the command `ldd ./NarutoSenkiV2` in game root directory
     to display all dependencies and install all missing dependencies manually.
 
 !!! tip "iOS user"

@@ -57,7 +57,7 @@ Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPB
 
     需要设备越狱（如果你准备给你的设备越狱，请确保你知道自己在做什么）。
 
-    或者选择其他方式免越狱签名，但会有7天限制，到期需重签名，具体方法请自行搜索。
+    或者使用签名软件来免越狱安装应用，但会有7天限制，到期需重签名，具体方法请自行搜索。
 
     仅支持iPhone5S、iPad Air、iPad mini2及更新的设备。
 

@@ -8,8 +8,7 @@ title: 下载
 | Windows |          x64          |                            |
 |  Linux  |          x64          |                            |
 |   iOS   |         arm64         |                            |
-|  macOS  |          x64          |                            |
-|  macOS  |         arm64         |                            |
+|  macOS  |      x64 / arm64      |                            |
 |    -    |           -           |             -              |
 | Windows |          x86          |   :octicons-x-circle-16:   |
 
@@ -17,9 +16,11 @@ title: 下载
 
 蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}
 
-GitHub镜像：[点此跳转](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
+- 海外
 
-Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
+    - GitHub镜像：[点此跳转](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
+
+    - Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
 
 ## 支持的平台 { id="supported-platforms" }
 

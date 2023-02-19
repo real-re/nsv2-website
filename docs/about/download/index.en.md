@@ -8,14 +8,17 @@ title: Download
 |  Windows  |              x64               |                             |
 |   Linux   |              x64               |                             |
 |    iOS    |             arm64              |                             |
-|   macOS   |              x64               |                             |
-|   macOS   |             arm64              |                             |
+|   macOS   |          x64 / arm64           |                             |
 |     -     |               -                |              -              |
 |  Windows  |              x86               |   :octicons-x-circle-16:    |
 
 Google Drive: [click here](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
 
 GitHub Mirror: [click here](https://github.com/Naruto-Senki/files/releases/tag/latest){target="_blank"}
+
+- China
+
+    - 蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}
 
 ## Supported Platforms
 

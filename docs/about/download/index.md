@@ -2,21 +2,7 @@
 title: 下载
 ---
 
-> 各平台架构支持情况。
-
-|  平台   | :octicons-cpu-16:架构 | :octicons-download-16:链接 |
-| :-----: | :-------------------: | :------------------------: |
-|  安卓   |         通用          |                            |
-| Windows |          x64          |                            |
-|  Linux  |          x64          |                            |
-|   iOS   |         arm64         |                            |
-|  macOS  |      x64 / arm64      |                            |
-|    -    |           -           |             -              |
-| Windows |          x86          |   :octicons-x-circle-16:   |
-
 点此查看历史版本[更新日志](../../changelog/index.md){target="_blank"}。
-
-## 下载链接
 
 蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}
 
@@ -40,6 +26,8 @@ title: 下载
 
 
 !!! tip "安卓用户"
+
+    蓝奏云安卓文件为`.zip`压缩包，需解压后安装apk。
 
     目前支持`armeabi-v7a`和`arm64-v8a`架构。
 

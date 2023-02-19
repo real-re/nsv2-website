@@ -2,6 +2,8 @@
 title: 下载
 ---
 
+> 各平台架构支持情况。
+
 |  平台   | :octicons-cpu-16:架构 | :octicons-download-16:链接 |
 | :-----: | :-------------------: | :------------------------: |
 |  安卓   |         通用          |                            |
@@ -11,6 +13,8 @@ title: 下载
 |  macOS  |      x64 / arm64      |                            |
 |    -    |           -           |             -              |
 | Windows |          x86          |   :octicons-x-circle-16:   |
+
+点此查看历史版本[更新日志](../../changelog/index.md){target="_blank"}。
 
 ## 下载链接
 

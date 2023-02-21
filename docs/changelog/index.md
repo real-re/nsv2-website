@@ -100,7 +100,7 @@ template: issues-link.html
 
 - 📖网站
     - 更新[路线图](../roadmap/index.md){target="_blank"}
-    - 更新[Wiki - 游戏发展史](../wiki/items.md){target="_blank"}，补充名字由来
+    - 更新[Wiki - 游戏发展史](../wiki/history.md){target="_blank"}，补充名字由来
     - 更新[Wiki - 物品篇](../wiki/items.md){target="_blank"}，添加新的补充说明
     - 更新[Wiki - 效果篇](../wiki/effects.md){target="_blank"}，添加新的补充说明
     - 新增AI购买忍具列表，详见[Wiki - AI篇](../wiki/ai.md){target="_blank"}

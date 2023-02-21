@@ -14,7 +14,7 @@ template: issues-link.html
 !!! danger "重要说明"
 
     __本游戏只在Re的B站[火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}、
-    官网及火影战记官方QQ群内发布更新。__
+    官网及火影战记官方QQ群内发布更新（若有意赞助本项目请前往[此处查看](../about/sponsor/index.md){target="_blank"}）。__
 
     如果你是从其他渠道下载本游戏，均为盗版，
 

@@ -43,7 +43,7 @@ template: issues-link.html
     - 🔥`鸣人（动态）`和`牙`可解锁新立绘背景（[百胜](../game-guides/index.md#立绘){target="_blank"}解锁）
         - <small>:octicons-light-bulb-16: __百胜：__ 获得SS/SSS评分会额外加一和两次胜利数。</small>
     - 🔥`君麻吕`、`猿飞日斩`、`水门`、`大蛇丸`、`飞段`、`鼬`和`千代婆婆`添加新[立绘套装](../game-guides/index.md#立绘){target="_blank"}
-        （金币解锁，滑动切换立绘）
+        - <small>:octicons-light-bulb-16: __提示：__ 金币解锁，滑动切换立绘。</small>
     - 🔥`君麻吕`替换旧立绘及各个头像
     - 🔥UI；添加青蛙击杀播报`（包含6个青蛙播报头像）`
         - <small>:octicons-light-bulb-16: __温馨小提示：__ 有的时候你可能一不小心被击杀，但是却看不到播报？没事，现在你不用担心了。</small>

@@ -75,7 +75,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/solid/globe
-      link: https://game.naruto.re
+      link: https://game.naruto.re/
     - icon: fontawesome/brands/github
       link: https://github.com/naruto-senki
     - icon: fontawesome/brands/youtube

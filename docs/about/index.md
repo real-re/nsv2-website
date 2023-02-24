@@ -31,7 +31,7 @@ title: 关于作者
 
 ## 官方链接 { id="links" }
 
-1. 游戏:video_game:官网: [https://game.naruto.re](https://game.naruto.re){target="_blank"}
+1. 游戏:video_game:官网: [https://game.naruto.re](https://game.naruto.re/){target="_blank"}
 
 2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
 __Bilibili__[ 频道 - 火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}

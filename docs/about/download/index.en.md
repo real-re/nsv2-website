@@ -55,3 +55,11 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 !!! tip "macOS user"
 
     This is a universal binary on Mac that you can run on x64 and arm64 (M1+) devices.
+
+## Supported Languages
+
+| Language                    | Progression |
+| --------------------------- | ----------- |
+| Simplify Chinese (简体中文) | 90%         |
+| English                     | 60%         |
+| Other                       | WIP         |

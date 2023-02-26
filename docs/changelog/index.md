@@ -46,7 +46,7 @@ template: issues-link.html
         - <small>:octicons-light-bulb-16: __提示：__ 使用金币解锁，滑动切换立绘。</small>
     - 🔥百胜立绘 __全部__ 增加配套的各个头像
     - 🔥`君麻吕`替换旧立绘及各个头像
-    - 🔥`牙`和`纲手`替换新的角色选择按钮`（感谢外国友人的制作 @Davin Damara）`
+    - 🔥`纲手`替换新的角色选择按钮`（感谢外国友人的制作 @Davin Damara）`
     - 🔥UI；添加青蛙击杀播报`（包含6个青蛙播报头像）`
         - <small>:octicons-light-bulb-16: __温馨小提示：__ 有的时候你可能一不小心被击杀，但是却看不到播报？没事，现在你不用担心了。</small>
         - <small>:octicons-light-bulb-16: __温馨小提示2：__ 青蛙击杀不计入该阵营内。</small>

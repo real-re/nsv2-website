@@ -50,6 +50,8 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 
     Or use ios signing software to avoid jailbreak.
 
+    It is also recommended to look for Android Emulators.
+
     Only supports iPhone5S, iPad Air, iPad mini2 and newer devices。
 
 !!! tip "macOS user"

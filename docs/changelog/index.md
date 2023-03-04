@@ -53,9 +53,9 @@ template: issues-link.html
     - Win 10/11使用深色模式窗口
 
 - 🚀变更
-    - 🔥`鸣人（动态）`和`牙`可解锁新立绘背景（[百胜](../game-guides/index.md#立绘){target="_blank"}解锁）
     - 🔥重制游戏启屏Logo
-        - <small>:octicons-light-bulb-16: __百胜：__ 获得SS/SSS评分会额外加一和两次胜利数。</small>
+    - 🔥`鸣人（动态）`和`牙`可解锁新立绘背景（[百胜（熟练度）](../game-guides/index.md#立绘){target="_blank"}解锁）
+        - <small>:octicons-light-bulb-16: __百胜：__ 目前称呼为熟练度，当游戏胜利获得一点，取得S/SS/SSS评分额外+1～3点。</small>
     - 🔥`君麻吕`、`猿飞日斩`、`水门`、`大蛇丸`、`飞段`、`鼬`和`千代婆婆`添加新[立绘套装](../game-guides/index.md#立绘){target="_blank"}
         - <small>:octicons-light-bulb-16: __提示：__ 使用金币解锁，滑动切换立绘。</small>
     - 🔥百胜立绘 __全部__ 增加配套的各个头像

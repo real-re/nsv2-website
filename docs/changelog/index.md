@@ -31,8 +31,6 @@ template: issues-link.html
 
 ## v2.1.5 <small>[beta] 2023-03-05</small> { id="v215" }
 
-> 预告（因故五次延期，完善新功能中...）
->
 > ios v2.1.4-fix 无法使用及音频播放有bug，请去蓝奏云下载2.1.4旧版安装包
 
 - ✨新特性

@@ -2,9 +2,9 @@
 title: Roadmap
 ---
 
-:octicons-versions-16: Current Version: v2.1.4 beta
+:octicons-versions-16: Current Version: v2.1.5 beta
 
-:octicons-versions-16: Next Version: v2.1.5 beta
+:octicons-versions-16: Next Version: v2.1.6 beta
 
 :octicons-versions-16: Next Stable Version: v2.2.0
 

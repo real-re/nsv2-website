@@ -4,6 +4,8 @@ title: 下载
 
 点此查看历史版本[更新日志](../../changelog/index.md){target="_blank"}。
 
+123云盘：[www.123pan.com/s/w1o7Vv-UN4Sh](https://www.123pan.com/s/w1o7Vv-UN4Sh){target="_blank"}
+
 蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}
 
 - 海外

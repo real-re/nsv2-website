@@ -9,17 +9,14 @@ title: 路线图
 >
 > 后续详细的规划将在B站的直播/视频中陆续释出。
 
-:octicons-versions-16: 当前版本：v2.1.4 beta
+:octicons-versions-16: 当前版本：v2.1.5 beta
 
-:octicons-versions-16: 下一版本：v2.1.5 beta
+:octicons-versions-16: 下一版本：v2.1.6 beta
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 
 `本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
 
-!!! info "当前主要工作"
-    - v2.1.5
-        - [ ] 新版本工作 &emsp;__[=========-]`98%`__
 
 ## 进度 {id="next"}
 

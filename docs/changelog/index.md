@@ -26,6 +26,8 @@ template: issues-link.html
 
 !!! note "特别注意"
 
+    __本版本有许多问题尚未修复，耐心等待后续版本。__
+
     v2.1.5的iOS & macOS延期 -> 03/20。
 
 

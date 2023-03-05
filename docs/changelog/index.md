@@ -31,6 +31,14 @@ template: issues-link.html
     v2.1.5的iOS & macOS延期 -> 03/20。
 
 
+## v2.1.5-fix <small>[beta] 2023-?-?</small> { id="v215-fix" }
+
+> 预告。
+
+- 🔧修复
+    - 🔥修复`井野`奥义2 在`井野`阵亡后可能导致永久控制
+
+
 ## v2.1.5 <small>[beta] 2023-03-05</small> { id="v215" }
 
 - ✨新特性

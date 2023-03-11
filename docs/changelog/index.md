@@ -40,6 +40,7 @@ template: issues-link.html
         - <small>:octicons-light-bulb-16: __战斗力：__ 每局结算的分数（pts）合计作为该角色的战斗力。</small>
     - 🔥【忍者情报】部分角色添加了特殊统计条目
         - <small>:octicons-light-bulb-16: 包括卡卡西、猿飞日斩、迪达拉、角都和飞段。</small>
+    - UI：更新【游戏模式】界面各个标题文字、说明等
 
 - ⚡️优化
     - 🔥UI：角色切换立绘后，【角色选择】界面不会立即更新

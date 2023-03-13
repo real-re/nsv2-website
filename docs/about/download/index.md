@@ -40,7 +40,7 @@ title: 下载
     如果你无法正常开始游戏或不了解、从未安装过vc运行库，都应下载安装最新版本`微软常用运行库集合软件`或者
     直接下载安装[最新版的微软c++运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)。
 
-    [:material-download: 下载](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
+    [:material-download: 下载微软常用运行库集合软件](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
     以后的压缩包格式将固定为'.7z'，所以我推荐首选解压软件为`7-Zip（免费开源）`和`Bandzip（免费、现代UI）`.
 

@@ -34,9 +34,13 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 !!! tip "Windows user"
 
     If you don't have any vc redist package installed,
-    you should download and install the latest version of `MSVBCRT.AIO`.
+    you should download and install the latest version of `MSVBCRT.AIO` or
+    [latest Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
     [:material-download: Download MSVBCRT.AIO](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
+
+    To extract '.7z' archive file, we recommend [7-Zip](https://www.7-zip.org) or
+    [Bandzip](https://www.bandisoft.com/bandizip).
 
 !!! tip "Linux user"
 

@@ -38,15 +38,15 @@ title: 下载
 !!! tip "Windows用户"
 
     如果你无法正常开始游戏或不了解、从未安装过vc运行库，都应下载安装最新版本`微软常用运行库集合软件`或者
-    直接下载安装[最新版的微软c++运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe)。
+    直接下载安装[最新版的微软c++运行库](https://aka.ms/vs/17/release/vc_redist.x64.exe){target="_blank"}。
 
     [:material-download: 下载微软常用运行库集合软件](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
     以后的压缩包格式将固定为'.7z'，所以我推荐首选解压软件为`7-Zip（免费开源）`和`Bandzip（免费、现代UI）`.
 
-    前往[7-Zip官网](https://www.7-zip.org)下载，进入后选择第一个`Download`按钮，后面为`64-bit x64`。
+    前往[7-Zip官网](https://www.7-zip.org){target="_blank"}下载，进入后选择第一个`Download`按钮，后面为`64-bit x64`。
 
-    前往[Bandzip官网](https://www.bandisoft.com/bandizip)下载，无需购买付费版本，无各类强制弹窗广告。
+    前往[Bandzip官网](https://www.bandisoft.com/bandizip){target="_blank"}下载，无需购买付费版本，无各类强制弹窗广告。
 
 !!! tip "Linux用户"
 

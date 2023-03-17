@@ -42,6 +42,7 @@ template: issues-link.html
         - <small>:octicons-light-bulb-16: 包括卡卡西、猿飞日斩、迪达拉、角都和飞段。</small>
     - UI：主菜单一栏新增【帮助/Help】按钮
         - <small>:octicons-light-bulb-16: 目前仅提供一些简单的说明及提供对官网页面的浏览器跳转。</small>
+    - UI：主菜单支持查看版本信息`（点击右下角版本号将会显示）`
     - UI：更新【游戏模式】界面各个标题文字、说明等
     - PC端：游戏根目录内添加常用官网直达链接
 

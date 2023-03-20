@@ -31,7 +31,7 @@ template: issues-link.html
     v2.1.5的iOS & macOS延期 -> 03/20。
 
 
-## v2.1.5-fix <small>[beta] 2023-?-?</small> { id="v215-fix" }
+## v2.1.5-fix-1 <small>[beta] 2023-3-?</small> { id="v215-fix-1" }
 
 > 下期预告（不定时更新）。
 

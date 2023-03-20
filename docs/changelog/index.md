@@ -28,7 +28,7 @@ template: issues-link.html
 
     __本版本有许多问题尚未修复，耐心等待后续版本。__
 
-    v2.1.5的iOS & macOS延期 -> 03/20。
+    v2.1.5的iOS & macOS将会持续延期，直至v2.1.5-fix1版本推出。
 
 
 ## v2.1.5-fix-1 <small>[beta] 2023-3-?</small> { id="v215-fix-1" }

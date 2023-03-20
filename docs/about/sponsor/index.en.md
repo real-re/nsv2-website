@@ -29,8 +29,8 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 | Patreon | :fontawesome-brands-paypal:ayPal |
 | :---: | :---: |
-| <a href="https://www.patreon.com/bePatron?u=38469649" data-patreon-widget-type="become-patron-button">Become a Patron!</a> | (Comming soon) |
-
+| [patreon.com/real_re](temporarily disabled) | (Comming soon) |
+zzzzdasdasdasd
 |        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |    :fontawesome-brands-alipay:Alipay Ⅱ  |
 | :--------------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 | ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png)[Open App](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } | ![alipay Ⅱ](../../assets/img/ali_pay2.png) |

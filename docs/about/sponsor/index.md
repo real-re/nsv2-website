@@ -33,7 +33,7 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 
 | Patreon | :fontawesome-brands-paypal:ayPal |
 | :---: | :---: |
-| [patreon.com/real_re](https://www.patreon.com/real_re?fan_landing=true) | (准备中) |
+| [patreon.com/real_re](暂时停用) | (即将到来) |
 
 !!! note "特别说明"
 

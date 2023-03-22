@@ -22,7 +22,7 @@ template: issues-link.html
 
     如果你的设备出现任何异常将与本团队无关。
 
-    当前版本仍有些影响游戏性的BUG，请耐心等待修复。
+    各个平台使用教程请参考[下载页面](../about/download/index.md)底部的提示。
 
 !!! note "特别注意"
 

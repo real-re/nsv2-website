@@ -42,7 +42,7 @@ title: 下载
 
     [:material-download: 下载微软常用运行库集合软件](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
-    以后的压缩包格式将固定为'.7z'，所以我推荐首选解压软件为`7-Zip（免费开源）`和`Bandzip（免费、现代UI）`.
+    为了方便大家解压，目前压缩包格式将固定为'.zip'，首选解压软件为`7-Zip（免费开源）`和`Bandzip（免费、现代UI）`.
 
     前往[7-Zip官网](https://www.7-zip.org){target="_blank"}下载，进入后选择第一个`Download`按钮，后面为`64-bit x64`。
 

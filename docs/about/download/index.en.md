@@ -39,7 +39,7 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 
     [:material-download: Download MSVBCRT.AIO](https://ghpym.lanzoui.com/b00ze15ab){ .md-button }
 
-    To extract '.7z' archive file, we recommend [7-Zip](https://www.7-zip.org){target="_blank"} or
+    To extract '.zip' archive file, we recommend [7-Zip](https://www.7-zip.org){target="_blank"} or
     [Bandzip](https://www.bandisoft.com/bandizip){target="_blank"}.
 
 !!! tip "Linux user"

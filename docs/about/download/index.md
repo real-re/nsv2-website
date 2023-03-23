@@ -24,7 +24,7 @@ title: 下载
 | ------- | ------------------ | ------------------------ |
 | Android | 安卓 4.4+          | 安卓 13.0                |
 | Windows | 64位               | Windows 11/10 64位       |
-| Linux   | 64位               | Manjaro Linux 6.0.0 64位 |
+| Linux   | 64位               | Manjaro Linux 6.3.0 64位 |
 | iOS     | iOS 9.0+           | iOS 15.0+                |
 | macOS   | 64位 / arm64 (M1+) | macOS 12.1 64位          |
 

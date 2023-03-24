@@ -33,7 +33,7 @@ template: issues-link.html
     iOS版本目前点击技能按钮会导致闪退，我的电脑虚拟机里无法测试，
     所以等我尝试远程连接家里的电脑，再做测试和修复。
 
-## v2.1.5-fix-1 <small>[beta] 2023-3-?</small> { id="v215-fix-1" }
+## v2.1.5-fix-1 <small>[beta] 2023-3-25</small> { id="v215-fix-1" }
 
 > 下期预告（不定时更新）。
 

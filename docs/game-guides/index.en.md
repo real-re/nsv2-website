@@ -35,7 +35,7 @@ Game items include `Ramen` and `Gear (Ninja tools)`.
 
 !!! tip
 
-    click [here Wiki - Items](../wiki/items.md).
+    click here [Wiki - Items](../wiki/items.md).
 
 ## Resources
 

@@ -34,13 +34,13 @@ template: issues-link.html
     所以等我尝试远程连接家里的电脑，再做测试和修复。
 
 
-## v2.1.5-fix-2 <small>[beta] 2023-4-25</small> { id="v215-fix-2" }
+## v2.1.5-fix2 <small>[beta] 2023-4-25</small> { id="v215-fix2" }
 
 > 下期预告（不定时更新），开发中。
 
 
 
-## v2.1.5-fix-1 <small>[beta] 2023-3-25</small> { id="v215-fix-1" }
+## v2.1.5-fix <small>[beta] 2023-3-25</small> { id="v215-fix" }
 
 - 🚀变更
     - 🔥主菜单使用【个人档案/Profile】取缔登录按钮，显示基础的个人统计数据

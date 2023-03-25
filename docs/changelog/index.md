@@ -51,7 +51,8 @@ template: issues-link.html
     - PC端：游戏根目录内添加常用官网直达链接
     - 增加新评分级别——D`（可以向大家展示你真正的实力了）`
     - 🔥调整熟练度（百胜）获取规则，降低解锁立绘难度
-        - <small>:octicons-light-bulb-16: __熟练度：__ D +0、C +1 、B +2、A +3、S +4、SS +5、SSS +6。</small>
+        - <small>:octicons-light-bulb-16: __熟练度：__ 胜利后获得1点。</small>
+        - <small>:octicons-light-bulb-16: __熟练度加成：__ D +0、C +1 、B +2、A +3、S +4、SS +5、SSS +6。</small>
     - 🔥当角色处于不可使用忍具的状态时，不再被允许使用也不会进入冷却
     - `千代婆婆`奥义1 己方已阵亡的角色也会获得查克拉`（原本设定，已同步wiki）`
 

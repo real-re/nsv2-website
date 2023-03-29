@@ -99,7 +99,7 @@ template: issues-link.html
     - 修复某些情况下音频可能会产生异常效果
     - 修复macOS可能无法打开游戏
     - 修复【自动检测更新】不会提示fix版本的更新
-    - 修复部分错误的英文本地化文本
+    - 修复部分错误的英文本地化词条
 
 - 📖网站
     - 更新[Wiki - 游戏发展史](../wiki/history.md){target="_blank"}，补充Zakume团队名字由来

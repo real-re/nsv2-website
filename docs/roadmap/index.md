@@ -68,7 +68,7 @@ title: 路线图
     - [ ] 增加启动画面
     - [ ] 游戏内使用自定义鼠标指针
     - [ ] 提供Windows安装包
-    - [ ] 提供Linux安装包`（.AppImage（通用）、.pkg.tar.zst（Arch）、.deb（Ubantu）、.rpm（Debian））`
+    - [ ] 提供Linux安装包`（.AppImage（通用）、.pkg.tar.zst（Arch）、.deb（Debain/Ubuntu）、.rpm（RedHat））`
     - [x] 支持自定义按键
     - [ ] 优化忍具技能按钮布局
     - [ ] 悬停技能按钮时显示说明

@@ -48,6 +48,7 @@ template: issues-link.html
 
 - ⚡️优化
     - 优化【个人档案】最擅长忍者的统计算法`（胜场与胜率的均衡评估）`
+    - 系统WebView不可用时，点击news自动跳转至浏览器
 
 - 🔧修复
     - 🔥修复Windows和Linux无法通过其他目录启动游戏

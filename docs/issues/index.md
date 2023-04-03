@@ -145,11 +145,9 @@ template: issues.html
 
     原因未知，等待后续修复。
 
-!!! bug "188. 部分Windows设备点击news按钮后闪退"
+!!! success "188. 部分Windows设备点击news按钮后闪退"
 
     若Windows上无Edge浏览器，则会导致点击news按钮闪退。
-
-    等待后续优化。
 
 !!! bug "189. 宇智波鼬用奥义一击杀青蛙后不加金币"
 

@@ -14,17 +14,35 @@ GitHub Mirror: [click here](https://github.com/Naruto-Senki/files/releases/tag/l
 
     - ~~蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}~~
 
+---
+
+- The progress of the automatic update feature of each platform is as follows (WIP):
+
+| :octicons-link-16:Update Source | :octicons-download-16:Auto Download |
+| ------------------------------- | ----------------------------------- |
+| Google Drive                    | :octicons-x-16:                     |
+| GitHub                          | :octicons-check-16:                 |
+| 123云盘                         | :octicons-check-16:                 |
+
+| :octicons-cpu-16:Platform | :octicons-download-16:Auto Download | :octicons-zap-16:Auto Install |
+| ------------------------- | ----------------------------------- | ----------------------------- |
+| Android                   | :octicons-check-16:                 | :octicons-check-16:           |
+| Windows                   | :octicons-check-16:                 | :octicons-check-16:           |
+| Linux                     | :octicons-check-16:                 | :octicons-x-16:               |
+| iOS                       | :octicons-check-16:                 | :octicons-x-16:               |
+| macOS                     | :octicons-check-16:                 | :octicons-x-16:               |
+
 ## Supported Platforms
 
 Platforms supported by the latest version of **Naruto Senki: V2**：
 
-| Platform | System Requirements  | Tested                     |
-| -------- | -------------------- | -------------------------- |
-| Android  | Minimum Android 4.4  | Android 13.0               |
-| Windows  | 64-bit               | Windows 11/10 64-bit       |
-| Linux    | 64-bit               | Manjaro Linux 6.3.0 64-bit |
-| iOS      | Minimum iOS 9.0      | iOS 15.0+                  |
-| macOS    | 64-bit / arm64 (M1+) | macOS 12.1 64-bit          |
+| :octicons-cpu-16:Platform | System Requirements  | Tested                     |
+| ------------------------- | -------------------- | -------------------------- |
+| Android                   | Minimum Android 4.4  | Android 13.0               |
+| Windows                   | 64-bit               | Windows 11/10 64-bit       |
+| Linux                     | 64-bit               | Manjaro Linux 6.3.0 64-bit |
+| iOS                       | Minimum iOS 9.0      | iOS 15.0+                  |
+| macOS                     | 64-bit / arm64 (M1+) | macOS 12.1 64-bit          |
 
 
 !!! tip "Android user"

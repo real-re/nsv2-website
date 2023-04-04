@@ -16,17 +16,35 @@ title: 下载
 
     - Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
 
+---
+
+- 自动更新功能进展如下（开发中）：
+
+| :octicons-link-16:下载源 | :octicons-download-16:自动下载 |
+| ------------------------ | ------------------------------ |
+| 123云盘                  | :octicons-check-16:            |
+| Google Drive             | :octicons-x-16:                |
+| GitHub                   | :octicons-check-16:            |
+
+| :octicons-cpu-16:平台 | :octicons-download-16:自动下载 | :octicons-zap-16:自动安装 |
+| --------------------- | ------------------------------ | ------------------------- |
+| Android               | :octicons-check-16:            | :octicons-check-16:       |
+| Windows               | :octicons-check-16:            | :octicons-check-16:       |
+| Linux                 | :octicons-check-16:            | :octicons-x-16:           |
+| iOS                   | :octicons-check-16:            | :octicons-x-16:           |
+| macOS                 | :octicons-check-16:            | :octicons-x-16:           |
+
 ## 支持的平台 { id="supported-platforms" }
 
 **火影战记: V2** 最新版支持运行的平台如下：
 
-| 平台    | 系统需求           | 测试通过                 |
-| ------- | ------------------ | ------------------------ |
-| Android | 安卓 4.4+          | 安卓 13.0                |
-| Windows | 64位               | Windows 11/10 64位       |
-| Linux   | 64位               | Manjaro Linux 6.3.0 64位 |
-| iOS     | iOS 9.0+           | iOS 15.0+                |
-| macOS   | 64位 / arm64 (M1+) | macOS 12.1 64位          |
+| :octicons-cpu-16:平台 | 系统需求           | 测试通过                 |
+| --------------------- | ------------------ | ------------------------ |
+| Android               | 安卓 4.4+          | 安卓 13.0                |
+| Windows               | 64位               | Windows 11/10 64位       |
+| Linux                 | 64位               | Manjaro Linux 6.3.0 64位 |
+| iOS                   | iOS 9.0+           | iOS 15.0+                |
+| macOS                 | 64位 / arm64 (M1+) | macOS 12.1 64位          |
 
 
 !!! tip "安卓用户"

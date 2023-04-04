@@ -13,3 +13,22 @@ title: Roadmap
 !!! warning "The current language is not currently supported !!!"
 
     Please check the Chinese link [game.naruto.re/roadmap](https://game.naruto.re/roadmap/).
+
+
+## Progression {id="next"}
+
+- The progress of the automatic update feature of each platform is as follows (WIP):
+
+| :octicons-link-16:Update Source | :octicons-download-16:Auto Download |
+| ------------------------------- | ----------------------------------- |
+| Google Drive                    | :octicons-x-16:                     |
+| GitHub                          | :octicons-check-16:                 |
+| 123云盘                         | :octicons-check-16:                 |
+
+| :octicons-cpu-16:Platform | :octicons-download-16:Auto Download | :octicons-zap-16:Auto Install |
+| ------------------------- | ----------------------------------- | ----------------------------- |
+| Android                   | :octicons-check-16:                 | :octicons-check-16:           |
+| Windows                   | :octicons-check-16:                 | :octicons-check-16:           |
+| Linux                     | :octicons-check-16:                 | :octicons-x-16:               |
+| iOS                       | :octicons-check-16:                 | :octicons-x-16:               |
+| macOS                     | :octicons-check-16:                 | :octicons-x-16:               |

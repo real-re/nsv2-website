@@ -16,24 +16,6 @@ title: 下载
 
     - Google Drive：[点此跳转](https://drive.google.com/drive/folders/1addvZRBvPBGDJtiLdzMWgd6C_qiVS3Lt?usp=sharing){target="_blank"}
 
----
-
-- 自动更新功能进展如下（开发中）：
-
-| :octicons-link-16:下载源 | :octicons-download-16:自动下载 |
-| ------------------------ | ------------------------------ |
-| 123云盘                  | :octicons-check-16:            |
-| Google Drive             | :octicons-x-16:                |
-| GitHub                   | :octicons-check-16:            |
-
-| :octicons-cpu-16:平台 | :octicons-download-16:自动下载 | :octicons-zap-16:自动安装 |
-| --------------------- | ------------------------------ | ------------------------- |
-| Android               | :octicons-check-16:            | :octicons-check-16:       |
-| Windows               | :octicons-check-16:            | :octicons-check-16:       |
-| Linux                 | :octicons-check-16:            | :octicons-x-16:           |
-| iOS                   | :octicons-check-16:            | :octicons-x-16:           |
-| macOS                 | :octicons-check-16:            | :octicons-x-16:           |
-
 ## 支持的平台 { id="supported-platforms" }
 
 **火影战记: V2** 最新版支持运行的平台如下：

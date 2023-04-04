@@ -41,7 +41,7 @@ template: issues-link.html
 - ✨新特性
     - 线上公告通知
     - 提供Windows安装包
-    - 部分平台支持自动下载/安装更新，具体查看[下载](../about//download/index.md)
+    - 部分平台支持自动下载/安装更新，具体查看[下载](../roadmap/index.md)
 
 - 🚀变更
     - 🔥UI：添加立绘`可切换`提示

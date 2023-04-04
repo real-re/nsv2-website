@@ -14,24 +14,6 @@ GitHub Mirror: [click here](https://github.com/Naruto-Senki/files/releases/tag/l
 
     - ~~蓝奏云：[naruto-senki-re.lanzouj.com/b0a3dddad](https://naruto-senki-re.lanzouj.com/b0a3dddad){target="_blank"}~~
 
----
-
-- The progress of the automatic update feature of each platform is as follows (WIP):
-
-| :octicons-link-16:Update Source | :octicons-download-16:Auto Download |
-| ------------------------------- | ----------------------------------- |
-| Google Drive                    | :octicons-x-16:                     |
-| GitHub                          | :octicons-check-16:                 |
-| 123云盘                         | :octicons-check-16:                 |
-
-| :octicons-cpu-16:Platform | :octicons-download-16:Auto Download | :octicons-zap-16:Auto Install |
-| ------------------------- | ----------------------------------- | ----------------------------- |
-| Android                   | :octicons-check-16:                 | :octicons-check-16:           |
-| Windows                   | :octicons-check-16:                 | :octicons-check-16:           |
-| Linux                     | :octicons-check-16:                 | :octicons-x-16:               |
-| iOS                       | :octicons-check-16:                 | :octicons-x-16:               |
-| macOS                     | :octicons-check-16:                 | :octicons-x-16:               |
-
 ## Supported Platforms
 
 Platforms supported by the latest version of **Naruto Senki: V2**：

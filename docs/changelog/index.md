@@ -64,6 +64,9 @@ template: issues-link.html
 - 📖网站
     - 更新[路线图](../roadmap/index.md){target="_blank"}
 
+- 👏特别鸣谢
+    - 感谢:material-at:__Unlucky Skull (RaiKa87)__ 为我们提供英语/繁体中文的翻译`（进行中，详见路线图-本地化进度）`
+
 
 ## v2.1.5-fix <small>[beta] 2023-3-25</small> { id="v215-fix" }
 

@@ -30,21 +30,22 @@ title: 路线图
 | :octicons-link-16:下载源 | :octicons-download-16:自动下载 |
 | ------------------------ | ------------------------------ |
 | 123云盘                  | :octicons-check-16:            |
-| Google Drive             | :octicons-x-16:                |
+| Google Drive             | :octicons-check-16:            |
 | GitHub                   | :octicons-check-16:            |
 
-| :octicons-cpu-16:平台 | :octicons-download-16:自动下载 | :octicons-zap-16:自动安装 |
-| --------------------- | ------------------------------ | ------------------------- |
-| Android               | :octicons-check-16:            | :octicons-check-16:       |
-| Windows               | :octicons-check-16:            | :octicons-check-16:       |
-| Linux                 | :octicons-check-16:            | :octicons-x-16:           |
-| iOS                   | :octicons-check-16:            | :octicons-x-16:           |
-| macOS                 | :octicons-check-16:            | :octicons-x-16:           |
+| :octicons-cpu-16:平台 | :octicons-download-16:自动下载 | :octicons-tools-16:自动安装 | :octicons-zap-16:增量更新 |
+| --------------------- | ------------------------------ | --------------------------- | ------------------------- |
+| Android               | :octicons-check-16:            | :octicons-check-16:         | :octicons-dash-16:        |
+| Windows               | :octicons-check-16:            | :octicons-check-16:         | :octicons-x-16:           |
+| Linux                 | :octicons-check-16:            | :octicons-x-16:             | :octicons-x-16:           |
+| iOS                   | :octicons-check-16:            | :octicons-x-16:             | :octicons-dash-16:        |
+| macOS                 | :octicons-check-16:            | :octicons-x-16:             | :octicons-x-16:           |
 
 - 新功能
     - [x] 自动检查更新
-        - [ ] 自动下载
-        - [ ] 自动安装
+        - [x] 自动下载
+        - [ ] 自动安装`（仅Android和Windows）`
+        - [ ] 增量更新`（更小的更新文件）`
     - 游戏功能
         - [ ] 玩家角色阵亡后可以移动视角
     - 实验功能（指设计尚未最终确定的功能，同时包括一些不常用且可能不会正式推出的功能）

@@ -34,7 +34,7 @@ template: issues-link.html
     部分版本不会向后兼容，如果出现进入游戏几秒后闪退，请仔细检查你的版本号，是否安装错误的版本。
 
 
-## v2.1.5-fix2 <small>[beta] 2023-4-25</small> { id="v215-fix2" }
+## v2.1.5-fix2 <small>[beta] 2023-5-1</small> { id="v215-fix2" }
 
 > 下期预告（不定时更新），开发中。
 
@@ -129,7 +129,7 @@ template: issues-link.html
     - 更新[Wiki - 游戏发展史](../wiki/history.md){target="_blank"}，补充Zakume团队名字由来
 
 
-## v2.1.5 <small>[beta] 2023-03-05</small> { id="v215" }
+## v2.1.5 <small>[beta] 2023-3-5</small> { id="v215" }
 
 - ✨新特性
     - 支持 Apple Silicon / M1+

@@ -17,45 +17,44 @@ title: 路线图
 
 `本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
 
-> 注：参与翻译的人员，部分词条会使用特殊的字符用于程序内，也请完整保留（如'<'、'='、'|'等）。
->
-> 你也可以与我们取得联系，来更高效的参与到翻译工作中。
+??? note "翻译的人员"
+
+    1. 参与翻译的人员，部分词条会使用特殊的字符用于程序内，也请完整保留（如'<'、'='、'|'等）。
+    2. 仅面向中文，词条内空格的字符需要完整保留。
+
+    你也可以与我们取得联系，来更高效的参与到翻译工作中。
+
 
 ## 进度 {id="next"}
 
 > 此项涵盖了 __当前版本__ 至 __下一正式版__ 之间的所有新内容（不定时更新）。
 
-- 自动更新功能进展如下（开发中）：
+??? tip "自动更新功能进展（开发中）"
 
-| :octicons-link-16:下载源 | :octicons-download-16:自动下载 |
-| ------------------------ | ------------------------------ |
-| 123云盘                  | :octicons-check-16:            |
-| Google Drive             | :octicons-check-16:            |
-| GitHub                   | :octicons-check-16:            |
+    | :octicons-link-16:下载源 | :octicons-download-16:自动下载 |
+    | ------------------------ | ------------------------------ |
+    | 123云盘                  | :octicons-check-16:            |
+    | Google Drive             | :octicons-check-16:            |
+    | GitHub                   | :octicons-check-16:            |
 
-| :octicons-cpu-16:平台 | :octicons-download-16:自动下载 | :octicons-tools-16:自动安装 | :octicons-zap-16:增量更新 |
-| --------------------- | ------------------------------ | --------------------------- | ------------------------- |
-| Android               | :octicons-check-16:            | :octicons-check-16:         | :octicons-dash-16:        |
-| Windows               | :octicons-check-16:            | :octicons-check-16:         | :octicons-x-16:           |
-| Linux                 | :octicons-check-16:            | :octicons-x-16:             | :octicons-x-16:           |
-| iOS                   | :octicons-check-16:            | :octicons-x-16:             | :octicons-dash-16:        |
-| macOS                 | :octicons-check-16:            | :octicons-x-16:             | :octicons-x-16:           |
+    | :octicons-cpu-16:平台 | :octicons-download-16:自动下载 | :octicons-tools-16:自动安装 | :octicons-zap-16:增量更新 |
+    | --------------------- | ------------------------------ | --------------------------- | ------------------------- |
+    | Android               | :octicons-check-16:            | :octicons-check-16:         | :octicons-dash-16:        |
+    | Windows               | :octicons-check-16:            | :octicons-check-16:         | :octicons-x-16:           |
+    | Linux                 | :octicons-check-16:            | :octicons-x-16:             | :octicons-x-16:           |
+    | iOS                   | :octicons-check-16:            | :octicons-x-16:             | :octicons-dash-16:        |
+    | macOS                 | :octicons-check-16:            | :octicons-x-16:             | :octicons-x-16:           |
 
 - 新功能
-    - [x] 自动检查更新
-        - [x] 自动下载
-        - [ ] 自动安装`（仅Android和Windows）`
-        - [ ] 增量更新`（更小的更新文件）`
+    - [ ] 自动显示线上公告通知
     - 游戏功能
         - [ ] 玩家角色阵亡后可以移动视角
     - 实验功能（指设计尚未最终确定的功能，同时包括一些不常用且可能不会正式推出的功能）
         - [ ] 旧式漫画气泡文字贴图
         - [ ] 地图背景视差效果
         - [ ] 像素渲染模式
-    - [ ] 自动显示线上公告通知
 - 待完善
     - [ ] 忍具 - 烟雾弹，优化技能图标
-    - [ ] PC端：支持完全键盘操作
 - UI
     - [x] 支持本地化技能描述`（如果你想帮助我们把他翻译成其他语言，请`[`联系`](../about/index.md#contact)`我们）`
     - [x] 优化4v4的【结算】界面
@@ -92,11 +91,12 @@ title: 路线图
     - [x] 支持自定义按键
     - [ ] 优化忍具技能按钮布局
     - [ ] 悬停技能按钮时显示说明
+    - [ ] 支持完全键盘操作
 - 角色
     - [ ] 新角色`（商议中）`
     - [ ] 重制部分角色`（进行中）`
     - [ ] 画师原创立绘`（进行中）`
-    - [ ] 修复所有锚点错误的角色（by @Davin Damara）
+    - [ ] 修复所有锚点错误的角色（by :material-at:__Davin Damara__）
 - 模式
     - [ ] 训练场（练习忍术、测试技能等，并显示数据统计）
     - [ ] 战役：通过固定阵容进行对战
@@ -119,7 +119,7 @@ title: 路线图
 ## 未来 {id="future"}
 
 - UI
-    - [ ] 更多的语言支持`（包括但不限于英语、日语、繁体中文）`
+    - [ ] 更多的语言支持`（包括但不限于繁体中文、英语、日语）`
     - [x] 更清晰的显示文字
 - 角色
     - [ ] 角色换肤

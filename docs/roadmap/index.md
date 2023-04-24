@@ -17,7 +17,7 @@ title: 路线图
 
 `本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
 
-??? note "参与翻译注意事项"
+??? note "本地化注意事项"
 
     1. 参与翻译的人员，部分词条会使用特殊的字符用于程序内，也请完整保留（如'<'、'='、'|'等）。
     2. 词条内空格字符也需完整保留。

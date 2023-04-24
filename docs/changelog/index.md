@@ -24,7 +24,7 @@ template: issues-link.html
 
     各个平台使用教程请参考[下载页面](../about/download/index.md)底部的提示。
 
-!!! note "特别注意"
+!!! warning "特别注意"
 
     __本版本仍有部分问题尚未修复，具体查看[问题汇总](../issues/index.md)，请耐心等待后续版本。__
 

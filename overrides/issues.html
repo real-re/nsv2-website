@@ -15,7 +15,7 @@ const DIRECT_LINK_TITLE = 'GitHub Issue: _/_ ';
 const ISSUES_LINK_TITLE = "{{ issue.link_title }}";
 
 var links = document.getElementsByClassName('magiclink');
-for (var i = 0; i < links.length; i++) {
+for (var i = 0; i < links.length; ++i) {
     var link = links[i];
     var href = link.getAttribute('href');
     if (href != "" && href.startsWith(DIRECT_LINK))
@@ -32,18 +32,18 @@ var questionNum = 0;
 var failureNum = 0;
 
 var titles = document.getElementsByClassName('admonition-title');
-for (var i = 0; i < titles.length; i++) {
+for (var i = 0; i < titles.length; ++i) {
     titles[i].innerHTML += "".anchor(i + 1);
 }
 
 var issues = document.getElementsByClassName('admonition');
 var totalNum = issues.length;
-for (var i = 0; i < issues.length; i++) {
+for (var i = 0; i < issues.length; ++i) {
     switch (issues[i].classList[1]) {
-        case 'success': successNum++; break;
-        case 'bug': bugNum++; break;
-        case 'question': questionNum++; break;
-        case 'failure': failureNum++; break;
+        case 'success': ++successNum; break;
+        case 'bug': ++bugNum; break;
+        case 'question': ++questionNum; break;
+        case 'failure': ++failureNum; break;
     }
 }
 // insert issue statistic

@@ -15,15 +15,25 @@ title: 路线图
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 
-`本地化进度:`<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
+---
+
+本地化进度：<a title="Crowdin" target="_blank" href="https://zh.crowdin.com/project/nsv2"><img src="https://badges.crowdin.net/nsv2/localized.svg"></a>
 
 ??? note "本地化注意事项"
 
+    本地化文件格式为`.ini`，主要形式为`key=value`形式（键值对），'='两边是否添加空格不影响（默认无空格）。
+    如果`value`内出现'='则其两侧不应出现空格，具体形式以中文样式为准。
+    除了[Crowdin](https://zh.crowdin.com/project/nsv2){target="_blank"}内建的辅助翻译也可以通过本地化搜索工具[i18ns.com](https://i18ns.com){target="_blank"}从众多知名App内搜索本地化词条。
+
     1. 参与翻译的人员，部分词条会使用特殊的字符用于程序内，也请完整保留（如'<'、'='、'|'等）。
-    2. 词条内空格字符也需完整保留。
+    2. 词条内空格字符也需完整保留`（用于优化文本断行）`。
     3. 我会不定期更新/审核词条。
 
     你也可以与我们取得联系，来更高效的参与到翻译工作中。
+
+    <small>:octicons-light-bulb-16:
+    我有时间会整理一份`中-英`词汇表添加进`Crowdin`内，用于快速准确匹配常见字句。
+    </small>
 
 
 ## 进度 {id="next"}

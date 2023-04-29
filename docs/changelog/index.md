@@ -70,6 +70,7 @@ template: issues-link.html
 
 ??? changelog "细节调整"
 
+    - UI：【模式选择】界面风格统一，同时也支持手势返回
     - UI：修复离开4v4再进入克隆模式会显示4v4
 
 

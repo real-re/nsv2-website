@@ -42,6 +42,7 @@ __YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZd
 
 3. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
 __Bilibili__[ Channel - 火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}
+`（不定期更新和直播，不仅限于游戏）`
 
 ## Contact
 

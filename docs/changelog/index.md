@@ -39,7 +39,6 @@ template: issues-link.html
 > 下期预告（不定时更新），开发中。
 
 - ✨新特性
-    - 线上公告通知
     - 提供Windows安装包
     - 部分平台支持自动更新，具体查看[路线图](../roadmap/index.md)
 

@@ -50,15 +50,13 @@ __YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf
 
 email: hi@naruto.re
 
-锁定游戏论坛：[naruto.re](#)`（部署中）`
-
 关注微信公众号: 火影战记V2`（Naruto-Senki）`
 
 :point_up_2:同步获取最新动态！
 
 ![wx](../assets/img/wx.jpg)
 
-火影战记 官方QQ ②群: 614496214
+~~火影战记 官方QQ ②群: 614496214~~
 
 火影战记 官方QQ ③群: 877960167
 

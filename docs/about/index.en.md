@@ -48,8 +48,6 @@ __Bilibili__[ Channel - 火影战记V2官方](https://space.bilibili.com/1229895
 
 email: hi@naruto.re
 
-Game Forum：[naruto.re](#)`(comming soon)`
-
 ### Discord
 
 <a href="https://discord.gg/djs"><img src="https://img.shields.io/discord/768961957990367232?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord server" /></a>
@@ -64,7 +62,7 @@ Our WeChat Official Account: Naruto-Senki `(火影战记V2)`
 
 ![wx](../assets/img/wx.jpg)
 
-Naruto Senki Official QQ group 2: 614496214
+~~Naruto Senki Official QQ group 2: 614496214~~
 
 Naruto Senki Official QQ group 3: 877960167
 

@@ -123,7 +123,7 @@ title: 路线图
 - 其他
     - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.5-fix2</small>
         - <small>:octicons-light-bulb-16: 目前，仅Windows及Linux`（CoreAudio/PipeWire）`全面支持此功能。</small>
-        - <small>:octicons-light-bulb-16: 其他平台则仅在当前音频输出设备断开连接后才会自动切换，若连接新的音频设备（例如耳机）则不会自动切换，仍会使用当前的设备播放声音。</small>
+        - <small>:octicons-light-bulb-16: 其他平台则仅在当前音频输出设备断开连接后才会自动切换，若连接新的音频设备（例如耳机）则不会自动切换，仍会使用当前的设备播放声音，其他问题不再详列。</small>
     - [ ] 重构评级系统
     - [ ] 重构 AI 模块
     - [ ] 重制 UI

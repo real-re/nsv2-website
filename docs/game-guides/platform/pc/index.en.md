@@ -9,7 +9,7 @@ title: PC
 
 ### Basic
 
-- Move: ++w++ ++s++ ++a++ ++d++
+- Move: ++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++
 - Attack: ++j++
 - Skill 1: ++u++
 - Skill 2: ++i++
@@ -24,7 +24,7 @@ title: PC
 ### Gear Shop
 
 - Open shop: ++space++
-- Select gear: ++1++ - ++9++
+- Select gear: ++1++ ~ ++9++ &nbsp; ++0++ &nbsp; ++minus++ &nbsp; ++plus++ (1-12)
 - Buy gear: ++b++
 
 ## Special Feature

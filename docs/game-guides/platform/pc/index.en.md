@@ -24,7 +24,7 @@ title: PC
 ### Gear Shop
 
 - Open shop: ++space++
-- Select gear: ++1++ ~ ++9++ &nbsp; ++0++ &nbsp; ++minus++ &nbsp; ++plus++ (1-12)
+- Select gear: ++1++ ~ ++9++ &nbsp; ++0++ &nbsp; ++minus++ &nbsp; ++equal++ (1-12)
 - Buy gear: ++b++
 
 ## Special Feature

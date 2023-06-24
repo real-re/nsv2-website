@@ -119,7 +119,7 @@ title: 路线图
     - [ ] BOSS模式：3vs1进行战斗的游戏模式，敌方主要为强力的反派角色
     - [ ] 护送：`规划中`
     - [ ] 追逐战：`规划中`
-    - [ ] 羁绊模式：游戏准备阶段时增加多条随机`BUFF` & `DEBUFF`
+    - [ ] 羁绊模式：游戏时可以获得随机`BUFF`或`DEBUFF`
 - 其他
     - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.5-fix2</small>
         - <small>:octicons-light-bulb-16: 目前，仅Windows及Linux`（CoreAudio/PipeWire）`全面支持此功能。</small>

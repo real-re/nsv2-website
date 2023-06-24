@@ -42,6 +42,7 @@ template: issues-link.html
 - ✨新特性
     - 提供Windows安装包
     - 部分平台支持自动更新，具体查看[路线图](../roadmap/index.md)
+    - 🔥添加新模式：羁绊模式`（开发中，详见路线图）`
 
 - 🚀变更
     - 支持 安卓/Android 14

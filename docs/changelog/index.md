@@ -50,8 +50,10 @@ template: issues-link.html
     - 安卓：最低支持版本从4.4提高至5.0<small>（API 21）</small>
     - iOS：最低支持版本从11.0提高至13.0
     - 🔥UI：添加设置菜单`（开发中）`
+        - <small>:octicons-light-bulb-16: 包括调整音量大小、设置PC端按键及切换语言等功能。</small>
     - UI：角色的立绘列表增添进度指示
     - UI：更新【游戏模式】界面各个模式标题图片
+    - UI：支持键盘选择第10-12个忍具，详见[游戏指南 - PC端](../game-guides/platform/pc/index.md)
 
 - ⚡️优化
     - 🔥UI：90%的界面文字将更加清晰`（如：忍具商店）`

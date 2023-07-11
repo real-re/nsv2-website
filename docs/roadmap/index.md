@@ -23,7 +23,9 @@ title: 路线图
 
     本地化文件格式为`.ini`，主要形式为`key=value`形式（键值对），'='两边是否添加空格不影响（默认无空格）。
     如果`value`内出现'='则其两侧不应出现空格，具体形式以中文样式为准。
+
     除了[Crowdin](https://zh.crowdin.com/project/nsv2){target="_blank"}内建的辅助翻译也可以通过本地化搜索工具[i18ns.com](https://i18ns.com){target="_blank"}从众多知名App内搜索本地化词条。
+    对于简繁体中文转换可以选择[繁化姬](https://zhconvert.org){target="_blank"}，再做校对。
 
     1. 参与翻译的人员，部分词条会使用特殊的字符用于程序内，也请完整保留（如'<'、'='、'|'等）。
     2. 词条内空格字符也需完整保留`（用于优化文本断行）`。

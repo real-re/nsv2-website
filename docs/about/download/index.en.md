@@ -18,13 +18,13 @@ GitHub Mirror: [click here](https://github.com/Naruto-Senki/files/releases/tag/l
 
 Platforms supported by the latest version of **Naruto Senki: V2**：
 
-| :octicons-cpu-16:Platform | System Requirements  | Tested                     |
-| ------------------------- | -------------------- | -------------------------- |
-| Android                   | Minimum Android 4.4  | Android 13.0               |
-| Windows                   | 64-bit               | Windows 11/10 64-bit       |
-| Linux                     | 64-bit               | Manjaro Linux 6.3.0 64-bit |
-| iOS                       | Minimum iOS 9.0      | iOS 15.0+                  |
-| macOS                     | 64-bit / arm64 (M1+) | macOS 12.1 64-bit          |
+| :octicons-cpu-16:Platform | System Requirements        | Tested                     |
+| ------------------------- | -------------------------- | -------------------------- |
+| Android                   | Minimum Android 4.4+       | Android 13.0               |
+| Windows                   | 64-bit                     | Windows 11/10 64-bit       |
+| Linux                     | 64-bit                     | Manjaro Linux 6.3.0 64-bit |
+| iOS                       | Minimum iOS 13.0+          | iOS 17.0                   |
+| macOS                     | 64-bit / arm64 (M1+) 10.15 | macOS 13.5 64-bit          |
 
 
 !!! tip "Android user"

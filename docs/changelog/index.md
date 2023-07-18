@@ -49,6 +49,7 @@ template: issues-link.html
     - 支持 安卓/Android 14
     - 安卓：最低支持版本从4.4提高至5.0<small>（API 21）</small>
     - iOS：最低支持版本从11.0提高至13.0
+    - macOS：最低支持版本从12.6降至10.15
     - 🔥UI：添加设置菜单`（开发中）`
         - <small>:octicons-light-bulb-16: 包括调整音量大小、设置PC端按键及切换语言等功能。</small>
     - UI：角色的立绘列表增添进度指示

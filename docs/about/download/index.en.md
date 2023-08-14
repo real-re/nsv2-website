@@ -71,6 +71,8 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 | Language                       | Progression |
 | ------------------------------ | ----------- |
 | Simplify Chinese (简体中文)    | 90%         |
-| Traditional Chinese (繁体中文) | WIP         |
+| Traditional Chinese (繁体中文) | 90%         |
 | English                        | 60%         |
-| Other                          | WIP         |
+| Other                          | TBD[^1]     |
+
+[^1]: TBD: To be determined.

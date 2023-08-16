@@ -25,7 +25,7 @@ title: 路线图
     如果`value`内出现'='则其两侧不应出现空格，具体形式以中文样式为准。
 
     除了[Crowdin](https://zh.crowdin.com/project/nsv2){target="_blank"}内建的辅助翻译也可以通过本地化搜索工具[i18ns.com](https://i18ns.com){target="_blank"}从众多知名App内搜索本地化词条。
-    对于简繁体中文转换可以选择[繁化姬](https://zhconvert.org){target="_blank"}，再做校对。
+    对于简繁体中文转换可以选择[繁化姬](https://zhconvert.org){target="_blank"}进行初步转换，再做校对。
 
     1. 参与翻译的人员，部分词条会使用特殊的字符用于程序内，也请完整保留（如'<'、'='、'|'等）。
     2. 词条内空格字符也需完整保留`（用于优化文本断行）`。
@@ -90,9 +90,6 @@ title: 路线图
         - [x] 自定义PC端按键
     - [x] 添加【版本】界面（点击主菜单版本号弹出该界面）
     - [ ] UI全面显示清晰的文字`（重新实现）`
-    - [ ] 更多的语言支持`（包括但不限于繁体中文、英语、日语）`
-        - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
-        - [ ] 繁體中文（by :material-at:__Unlucky Skull (RaiKa87)__）
     - [ ] 移动端增加非强制的广告`（启用后在结算界面点击返回会提示）`【目前将无限期推迟】
 - 移动端
     - [ ] 安卓：支持`x86/x86_64`架构的设备`（多为平板）`
@@ -125,6 +122,9 @@ title: 路线图
     - [x] 羁绊模式：游戏时可以获得随机`BUFF`或`DEBUFF`:small_orange_diamond:<small>v2.1.5-fix2</small>
     - [ ] 护送：`规划中`
     - [ ] 追逐战：`规划中`
+- 本地化`（包括但不限于繁体中文、英语、日语）`
+    - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
+    - [x] 繁体中文（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）:small_orange_diamond:<small>v2.1.5-fix2</small>
 - 其他
     - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.5-fix2</small>
         - <small>:octicons-light-bulb-16: 目前，仅Windows及Linux`（CoreAudio/PipeWire）`全面支持此功能。</small>

@@ -4,6 +4,8 @@ title: PC
 
 ## How to play
 
+- Push start: ++enter++
+- Click logo: ++space++
 - Back & Pause game: ++esc++
 - Switch window size: ++f11++
 
@@ -21,10 +23,17 @@ title: PC
 - Gear 2: ++n++
 - Gear 3: ++m++
 
+### Start Menu
+
+- Confirm: ++enter++
+- Scroll menu: ++w++ &nbsp; ++s++ / ++up++ &nbsp; ++down++
+- Open version dialog: ++v++
+
 ### Gear Shop
 
 - Open shop: ++space++
 - Select gear: ++1++ ~ ++9++ &nbsp; ++0++ &nbsp; ++minus++ &nbsp; ++equal++ (1-12)
+- Move selection: ++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++ / ++up++ &nbsp; ++down++ &nbsp; ++left++ &nbsp; ++right++
 - Buy gear: ++b++
 
 ## Special Feature

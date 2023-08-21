@@ -4,6 +4,8 @@ title: PC端
 
 ## 按键说明
 
+- 点击PUSH START开始游戏：++enter++
+- 点击Logo++space++
 - 全局返回/暂停游戏：++esc++
 - 切换窗口：++f11++
 
@@ -21,10 +23,17 @@ title: PC端
 - 忍具 2：++n++
 - 忍具 3：++m++
 
+### 主菜单
+
+- 确认选项：++enter++
+- 切换选项：++w++ &nbsp; ++s++ / ++up++ &nbsp; ++down++
+- 打开版本界面：++v++
+
 ### 忍具商店
 
 - 打开忍具商店：++space++（空格键）
-- 选择忍具：++1++ ~ ++9++ &nbsp; ++0++ &nbsp; ++minus++ &nbsp; ++equal++（1-12）
+- 选择忍具：++1++ ~ ++9++ &nbsp; ++0++ &nbsp; ++minus++ &nbsp; ++equal++（选择第1-12个忍具）
+- 移动选择：++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++ / ++up++ &nbsp; ++down++ &nbsp; ++left++ &nbsp; ++right++
 - 购买忍具：++b++
 
 ## 特殊功能

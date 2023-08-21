@@ -57,7 +57,11 @@ template: issues-link.html
         - <small>:octicons-light-bulb-16: 包括调整音量大小、设置PC端按键及切换语言等功能。</small>
     - UI：角色的立绘列表增添进度指示
     - UI：更新【游戏模式】界面各个模式标题图片
-    - UI：支持键盘选择第10-12个忍具，详见[游戏指南 - PC端](../game-guides/platform/pc/index.md)
+    - 完善键盘支持，详见[游戏指南 - PC端](../game-guides/platform/pc/index.md)
+        - 支持键盘++enter++开始游戏及++space++点击Logo，
+        - 【主菜单】支持键盘++w++ &nbsp; ++s++及方向键切换选项，++enter++确认选项，等等
+        - 【忍具商店】支持键盘选择第10-12个忍具
+        - 【忍具商店】支持键盘++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++/方向键移动选择忍具
 
 - ⚡️优化
     - 🔥UI：90%的界面文字将更加清晰`（如：忍具商店）`
@@ -65,7 +69,7 @@ template: issues-link.html
     - UI：完善游戏模式可选项的说明
     - UI：调整【结算】界面所有位置不正确的立绘
     - 优化【个人档案】最擅长忍者的统计算法`（胜场与胜率的均衡评估）`
-    - 系统WebView不可用时，点击news自动跳转至浏览器
+    - 系统WebView不可用时，点击news按钮将自动跳转至浏览器
     - 自动切换音频输出设备`（*部分实现，详见路线图-其他）`
 
 - 🔧修复

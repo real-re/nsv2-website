@@ -27,7 +27,9 @@ title: PC
 
 - Confirm: ++enter++
 - Scroll menu: ++w++ &nbsp; ++s++ / ++up++ &nbsp; ++down++
-- Open version dialog: ++v++
+- Show news dialog: ++n++
+- Show profile dialog: ++p++
+- Show version dialog: ++v++
 
 ### Gear Shop
 

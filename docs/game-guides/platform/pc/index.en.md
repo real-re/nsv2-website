@@ -32,6 +32,23 @@ icon: octicons/device-desktop-16
 - Show profile dialog: ++p++
 - Show version dialog: ++v++
 
+### Mode Selection
+
+- Select mode: ++enter++
+- Move selection: ++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++ / ++up++ &nbsp; ++down++ &nbsp; ++left++ &nbsp; ++right++
+- Show mode options: ++tab++
+
+### Character Selection
+
+- Start game: ++enter++
+- Select character: ++space++
+- Move selection: ++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++ / ++up++ &nbsp; ++down++ &nbsp; ++left++ &nbsp; ++right++
+- Switch page: ++1++ &nbsp; ++2++ &nbsp; ++3++
+
+#### Character Skill
+
+- Select skill: ++1++ &nbsp; ++2++ &nbsp; ++3++ &nbsp; ++4++ &nbsp; ++5++
+
 ### Gear Shop
 
 - Open shop: ++space++

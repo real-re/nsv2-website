@@ -58,8 +58,9 @@ template: issues-link.html
     - UI：角色的立绘列表增添进度指示
     - UI：更新【游戏模式】界面各个模式标题图片
     - 完善键盘支持，详见[游戏指南 - PC端](../game-guides/platform/pc/index.md)
-        - 支持键盘++enter++开始游戏及++space++点击Logo，
+        - 支持键盘++enter++开始游戏及++space++点击Logo
         - 【主菜单】支持键盘++w++ &nbsp; ++s++及方向键切换选项，++enter++确认选项，等等
+        - 【游戏模式】及【角色选择】界面支持键盘操作
         - 【忍具商店】支持键盘选择第10-12个忍具
         - 【忍具商店】支持键盘++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++/方向键移动选择忍具
 

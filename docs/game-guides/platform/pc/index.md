@@ -32,6 +32,23 @@ icon: octicons/device-desktop-16
 - 打开玩家档案（Profile）界面：++p++
 - 打开版本界面：++v++
 
+### 模式选择
+
+- 选择模式：++enter++
+- 移动选项：++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++ / ++up++ &nbsp; ++down++ &nbsp; ++left++ &nbsp; ++right++
+- 打开模式可选项：++tab++
+
+### 角色选择
+
+- 开始游戏：++enter++
+- 选择角色：++space++（空格键）
+- 移动选项：++w++ &nbsp; ++s++ &nbsp; ++a++ &nbsp; ++d++ / ++up++ &nbsp; ++down++ &nbsp; ++left++ &nbsp; ++right++
+- 切换页面：++1++ &nbsp; ++2++ &nbsp; ++3++
+
+#### 角色信息
+
+- 查看角色技能: ++1++ &nbsp; ++2++ &nbsp; ++3++ &nbsp; ++4++ &nbsp; ++5++
+
 ### 忍具商店
 
 - 打开忍具商店：++space++（空格键）

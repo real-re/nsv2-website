@@ -1,5 +1,6 @@
 ---
 title: PC
+icon: octicons/device-desktop-16
 ---
 
 ## How to play

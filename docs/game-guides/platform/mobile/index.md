@@ -1,5 +1,6 @@
 ---
 title: 移动端
+icon: octicons/device-mobile-16
 ---
 
 !!! warning "注意"

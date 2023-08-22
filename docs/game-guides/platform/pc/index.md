@@ -1,5 +1,6 @@
 ---
 title: PC端
+icon: octicons/device-desktop-16
 ---
 
 ## 按键说明

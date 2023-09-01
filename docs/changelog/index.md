@@ -91,7 +91,7 @@ template: issues-link.html
 
 - 🎉彩蛋
     - 进入LOGO彩蛋后，1v1变为2v2
-    - 进入LOGO彩蛋后，2%的概率会使敌人阵营与己方完全相同
+    - 进入LOGO彩蛋后，5%的概率会使敌人阵营与己方完全相同
 
 - 📖网站
     - 更新[路线图](../roadmap/index.md){target="_blank"}

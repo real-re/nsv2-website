@@ -201,23 +201,25 @@ i18n:
 # Plugins
 plugins:
   - i18n:
-      default_language: zh
+      reconfigure_material: true
+      reconfigure_search: true
       languages:
-        zh:
+        - locale: zh
+          default: true
+          build: true
           name: 简体中文
           site_name: 火影战记 - V2
-        en:
+        - locale: en
+          build: true
           name: English
           site_name: Naruto Senki - V2
-      material_alternate: true
-      nav_translations:
-        en:
-          游戏指南: Game Guides
-          维基百科: Wiki
-          路线图: Roadmap
-          问题汇总: Issues
-          比赛: Matches
-          关于: About
+          nav_translations:
+            游戏指南: Game Guides
+            维基百科: Wiki
+            路线图: Roadmap
+            问题汇总: Issues
+            比赛: Matches
+            关于: About
 
   - git-revision-date-localized:
       type: datetime
@@ -238,7 +240,7 @@ plugins:
   - minify:
       minify_html: true
       # minify_js: true
-      minify_css: true
+      # minify_css: true # Disable it for latest i18n plugin compatibility in dev mode
       htmlmin_opts:
         remove_comments: true
         remove_all_empty_space: true
@@ -247,4 +249,4 @@ plugins:
       # js_files:
       #   -
       css_files:
-        - assets/css/extra.css
+        - assets/css/extra.min.css

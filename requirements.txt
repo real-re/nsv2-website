@@ -2,6 +2,6 @@ mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 mkdocs-minify-plugin
 mkdocs-redirects
-mkdocs-static-i18n
+mkdocs-static-i18n[material]
 mkdocs-tooltips
 jieba

@@ -8,7 +8,6 @@ icon: octicons/device-desktop-16
 - 点击PUSH START开始游戏：++enter++
 - 点击Logo++space++
 - 全局返回/暂停游戏：++esc++
-- 切换窗口：++f11++
 
 ### 基本操作
 
@@ -61,19 +60,7 @@ icon: octicons/device-desktop-16
 
 ### 切换窗口 { id="switch-window" }
 
-使用++f11++按键可以切换窗口大小，切换顺序如下：
-
-1. 1280x720
-
-2. 1600x900（默认窗口大小）
-
-3. 全屏
-
-!!! warning "注意"
-
-    在Windows上，切换窗口后再使用`News`按钮打开官网，可能会导致网页窗口显示问题。
-
-    在某些Linux发行版上，切换窗口可能导致UI位置错误，可以修改`input.ini`文件内的窗口参数达到相同效果。
+> 通过设置内来切换窗口大小。++f11++ 快捷键切换窗口已废弃。
 
 ### 自定义按键 { id="custom-keyboard-controls" }
 

@@ -83,7 +83,7 @@ template: issues-link.html
 
 - ✨New
     - added support for Windows 64-bit
-    - PC: added support for use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)
+    - ~~PC: added support for use ++f11++ to [switch the window size](../game-guides/platform/pc/index.md#switch-window)~~
     - click the `News` button to open our website on Android and Windows
     - UI: added mode selection interface
     - add 1v1, 4v4 and Clone modes

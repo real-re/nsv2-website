@@ -479,7 +479,7 @@ template: issues-link.html
 
 - ✨新特性
     - 支持 Windows 64位
-    - PC端：支持++f11++键[切换窗口大小](../game-guides/platform/pc/index.md#switch-window)
+    - ~~PC端：支持++f11++键[切换窗口大小](../game-guides/platform/pc/index.md#switch-window)~~
     - 安卓和Windows可以通过游戏内的`News`按钮访问游戏更新日志
     - UI：增加模式选择界面
     - 加入1v1、4v4和克隆模式

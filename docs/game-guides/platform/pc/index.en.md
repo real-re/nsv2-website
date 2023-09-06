@@ -8,7 +8,6 @@ icon: octicons/device-desktop-16
 - Push start: ++enter++
 - Click logo: ++space++
 - Back & Pause game: ++esc++
-- Switch window size: ++f11++
 
 ### Basic
 
@@ -61,22 +60,7 @@ icon: octicons/device-desktop-16
 
 ### Swich window
 
-use ++f11++ to swtich the window size:
-
-1. 1280x720
-
-2. 1600x900 (default)
-
-3. Fullscreen
-
-!!! warning
-
-    Using the `News` button to open our game website may
-    give incorrect webview display after switching windows on Windows.
-
-    In some Linux, switching window sizes can cause UI position issues,
-
-    you can modify the `input.ini` file to achieve the same effect.
+> Using the settings menu, ++f11++ is not available.
 
 ### Custom keyboard controls
 

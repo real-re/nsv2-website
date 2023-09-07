@@ -129,3 +129,18 @@ footer.sponsorship:not(:hover) .twemoji.heart-throb-hover svg {
     -webkit-mask-image: var(--md-admonition-icon--changelog);
     mask-image: var(--md-admonition-icon--changelog);
 }
+
+/**
+ * Custom color schemes
+ */
+[data-md-color-scheme="custom-light"] img[src$="#only-dark"],
+[data-md-color-scheme="custom-light"] img[src$="#gh-dark-mode-only"] {
+    display: none;
+    /* Hide dark images in light mode */
+}
+
+[data-md-color-scheme="custom-dark"] img[src$="#only-light"],
+[data-md-color-scheme="custom-dark"] img[src$="#gh-light-mode-only"] {
+    display: none;
+    /* Hide light images in dark mode */
+}

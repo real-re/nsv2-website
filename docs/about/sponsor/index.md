@@ -33,13 +33,14 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 >
 > 2. 如果我没有及时/忘记添加你的微信，可以通过下方的邮箱、群内我的QQ或微信的付款留言功能等随时联系我。
 
-| :material-wechat:微信 | :fontawesome-brands-alipay:付宝 | :fontawesome-brands-alipay:付宝Ⅱ | :love_you_gesture_tone2:发电 |
-| :---: | :---: | :---: | :---: |
-| ![微信](../../assets/img/wx_pay.png) | ![支付宝](../../assets/img/ali_pay.png)[一键到达](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } | ![支付宝Ⅱ](../../assets/img/ali_pay2.png) | 已弃用 |
+| :material-wechat:微信 | :fontawesome-brands-alipay:付宝 |
+| :--------------------: | :---------------------------: |
+| ![wechat_pay](../../assets/img/wechat_pay.svg){ width="300" } | ![alipay](../../assets/img/alipay.svg){ width="300" } |
+| | [一键到达](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } |
 
-| Patreon | :fontawesome-brands-paypal:ayPal |
-| :---: | :---: |
-| [patreon.com/real_re](已弃用) | (即将到来) |
+| :fontawesome-brands-paypal:ayPal |
+| :------------------------------: |
+|            (即将到来)             |
 
 !!! tip "特别说明"
 

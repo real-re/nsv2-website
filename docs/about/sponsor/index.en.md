@@ -33,13 +33,14 @@ Hi，对于大多数全职的独立游戏开发者而言，生活是最大的`�
 >
 > 2. 如果我没有及时/忘记添加你的微信，可以通过下方的邮箱、群内我的QQ或微信的付款留言功能等随时联系我。
 
-| Patreon | :fontawesome-brands-paypal:ayPal |
-| :---: | :---: |
-| [patreon.com/real_re](deprecated) | (Comming soon) |
-zzzzdasdasdasd
-|        :material-wechat:WeChat Payment         |    :fontawesome-brands-alipay:Alipay    |    :fontawesome-brands-alipay:Alipay Ⅱ  |
-| :--------------------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| ![wechat payment](../../assets/img/wx_pay.png) | ![alipay](../../assets/img/ali_pay.png)[Open App](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } | ![alipay Ⅱ](../../assets/img/ali_pay2.png) |
+| :fontawesome-brands-paypal:ayPal |
+| :------------------------------: |
+|          (Comming soon)          |
+
+| :material-wechat:WeChat Payment | :fontawesome-brands-alipay:Alipay |
+| :-----------------------------: | :-------------------------------: |
+| ![wechat_pay](../../assets/img/wechat_pay.svg){ width=300 } | ![alipay](../../assets/img/alipay.svg){ width=300 } |
+| | [Open App](https://qr.alipay.com/fkx16609qldaools5agzd75){ target="_blank" } |
 
 ## Where:confused: ?
 
@@ -60,5 +61,3 @@ zzzzdasdasdasd
     2. 在未来发布稳定版本后，可以获得先行版体验反馈权限，体验最新推出的功能等。
 
     其他的后续在加吧。
-
-<script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>

@@ -11,7 +11,7 @@ title: 路线图
 
 :octicons-versions-16: 当前版本：v2.1.5-fix+ beta
 
-:octicons-versions-16: 下一版本：v2.1.5-2 beta
+:octicons-versions-16: 下一版本：v2.1.6 beta
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 
@@ -87,7 +87,7 @@ title: 路线图
     - [x] 【角色信息】界面显示可切换技能的描述
     - [x] 【角色信息】界面可切换角色立绘
     - [x] 【角色信息】界面支持查看详细的统计数据
-    - [x] 添加【设置】界面:small_orange_diamond:<small>v2.1.5-2</small>
+    - [x] 添加【设置】界面:small_orange_diamond:<small>v2.1.6</small>
         - [x] 支持调整音量
         - [ ] 支持实验功能
         - [ ] 支持切换语言
@@ -108,7 +108,7 @@ title: 路线图
 - PC端
     - [ ] 增加启动画面
     - [ ] 游戏内使用自定义鼠标指针
-    - [x] 提供Windows安装包:small_orange_diamond:<small>v2.1.5-2</small>
+    - [x] 提供Windows安装包:small_orange_diamond:<small>v2.1.6</small>
     - [ ] 提供Linux安装包`（.AppImage（通用）、.pkg.tar.zst（Arch）、.deb（Debian/Ubuntu）、.rpm（RedHat））`
     - [x] 支持自定义按键
     - [ ] 优化忍具技能按钮布局
@@ -123,14 +123,14 @@ title: 路线图
     - [ ] 训练场（练习忍术、测试技能等，并可显示详细数据等）
     - [ ] 战役：通过固定阵容进行对战
     - [ ] BOSS模式：挑战强力角色
-    - [x] 羁绊模式：游戏时可以获得随机`BUFF`或`DEBUFF`:small_orange_diamond:<small>v2.1.5-2</small>
+    - [x] 羁绊模式：游戏时可以获得随机`BUFF`或`DEBUFF`:small_orange_diamond:<small>v2.1.6</small>
     - [ ] 护送：`规划中`
     - [ ] 追逐战：`规划中`
 - 本地化`（包括但不限于繁体中文、英语、日语）`
     - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
-    - [x] 繁体中文（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）:small_orange_diamond:<small>v2.1.5-2</small>
+    - [x] 繁体中文（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）:small_orange_diamond:<small>v2.1.6</small>
 - 其他
-    - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.5-2</small>
+    - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.6</small>
         - <small>:octicons-light-bulb-16: 目前，仅Windows及Linux`（CoreAudio/PipeWire）`全面支持此功能。</small>
         - <small>:octicons-light-bulb-16: 其他平台则仅在当前音频输出设备断开连接后才会自动切换，若连接新的音频设备（例如耳机）则不会自动切换，仍会使用当前的设备播放声音，其他问题不再详列。</small>
     - [ ] 重构评级系统

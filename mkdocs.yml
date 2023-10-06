@@ -84,7 +84,7 @@ extra:
       link: https://space.bilibili.com/122989580
 
 extra_css:
-  - assets/css/extra.css
+  - assets/css/extra.min.css
 
 # Extensions
 markdown_extensions:
@@ -186,7 +186,7 @@ i18n:
       - light_btn: Switch to dark mode
       - dark_btn: Switch to light mode
     home:
-      title: "Documentation for Naruto Senki: V2 and more"
+      title: "Naruto Senki: V2 Official Website"
       start_btn: Quick start
       sponsor_btn: Become a sponsor
       download_btn: Download
@@ -240,7 +240,7 @@ plugins:
   - minify:
       minify_html: true
       # minify_js: true
-      # minify_css: true # Disable it for latest i18n plugin compatibility in dev mode
+      # minify_css: true # NOTE: Disable it for latest i18n plugin compatibility in dev mode
       htmlmin_opts:
         remove_comments: true
         remove_all_empty_space: true
@@ -249,4 +249,4 @@ plugins:
       # js_files:
       #   -
       css_files:
-        - assets/css/extra.min.css
+        - assets/css/extra.css

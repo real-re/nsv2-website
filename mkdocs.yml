@@ -221,9 +221,10 @@ plugins:
             比赛: Matches
             关于: About
 
-  - git-revision-date-localized:
-      type: datetime
-      timezone: Asia/Shanghai
+  - git-revision-date-localized: # TODO: i18n plugin was break this (use 1.x i18n plugin)
+      type: custom
+      custom_format: "%m/%d %Y"
+      timezone: Asia/Shanghai # China
       enable_creation_date: false
       exclude:
         - index*.md
@@ -240,7 +241,7 @@ plugins:
   - minify:
       minify_html: true
       # minify_js: true
-      # minify_css: true # NOTE: Disable it for latest i18n plugin compatibility in dev mode
+      # minify_css: true # NOTE: Disable it for latest i18n plugin compatibility
       htmlmin_opts:
         remove_comments: true
         remove_all_empty_space: true

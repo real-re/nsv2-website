@@ -1,13 +1,13 @@
-Naruto Senki: V2 网站
+ 火影战记：V2网站
 ==============================
 
 [简体中文] [[English](README_EN.md)]
 
 ---
 
-> Naruto Senki: V2的文档及更多内容.
+> 火影战记: V2官网，提供详细全面的游戏百科、路线图、更新日志及更多相关内容。
 
-此网站使用Markdown编写，由[mkdocs](http://www.mkdocs.org)编译运行.
+此网站使用Markdown编写，由[mkdocs](https://www.mkdocs.org)编译运行。
 
 ## 运行
 
@@ -15,6 +15,8 @@ Naruto Senki: V2 网站
 
 ```
 pip install -r requirements.txt
+# 或者安装至用户目录下
+# pip install --user --break-system-packages -r requirements.txt
 python -m mkdocs serve
 ```
 

@@ -138,7 +138,7 @@ nav: # NOTE: i18n doesn't replace nav's title in default language with multiple 
       - game-guides/index.md
       - game-guides/platform/mobile/index.md
       - game-guides/platform/pc/index.md
-  - 维基百科:
+  - 游戏百科:
       - wiki/history.md
       - wiki/characters.md
       - wiki/items.md
@@ -169,7 +169,7 @@ i18n:
       - light_btn: 切换至夜间模式
       - dark_btn: 切换至日间模式
     home:
-      title: "火影战记: V2的中文文档及更多信息"
+      title: "火影战记: V2官网，提供详细全面的游戏百科、路线图、更新日志及更多相关内容"
       start_btn: 快速开始
       sponsor_btn: 成为赞助者
       download_btn: 下载
@@ -186,7 +186,7 @@ i18n:
       - light_btn: Switch to dark mode
       - dark_btn: Switch to light mode
     home:
-      title: "Naruto Senki: V2 Official Website"
+      title: "Naruto Senki: V2 Official Website, including wiki, roadmap, changelog, and more"
       start_btn: Quick start
       sponsor_btn: Become a sponsor
       download_btn: Download
@@ -215,7 +215,7 @@ plugins:
           site_name: Naruto Senki - V2
           nav_translations:
             游戏指南: Game Guides
-            维基百科: Wiki
+            游戏百科: Wiki
             路线图: Roadmap
             问题汇总: Issues
             比赛: Matches

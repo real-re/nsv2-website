@@ -1,13 +1,14 @@
-Naruto Senki: V2 Website
+Naruto Senki: V2 (火影战记：V2) Website
 ==============================
 
 [[简体中文](README.md)] [English]
 
 ---
 
-> Documentation for Naruto Senki: V2 and more.
+> Naruto Senki: V2 Official Website, including wiki, roadmap, changelog,
+> and more related information.
 
-This project uses Markdown for Website which is compiled with [mkdocs](http://www.mkdocs.org).
+This project uses Markdown for Website which is compiled with [mkdocs](https://www.mkdocs.org).
 
 ## Running
 
@@ -15,6 +16,8 @@ This project uses Markdown for Website which is compiled with [mkdocs](http://ww
 
 ```
 pip install -r requirements.txt
+# or
+# pip install --user --break-system-packages -r requirements.txt
 python -m mkdocs serve
 ```
 

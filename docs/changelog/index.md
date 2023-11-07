@@ -35,7 +35,7 @@ template: issues-link.html
     __比赛：比赛奖品设计完毕后，将正式公布获奖名单及统计下发奖品。__
 
 
-## v2.1.6 <small>[beta] 2023-?-?</small> { id="v216" }
+## v2.1.6 <small>[beta] 2023-12-?</small> { id="v216" }
 
 > __下期预告（由不可控因素导致延缓更新，最后更新于: {{ git_revision_date_localized }}）__
 >

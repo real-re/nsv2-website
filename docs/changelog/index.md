@@ -35,13 +35,13 @@ template: issues-link.html
 
 ## v2.1.6 <small>[beta] 2023-12-?</small> { id="v216" }
 
-> __下期预告（由不可控因素导致延缓更新，最后更新于: {{ git_revision_date_localized }}）__
+> __下期预告（最后更新于: {{ git_revision_date_localized }}）__
 >
 > 注意：鉴于还有一半的内容未完全制作完毕/测试，将会继续延期发布，具体日期待定。
 
 - ✨新特性
     - 提供Windows安装包
-    - 部分平台支持自动更新，具体查看[路线图](../roadmap/index.md)
+    - 部分平台支持自动更新，具体查看[路线图](../roadmap/index.md){target="_blank"}
     - 🔥新模式：羁绊模式`（开发中，详见路线图）`
     - 🔥本地化：支持繁体中文
         - <small>:octicons-light-bulb-16: 部分词汇翻译不准，后续将持续修正。</small>
@@ -56,7 +56,7 @@ template: issues-link.html
     - UI：角色的立绘列表增添进度指示
     - UI：更新【游戏模式】界面各个模式标题图片，提高图片分辨率
     - UI：【忍具商店】添加忍具选择框
-    - 完善键盘支持，详见[游戏指南 - PC端](../game-guides/platform/pc/index.md)
+    - 完善键盘支持，详见[游戏指南 - PC端](../game-guides/platform/pc/index.md){target="_blank"}
         - 支持键盘++enter++开始游戏及++space++点击Logo
         - 【主菜单】支持键盘++w++ &nbsp; ++s++及方向键切换选项，++enter++确认选项，等等
         - 【游戏模式】、【角色选择】及【角色信息】界面支持键盘操作
@@ -77,13 +77,17 @@ template: issues-link.html
     - 优化加载资源卡顿`（设置-实验功能，默认启用）`
     - 系统WebView不可用时，点击news按钮将自动跳转至浏览器
     - 自动切换音频输出设备`（*部分实现，详见路线图-其他）`
+    - 略微提高移动速度，同时技能移动的距离会略微缩短`（原始设计）`
 
 - 🔧修复
     - 🔥修复Windows和Linux无法通过其他目录启动游戏
     - 🔥修复iOS/macOS点击skill技能、profile按钮导致闪退
-    - 修复首次游玩的玩家无法统计数据`（v2.1.5-fix+）`
+    - 🔥修复首次游玩的玩家无法统计数据`（v2.1.5-fix+）`
+    - 🔥修复角色吸引类技能无法生效，通常表现为瞬移或原地不动
+        - <small>:octicons-light-bulb-16: 影响范围：宁次、雏田、角都、飞段、水月等。</small>
     - UI：修复切换菜单过快可能导致按钮重叠
     - UI：修复关闭news后可能会无法关闭页面且按钮消失
+    - UI：修复在点击游戏开始按钮后可以点击返回按钮
     - UI：修复离开4v4再进入克隆模式会显示4v4
     - UI：修复部分界面同时使用键盘和按钮返回导致崩溃及可能同时打开多个界面
     - UI：修复【忍者情报】界面使用鼠标滚动过头后，内容直接跳到底部
@@ -93,8 +97,8 @@ template: issues-link.html
     - 修复部分设备点击news按钮会闪退
 
 - 🎉彩蛋
-    - 进入LOGO彩蛋后，1v1变为2v2
-    - 进入LOGO彩蛋后，5%的概率会使敌人阵营与己方完全相同
+    - 进入LOGO彩蛋后，1v1变为2v2，3v3变为4v4（目前，4人对战仅出现在彩蛋中）
+    - 进入LOGO彩蛋后，会有一定概率触发[随机事件](../game-guides/index.md#随机事件)
 
 - 📖网站
     - 更新[路线图](../roadmap/index.md){target="_blank"}

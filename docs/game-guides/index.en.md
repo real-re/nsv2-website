@@ -22,6 +22,8 @@ title: Game Guides
 | Gear        | Whether to enable gear                       | Enabled  |
 | Guardian    | Whether to enable enemy guardian             | Enabled  |
 | Half Chakra | Reduce the amount of chakra acquired by half | Disabled |
+| -           | -                                            | -        |
+| Max Level   | Whether character is max level (1v1 only)    | Enabled  |
 
 ## Characters
 

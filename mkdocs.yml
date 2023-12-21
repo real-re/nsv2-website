@@ -10,7 +10,7 @@ remote_branch: gh-pages
 
 # Repository
 repo_name: real-re/nsv2-website
-repo_url: https://github.com/real-re/nsv2-website
+repo_url: https://github.com/real-re/nsv2-website/
 
 # Copyright
 copyright: Copyright &copy; 2018-2023 Re | We will always stand with you, never stop and keep going.

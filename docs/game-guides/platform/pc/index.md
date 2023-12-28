@@ -47,7 +47,8 @@ icon: octicons/device-desktop-16
 #### 角色信息
 
 - 查看角色技能: ++1++ &nbsp; ++2++ &nbsp; ++3++ &nbsp; ++4++ &nbsp; ++5++
-- 切换立绘：++a++ &nbsp; ++d++ / ++left++ &nbsp; ++right++ （鼠标拖动或滚轮切换立绘）
+- 切换立绘：++a++ &nbsp; ++d++ / ++left++ &nbsp; ++right++ 或 数字键
+- 打开忍者情报：++tab++
 
 ### 忍具商店
 

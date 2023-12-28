@@ -47,7 +47,8 @@ icon: octicons/device-desktop-16
 #### Character Skill
 
 - Select skill: ++1++ &nbsp; ++2++ &nbsp; ++3++ &nbsp; ++4++ &nbsp; ++5++
-- Switch background：++a++ &nbsp; ++d++ / ++left++ &nbsp; ++right++ (Also supports mouse scrolling)
+- Switch background：++a++ &nbsp; ++d++ / ++left++ &nbsp; ++right++ or number keys
+- Show ninja story: ++tab++
 
 ### Gear Shop
 

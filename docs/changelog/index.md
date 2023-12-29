@@ -42,7 +42,7 @@ template: issues-link.html
 - ✨新特性
     - 提供Windows安装包
     - 部分平台支持自动更新，具体查看[路线图](../roadmap/index.md){target="_blank"}
-    - 🔥新模式：随机模式`（开发中，详见路线图）`
+    - ~~🔥新模式：随机模式`（延期，详见路线图）`~~
     - 🔥本地化：支持繁体中文
         - <small>:octicons-light-bulb-16: 部分词汇翻译不准，后续将持续修正。</small>
 

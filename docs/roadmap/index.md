@@ -74,7 +74,7 @@ title: 路线图
     - [ ] 忍具 - 烟雾弹，优化技能图标
 - UI
 
-    > <small>:octicons-light-bulb-16: 对于新推出的UI界面（过于简陋、原生），我们均会在其推出的几个版本后，替换到全新制作的UI素材（需要一些时间去确定最终设计及制作）。</small>
+> <small>:octicons-light-bulb-16: 对于新推出的UI界面（过于简陋、原生），我们均会在其推出的几个版本后，替换到全新制作的UI素材（需要一些时间去确定最终设计及制作）。</small>
 
     - [x] 支持本地化技能描述`（如果你想帮助我们把他翻译成其他语言，请`[`联系`](../about/index.md#contact)`我们）`
     - [x] 优化4v4的【结算】界面
@@ -118,14 +118,17 @@ title: 路线图
     - [ ] 重制角色`（进行中）`
     - [ ] 原创立绘`（进行中）`
     - [ ] 修复角色锚点错误的动作（by :material-at:__Davin Damara__）
-- 模式
-    - [ ] 训练场（练习忍术、测试技能等，并可显示详细数据等）
-    - [ ] 战役：通过固定阵容进行对战
-    - [ ] BOSS模式：挑战强力角色
-    - [x] 随机模式：随机获得`BUFF`或`DEBUFF`:small_orange_diamond:<small>v2.1.6</small>
-    - [ ] 军师演武：`开发中`
-    - [ ] 护送：`规划中`
-    - [ ] 追逐战：`规划中`
+- 游戏模式
+    - 标准模式
+        - [ ] 训练场（练习忍术、测试技能等，展示详细数据等）
+        - [ ] 战役：通过固定阵容进行对战
+        - [ ] BOSS模式：挑战强力角色
+        - [ ] 随机模式：随机获得`BUFF`或`DEBUFF`:small_orange_diamond:<small>v2.1.7</small>
+        - [ ] 军师演武：玩家可以切换控制所有角色:small_orange_diamond:<small>v2.1.7</small>
+        - [ ] 护送：`规划中`
+        - [ ] 追逐战：`规划中`
+    - 休闲模式
+        - [ ] ？？？：`筹备中`:small_orange_diamond:<small>v2.1.7</small>
 - 本地化`（包括但不限于繁体中文、英语、日语）`
     - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
     - [x] 繁体中文（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）:small_orange_diamond:<small>v2.1.6</small>

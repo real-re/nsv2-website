@@ -35,7 +35,7 @@ pipenv run python -m mkdocs serve
 
 MIT License
 
-Copyright (c) 2022-2023 Re
+Copyright (c) 2022-2024 Re
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

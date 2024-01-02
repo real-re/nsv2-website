@@ -45,6 +45,7 @@ template: issues-link.html
     - ~~🔥新模式：随机模式`（延期，详见路线图）`~~
     - 🔥本地化：支持繁体中文
         - <small>:octicons-light-bulb-16: 部分词汇翻译不准，后续将持续修正。</small>
+    - 🔥新增「丁次」立绘，替换技能1和奥义2
 
 - 🚀变更
     - 支持 安卓/Android 14

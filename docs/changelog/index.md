@@ -46,9 +46,8 @@ template: issues-link.html
     - 🔥新增「阿飞」立绘，技能替换
     - 🔥替换「鸣人」仙人模式和九尾查克拉模式的普通攻击动作
     - 🔥新模式：忍战无双，[详见说明](../game-guides/index.md#模式){target="_blank"}
-        - <small>:octicons-light-bulb-16: 特殊模式选项：限定忍者、无尽模式</small>
+        - <small>:octicons-light-bulb-16: 特殊模式选项：限定忍者「斑 - 须佐能乎」、无尽模式</small>
     - 🔥本地化：支持繁体中文
-    - 提供Windows安装包
     - 部分平台支持自动更新，具体查看[路线图](../roadmap/index.md){target="_blank"}
 
 - 🚀变更

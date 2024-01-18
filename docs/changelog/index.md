@@ -26,6 +26,8 @@ template: issues-link.html
 
     各个平台使用教程请参考[下载页面](../about/download/index.md)底部的提示。
 
+    欢迎您[赞:heart:助](../about/sponsor/index.md)本项目，以持续维持开发。
+
 !!! warning "特别注意"
 
     __本版本仍有部分问题尚未修复，具体查看[问题汇总](../issues/index.md)，请耐心等待后续版本。__
@@ -33,16 +35,13 @@ template: issues-link.html
     部分版本不会向后兼容，如果出现进入游戏几秒后闪退，请仔细检查你的版本号，是否安装错误的版本。
 
 
-## v2.1.6 <small>[beta] 2024-1-0?</small> { id="v216" }
-
-> __下期预告（最后更新于: {{ git_revision_date_localized }}）__
->
-> 注意：还在制作新内容中，近期发布，具体日期待定。
+## v2.1.6 <small>[beta] 2024-1-18</small> { id="v216" }
 
 - ✨新特性
-    - 🔥新增「丁次」立绘，技能替换
-    - 🔥追加「牙」上忍立绘的技能替换
-    - 🔥重制「阿飞」奥义一、奥义二
+    - 🔥__新角色「琳」__
+    - 🔥新增「丁次」立绘，技能替换，[详见wiki](../wiki/characters.md#Choji){target="_blank"}
+    - 🔥追加「牙」立绘的技能替换，[详见wiki](../wiki/characters.md#Kiba){target="_blank"}
+    - 🔥重制「阿飞」，替换奥义一、奥义二，[详见wiki](../wiki/characters.md#Tobi){target="_blank"}
     - 🔥新增「阿飞」立绘，技能替换
     - 🔥替换「鸣人」仙人模式和九尾查克拉模式的普通攻击动作
     - 🔥新模式：忍战无双，[详见说明](../game-guides/index.md#模式){target="_blank"}

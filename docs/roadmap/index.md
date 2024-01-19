@@ -8,9 +8,9 @@ title: 路线图
 >
 > 后续详细的规划将在B站的直播/视频中陆续释出。
 
-:octicons-versions-16: 当前版本：v2.1.5-fix+ beta
+:octicons-versions-16: 当前版本：v2.1.6 beta
 
-:octicons-versions-16: 下一版本：v2.1.6 beta
+:octicons-versions-16: 下一版本：v2.1.7 beta
 
 :octicons-versions-16: 下一正式版本：v2.2.0
 
@@ -92,7 +92,7 @@ title: 路线图
         - [x] 支持切换语言（需重启）
         - [x] 自定义PC端按键
         - [ ] 导入、导出PC端按键配置
-        - [ ] Wifi转移存档数据
+        - [ ] Wifi转移存档
     - [x] 添加【版本】界面（点击主菜单右下角的版本号弹出该界面）
     - [ ] 全面显示清晰的文字、重制高分辨率UI图片
     - [ ] ~~移动端增加非强制的广告~~【目前将无限期推迟】
@@ -109,7 +109,7 @@ title: 路线图
 - PC端
     - [ ] 增加启动画面
     - [ ] 游戏内使用自定义鼠标指针
-    - [x] 提供Windows安装包:small_orange_diamond:<small>v2.1.6</small>
+    - [ ] 提供Windows安装包
     - [ ] 提供Linux安装包
         - <small>:octicons-light-bulb-16: .AppImage（通用）、.pkg.tar.zst（Arch）、.deb（Debian/Ubuntu）、.rpm（RedHat）</small>
     - [x] 支持自定义按键

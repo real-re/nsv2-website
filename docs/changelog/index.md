@@ -16,17 +16,15 @@ template: issues-link.html
 !!! danger "重要说明"
 
     __本游戏只在Re的B站[火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}、
-    官网及火影战记官方QQ群内发布更新（若有意赞助本项目请前往[此处查看](../about/sponsor/index.md){target="_blank"}）。__
+    官网及火影战记官方QQ群内发布更新。__
 
-    如果你是从其他渠道下载本游戏，均为盗版，
+    如果你是从其他渠道下载本游戏，均为盗版。
 
-    __请确保不要被他人 欺骗 或其他方式损失你的钱财，__
-
-    如果你的设备出现任何异常将与本团队无关。
+    __请确保不要被他人轻易欺骗亦或通过其他方式损失你的钱财，若因此你的设备出现任何异常将与本团队无关。__
 
     各个平台使用教程请参考[下载页面](../about/download/index.md)底部的提示。
 
-    欢迎您[赞:heart:助](../about/sponsor/index.md)本项目，以持续维持开发。
+    欢迎您[赞:heart:助](../about/sponsor/index.md){target="_blank"}本项目，以持续维持开发。
 
 !!! warning "特别注意"
 

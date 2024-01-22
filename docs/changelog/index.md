@@ -32,6 +32,7 @@ template: issues-link.html
 
     v2.1.6的macOS版本有严重的问题，将会延期至v2.1.7发布！
 
+    __如果你的设备无法打开游戏，请向我们反馈详细的设备型号及系统版本。__
 
 ## v2.1.6-fix <small>[beta] 2024-1-22</small> { id="v216-fix" }
 

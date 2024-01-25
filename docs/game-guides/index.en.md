@@ -30,6 +30,14 @@ title: Game Guides
 | Special Ninja | Whether to enable special ninja (Musou only) | Disabled |
 | Endless Mode  | No time limit (Musou only)                   | Disabled |
 
+## Game Level
+
+> Game levels are divided into three levels: Easy, Normal, and Hard.
+
+- Hard: Enemy guardian is enabled, our guardian is disabled (default)
+- Normal: Enemy guardian is enabled, our guardian is disabled or disable all
+- Easy: Enemy guardian is disabled, our guardian is enabled
+
 ## Characters
 
 !!! warning "In development ..."

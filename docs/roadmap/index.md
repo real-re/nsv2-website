@@ -148,8 +148,9 @@ title: 路线图
         - [ ] 本地双人同屏游戏：上下分屏，仅支持两名玩家
             - <small>:octicons-light-bulb-16: 限制：此模式仅支持PC端，不支持手机端。</small>
 - 本地化`（包括但不限于繁体中文、英语、日语）`
-    - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
     - [x] 繁体中文（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）:small_orange_diamond:<small>v2.1.6</small>
+    - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
+    - [ ] 日语（by :material-at:__Re__）
 - 其他
     - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.6</small>
         - <small>:octicons-light-bulb-16: 目前，仅Windows及Linux`（CoreAudio/PipeWire）`全面支持此功能。</small>

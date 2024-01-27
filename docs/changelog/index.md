@@ -37,10 +37,12 @@ template: issues-link.html
 ## v2.1.7 <small>[beta] 2024-2-?</small> { id="v217" }
 
 - 🚀变更
+    - 安卓：支持平板电脑设备`（x86架构）`
     - macOS：最低支持版本从12.6降至10.15
     - 重新划分游戏难度，详见[游戏难度](../game-guides/index.md#游戏难度){target="_blank"}
 
 - 🔧修复
+    - 🔥修复iOS和macOS图片显示异常
     - 修复「鸣人 - 仙人模式」和「鸣人 - 九尾查克拉模式」普通攻击动作位置不准确
 
 

@@ -93,7 +93,7 @@ __If you see the above behavior in others, please contact the development team i
 
 ## Special Thanks
 
-__Special thanks to 小島多恵 (Islet), Neimad, benhazard, 曹黎晟, Zakume (狐狸, etc.),
-楠姐 (Jonan), 岛主 (Ojima), 萌姐 (Hausumasutā), 愉悦, 乾癟之手, 缘消消消消消, 鞨鞨, 阿楚,
-Davin Damara,
+__Special thanks to 小島多恵 (Islet), Islet, benhazard, 曹黎晟, 楠姐 (Jonan), 狐狸（Kerena）
+岛主 (Ojima), 萌姐 (Hausumasutā), 愉悦, 乾癟之手, 缘消消消消消, 鞨鞨, 暖风豫阿楚,
+Davin Damara, Juanshoalmao, 明神2918334317
 etc.__

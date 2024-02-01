@@ -8,7 +8,7 @@ title: 路线图
 >
 > 后续详细的规划将在B站的直播/视频中陆续释出。
 
-:octicons-versions-16: 当前版本：v2.1.6 beta
+:octicons-versions-16: 当前版本：v2.1.6-fix beta
 
 :octicons-versions-16: 下一版本：v2.1.7 beta
 

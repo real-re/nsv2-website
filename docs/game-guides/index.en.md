@@ -12,15 +12,19 @@ title: Game Guides
 
 ## Mode
 
-!!! tip
-
-    In all modes, the character will be randomly selected when not selected.
-
 - 1v1: 1vs1 duel, full power and coins
 - 3v3: 3vs3 `(Gear is enabled by default)`
 - 4v4: 4vs4 `(Gear is enabled by default)`
 - Clone: 3vs3 by default `(Gear is enabled by default)`
 - Musou: Fight against infinite enemies within a limited time
+
+!!! tip
+
+    In all modes, the character will be randomly selected when not selected.
+
+    Surrender after 15 minutes will be directly settled.
+
+    Surrender within one minute after the start of the game will not be counted towards data statistics.
 
 ## Mode Options
 

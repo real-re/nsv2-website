@@ -34,7 +34,7 @@ template: issues-link.html
 
     __如果你的设备无法打开游戏，请向我们反馈详细的设备型号及系统版本。__
 
-## v2.1.7 <small>[beta] 2024-2-?</small> { id="v217" }
+## v2.1.7 <small>[beta] 2024-?-?</small> { id="v217" }
 
 > __下期预告（最后更新于: {{ git_revision_date_localized }}）__
 

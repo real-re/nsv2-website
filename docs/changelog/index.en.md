@@ -12,7 +12,7 @@ template: issues-link.html
     Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/){target="_blank"}.
 
 
-## v2.1.7 <small>[beta] 2024-2-?</small> { id="v216" }
+## v2.1.7 <small>[beta] 2024-?-?</small> { id="v216" }
 
 
 ## v2.1.6-fix <small>[beta] 2024-1-22</small> { id="v216-fix" }
@@ -30,7 +30,7 @@ template: issues-link.html
 ## v2.1.4 <small>[beta] 2022-8-12</small> { id="v214" }
 
 - ✨New
-    - added support for iOS `(Jailbreak required)`
+    - added support for iOS
     - UI: added support for changing attack button size
 
 - 🔧Fixes

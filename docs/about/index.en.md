@@ -35,18 +35,18 @@ A: Just For Fun.
 
 ## Links
 
-1. Game :video_game: Website: [https://game.naruto.re](https://game.naruto.re/){target="_blank"}
+1. Game :video_game: Website: [https://game.corepower.re](https://game.corepower.re/){target="_blank"}
 
 2. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
 __YouTube__[ Channel - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg){target="_blank"}
 
 3. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
 __Bilibili__[ Channel - 火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}
-`（不定期更新和直播，不仅限于游戏）`
+`（不定期更新和直播）`
 
 ## Contact
 
-email: hi@naruto.re
+email: hi@corepower.re
 
 ### Discord
 
@@ -56,25 +56,19 @@ email: hi@naruto.re
 
 ### Tencent QQ
 
-> Tencent QQ group has a limit on the number of people, it's recommended subscribe the `WeChat Official Account` first.
+Official QQ group 3: 877960167
 
-Our WeChat Official Account: Naruto-Senki `(火影战记V2)`
+Official QQ group 4: 566206461
 
-![wx](../assets/img/wx.jpg)
+Official QQ group 5: 482082627
 
-Naruto Senki Official QQ group 3: 877960167
+Official QQ group 6: 853230630
 
-Naruto Senki Official QQ group 4: 566206461
+Official QQ group 7: 765339355
 
-Naruto Senki Official QQ group 5: 482082627
+Official QQ group 8: 342315145
 
-Naruto Senki Official QQ group 6: 853230630
-
-Naruto Senki Official QQ group 7: 765339355
-
-Naruto Senki Official QQ group 8: 342315145
-
-Naruto Senki Official QQ group 9: 733575670
+Official QQ group 9: 733575670
 
 ## Copyright
 
@@ -83,7 +77,7 @@ If you are having any problems or suggestions, please contact us.
 
 ALL RIGHTS RESERVED BANDAI NAMCO AND CREATORS.
 
-email: <hi@naruto.re>
+email: <hi@corepower.re>
 
 __1. It is forbidden for anyone to use this game to do any illegal acts
 such as commercial behavior, misappropriation, false publicity, fraud, etc.__

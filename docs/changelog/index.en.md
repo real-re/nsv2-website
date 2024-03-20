@@ -5,11 +5,11 @@ template: issues-link.html
 
 !!! tip "Want to help us improve translations?"
 
-    Please contact <hi@naruto.re>.
+    Please contact <hi@corepower.re>.
 
 !!! warning "For full changelog"
 
-    Please check the Chinese link [game.naruto.re/changelog](https://game.naruto.re/changelog/){target="_blank"}.
+    Please check the Chinese link [game.corepower.re/changelog](https://game.corepower.re/changelog/){target="_blank"}.
 
 
 ## v2.1.7 <small>[beta] 2024-?-?</small> { id="v216" }

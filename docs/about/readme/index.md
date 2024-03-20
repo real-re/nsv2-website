@@ -14,7 +14,7 @@ title: 玩家须知
 
     如果你愿意的话，请你使用本作创作视频或分享时贴上以下信息：
 
-    `火影战记V2官网：https://game.naruto.re`
+    `火影战记V2官网：https://game.corepower.re`
 
 !!! tip "在你准备赞助前，请了解以下条目"
 

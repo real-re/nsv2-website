@@ -16,20 +16,30 @@ GitHub Mirror: [click here](https://github.com/Naruto-Senki/files/releases/tag/l
 
 ## Supported Platforms
 
-Platforms supported by the latest version of **Naruto Senki: V2**：
+Platforms supported by the latest version:
 
-| :octicons-cpu-16:Platform | System Requirements        | Tested                     |
-| ------------------------- | -------------------------- | -------------------------- |
-| Android                   | Minimum Android 4.4+       | Android 13.0               |
-| Windows                   | 64-bit                     | Windows 11/10 64-bit       |
-| Linux                     | 64-bit                     | Manjaro Linux 6.3.0 64-bit |
-| iOS                       | Minimum iOS 13.0+          | iOS 17.0                   |
-| macOS                     | 64-bit / arm64 (M1+) 10.15 | macOS 13.5 64-bit          |
+| :octicons-cpu-16:Platform | System Requirements        | Tested               |
+| ------------------------- | -------------------------- | -------------------- |
+| Android                   | Minimum Android 4.4+       | Android 13.0         |
+| Windows                   | 64-bit                     | Windows 11/10 64-bit |
+| Linux                     | 64-bit                     | Manjaro Linux 64-bit |
+| iOS                       | Minimum iOS 13.0+          | iOS 17.0             |
+| macOS                     | 64-bit / arm64 (M1+) 10.15 | macOS 13.5 64-bit    |
 
 
 !!! tip "Android user"
 
-    `armeabi-v7a` and `arm64-v8a` architectures are supported.
+    Currently supports `armeabi-v7a`, `arm64-v8a`, `x86`, and `x86_64` architectures, and supports almost all mobile devices (phones, tablets, etc.).
+
+!!! tip "iOS user"
+
+    Only supports iPhone5S, iPad Air, iPad mini2 and newer devices.
+
+    1. Jailbreak required. (Don't do it unless you know what you are doing!)
+
+    2. Or use ios signing software to avoid jailbreak.
+
+    3. It is also recommended to look for Android Emulators.
 
 !!! tip "Windows user"
 
@@ -44,23 +54,13 @@ Platforms supported by the latest version of **Naruto Senki: V2**：
 
 !!! tip "Linux user"
 
-    requires `gtk3`.
+    No more requires `gtk3`.
 
     Playback audio supports `PipeWire/PortAudio/PulseAudio/JACK` backends, if you can't play
     then you should manually install one of the above.
 
     If you cannot run the game, please run the command `ldd ./NarutoSenkiV2` in game root directory
     to display all dependencies and install all missing dependencies manually.
-
-!!! tip "iOS user"
-
-    Jailbreak required. (Don't do it unless you know what you are doing!)
-
-    Or use ios signing software to avoid jailbreak.
-
-    It is also recommended to look for Android Emulators.
-
-    Only supports iPhone5S, iPad Air, iPad mini2 and newer devices。
 
 !!! tip "macOS user"
 

@@ -27,7 +27,7 @@ template: issues.html
 
     涉及到技能，请按照普攻（普通攻击）、技能1-3、奥义1-2格式进行填写（阿拉伯数字或中文数字皆可）。
 
-    涉及到游戏内文字、技能描述等错误或不准确，请在火影战记官方QQ群内反馈。
+    涉及到游戏内文字、技能描述等错误或不准确，请在官方QQ群内反馈。
 
     若UI、贴图或角色产生偏移、错位等问题，最好提供错误时的截图以及简要描述。
 
@@ -42,8 +42,6 @@ template: issues.html
 !!! warning "目前以下bug影响较大，望周知"
 
     如果仍存在游戏闪退等严重问题，请及时向我们反馈。
-
-    __如果你无法进行游戏或没有较好的体验，可以在火影战记的官方[QQ群](../about/index.md#contact)进行反馈。__
 
 
 ## 已知限制
@@ -372,7 +370,7 @@ template: issues.html
 
 !!! bug "84. AI会在距离不够的情况下释放瞬移类技能，导致原地释放空技能，不知道是瞬移的机制问题还是AI问题"
 
-    和鹿丸的AI情况相同，具体查看日志[game.naruto.re/changelog/#v211](https://game.naruto.re/changelog/#v211)。
+    和鹿丸的AI情况相同，具体查看日志[game.corepower.re/changelog/#v211](https://game.corepower.re/changelog/#v211)。
 
 !!! success "85. 鸣人可以不在不到LV6之前觉醒金鸣"
 

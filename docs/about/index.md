@@ -35,53 +35,36 @@ PS（后记）
 
 ## 官方链接 { id="links" }
 
-1. 游戏:video_game:官网: [https://game.naruto.re](https://game.naruto.re/){target="_blank"}
+1. 游戏:video_game:官网: [https://game.corepower.re](https://game.corepower.re/){target="_blank"}
 
 2. Re の  :fontawesome-brands-bilibili:{ style="color: #00ADEB" }
 __Bilibili__[ 频道 - 火影战记V2官方](https://space.bilibili.com/122989580){target="_blank"}
-`（不定期更新和直播，不仅限于游戏）`
+`（不定期更新和直播）`
 
 3. Re の :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
 __YouTube__[ 频道 - Re Official](https://www.youtube.com/channel/UCL9gDeedGZdf3hjRd-Zr7cg){target="_blank"}
 
-## 联系方式 { id="contact" }
+## 交流群组 { id="contact" }
 
-> QQ群人数有限，可以关注我的B站频道或者订阅公众号，同步获取最新动态。
+官方QQ 3群: 877960167
 
-email: hi@naruto.re
+官方QQ 4群: 566206461
 
-关注微信公众号: 火影战记V2`（Naruto-Senki）`
+官方QQ 5群: 482082627
 
-:point_up_2:同步获取最新动态！
+官方QQ 6群: 853230630
 
-![wx](../assets/img/wx.jpg)
+官方QQ 7群: 765339355
 
-火影战记 官方QQ 3群: 877960167
+官方QQ 8群: 342315145
 
-火影战记 官方QQ 4群: 566206461
-
-火影战记 官方QQ 5群: 482082627
-
-火影战记 官方QQ 6群: 853230630
-
-火影战记 官方QQ 7群: 765339355
-
-火影战记 官方QQ 8群: 342315145
-
-火影战记 官方QQ 9群: 733575670
+官方QQ 9群: 733575670
 
 !!! tip "温馨提示"
 
-    火影战记的官方群均为2000人，由专人每年花费大笔金钱维护，
-    大家要主动避免加入到多个群组。
+    官方群均为2000人，大家请主动避免重复加入多个群组，给其他玩家留一些位置。`（通常只需加入一个交流群即可）`
 
-    进群请严格遵守群规，阅读公告及翻阅`群文件`内的`在线文档`，
-    共建美好和谐的玩家交流环境，人人有责。`（通常只需加入一个交流群即可）`
-
-    部分交流群，管理严格且限制部分人员加入，请玩家注意发言，切勿提及公告所示的`雷区`。
-
-    切勿提及其他破解美化之类的游戏及平台等，这些导致曾经的火战完结，
-    所以管理员会针对触犯此类问题的人`无情打击`。
+    进群请严格遵守群规，查看群公告，共建美好和谐的玩家交流环境，人人有责。
 
 ### Discord
 
@@ -95,7 +78,7 @@ email: hi@naruto.re
 均归属万代南宫梦及其相关公司、相关网络制作者 以及 本开发团队所有，
 如有任何问题，请及时与我们联系。
 
-联系人：<hi@naruto.re>
+联系人：<hi@corepower.re>
 
 __1. 禁止任何人使用本游戏做任何 商业行为 或 盗用、虚假宣传、诈骗等非法行为。__
 

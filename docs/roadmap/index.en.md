@@ -12,7 +12,7 @@ title: Roadmap
 
 !!! warning "The current language is not currently supported !!!"
 
-    Please check the Chinese link [game.naruto.re/roadmap](https://game.naruto.re/roadmap/).
+    Please check the Chinese link [game.corepower.re/roadmap](https://game.corepower.re/roadmap/).
 
 
 ## Progression {id="next"}

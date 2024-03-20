@@ -1,16 +1,12 @@
 # Project information
-site_name: Naruto Senki - V2
+site_name: "The V2"
+# site_name: Naruto Senki - V2
 site_author: Re
-site_url: https://game.naruto.re/
-edit_uri: https://github.com/real-re/nsv2-website/edit/main/docs/
+site_url: https://game.corepower.re/
 
 # Deployment
 remote_name: origin
 remote_branch: gh-pages
-
-# Repository
-repo_name: real-re/nsv2-website
-repo_url: https://github.com/real-re/nsv2-website/
 
 # Copyright
 copyright: Copyright &copy; 2018-2024 Re | We will always stand with you, never stop and keep going.
@@ -65,7 +61,7 @@ theme:
   favicon: assets/img/favicon.png
   icon:
     logo: logo
-    logo_url: https://s1.ax1x.com/2022/04/16/LJGHeS.png
+    # logo_url: https://s1.ax1x.com/2022/04/16/LJGHeS.png
 
 # Customization
 extra:
@@ -75,7 +71,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/solid/globe
-      link: https://game.naruto.re/
+      link: https://game.corepower.re/
     - icon: fontawesome/brands/github
       link: https://github.com/naruto-senki
     - icon: fontawesome/brands/youtube
@@ -112,7 +108,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: _ # NOTE: Link redirectly to game.naruto.re in javascript
+      user: _ # NOTE: Link redirectly to game.corepower.re in javascript
       repo: _
   - pymdownx.mark
   # - pymdownx.progressbar
@@ -169,7 +165,7 @@ i18n:
       - light_btn: 切换至夜间模式
       - dark_btn: 切换至日间模式
     home:
-      title: "火影战记: V2官网，提供详细全面的游戏百科、路线图、更新日志及更多相关内容"
+      title: "火战V2官网，提供详细全面的游戏百科、路线图、更新日志及更多相关内容"
       start_btn: 快速开始
       sponsor_btn: 成为赞助者
       download_btn: 下载
@@ -186,7 +182,7 @@ i18n:
       - light_btn: Switch to dark mode
       - dark_btn: Switch to light mode
     home:
-      title: "Naruto Senki: V2 Official Website, including wiki, roadmap, changelog, and more"
+      title: "NSV2 game Official Website, including wiki, roadmap, changelog, and more"
       start_btn: Quick start
       sponsor_btn: Become a sponsor
       download_btn: Download
@@ -208,11 +204,11 @@ plugins:
           default: true
           build: true
           name: 简体中文
-          site_name: 火影战记 - V2
+          # site_name: 火影战记 - V2
         - locale: en
           build: true
           name: English
-          site_name: Naruto Senki - V2
+          # site_name: Naruto Senki - V2
           nav_translations:
             游戏指南: Game Guides
             游戏百科: Wiki

@@ -40,7 +40,7 @@ template: issues-link.html
 > __下期预告（最后更新于: {{ git_revision_date_localized }}）__
 
 - 🚀变更
-    - 安卓：支持平板电脑设备`（x86、x86_64架构）`
+    - 安卓：支持平板电脑设备`（x86架构）`
     - macOS：最低支持版本从12.6降至10.15
     - 重新划分游戏难度，详见[游戏难度](../game-guides/index.md#游戏难度){target="_blank"}
     - 调整【瞬身术】附加状态从无敌变为霸体

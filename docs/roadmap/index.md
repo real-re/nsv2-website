@@ -99,22 +99,27 @@ title: 路线图
     - [x] 安卓：支持`x86/x86_64`架构的设备`（多为平板电脑）`
     - [ ] 优化UI布局，适配全面屏、曲面屏、异形屏等`（长期目标）`
         - <small>:octicons-light-bulb-16: 注意：部分设备需要在设置内取消该应用的`适配全面屏`选项才能正常显示游戏。</small>
-    - [ ] 支持自定义摇杆大小
-    - [x] 支持自定义普通攻击按键大小
-    - [ ] 支持自定义技能按键大小
-    - [x] 支持自定义按键布局
-    - [ ] 支持自定义按键位置
-    - [ ] 优化拉面、忍具技能按钮布局（将使用率高的技能优先放在最合适的位置）
+    - 自定义布局
+        - [ ] 调整摇杆大小
+        - [x] 调整普通攻击按键大小
+        - [ ] 调整技能按键大小
+        - [x] 调整按键布局
+        - [ ] 调整按键位置
+        - [ ] 优化拉面、忍具技能按钮布局（将使用率高的技能优先放在最合适的位置）
+        - [ ] 自定义布局界面
 - PC端
     - [ ] 增加启动画面
-    - [ ] 游戏内使用自定义鼠标指针
-    - [ ] 提供Windows安装包
-    - [ ] 提供Linux安装包
-        - <small>:octicons-light-bulb-16: .AppImage（通用）、.pkg.tar.zst（Arch）、.deb（Debian/Ubuntu）、.rpm（RedHat）</small>
-    - [x] 支持自定义按键
-    - [ ] 优化忍具技能按钮布局
-    - [ ] 悬停技能按钮时显示技能说明
     - [ ] 支持完全键盘操作
+    - [ ] 游戏内使用自定义鼠标指针
+    - [ ] 悬停技能按钮时显示技能说明
+    - 自定义布局
+        - [x] 自定义键盘按键
+        - [ ] 优化忍具技能按钮布局
+        - [ ] 自定义布局界面
+    - 安装包
+        - [ ] 提供Windows安装包
+        - [ ] 提供Linux安装包
+            - <small>:octicons-light-bulb-16: .AppImage（通用）、.pkg.tar.zst（Arch）、.deb（Debian/Ubuntu）、.rpm（RedHat）</small>
 - 角色
     - 重制角色
         - [ ] 鸣人：重新设计
@@ -123,14 +128,14 @@ title: 路线图
         - [ ] 猿飞日斩：奥义一
         - [ ] 自来也：技能一，奥义一，奥义二
         - [ ] 自来也-仙人模式：技能一、技能二、奥义一、奥义二
-        - [ ] 大蛇丸：奥义一，奥义二
-        - [ ] 迪达拉：奥义二
+        - [x] 大蛇丸：奥义一，奥义二:small_orange_diamond:<small>v2.1.7</small>
+        - [x] 迪达拉：奥义二:small_orange_diamond:<small>v2.1.7</small>
         - [ ] 小南：奥义一
         - [ ] 鬼鲛：普通攻击、奥义二
         - [x] 阿飞：奥义一、奥义二:small_orange_diamond:<small>v2.1.6</small>
         - [ ] 佐助：技能一、奥义一
         - [ ] 佐助-永恒万花筒写轮眼：技能一、技能二、奥义二
-        - [ ] 我爱罗：奥义二
+        - [x] 我爱罗：奥义二:small_orange_diamond:<small>v2.1.7</small>
         - [ ] 勘九郎：奥义二
     - [ ] 修复角色动作位置错误（by :material-at:__Davin Damara__ & :material-at:__Re__）
 - 游戏模式
@@ -151,17 +156,14 @@ title: 路线图
             - <small>:octicons-light-bulb-16: 限制：此模式仅支持PC端，不支持手机端。</small>
 - 本地化`（包括但不限于繁体中文、英语、日语）`
     - [x] 繁体中文（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）:small_orange_diamond:<small>v2.1.6</small>
-    - [ ] 英语（待完善，by :material-at:__Unlucky Skull (RaiKa87)__）
+    - [ ] 英语（by :material-at:__Unlucky Skull (RaiKa87)__ & :material-at:__Re__）
     - [ ] 日语（by :material-at:__Re__）
 - 其他
     - [ ] 自动切换音频输出设备:small_orange_diamond:<small>v2.1.6</small>
         - <small>:octicons-light-bulb-16: 目前，仅Windows及Linux`（CoreAudio/PipeWire）`全面支持此功能。</small>
         - <small>:octicons-light-bulb-16: 其他平台则仅在当前音频输出设备断开连接后才会自动切换，若连接新的音频设备（例如耳机）则不会自动切换，仍会使用当前的设备播放声音，其他问题不再详列。</small>
-    - [ ] 重构评级系统
-    - [ ] 重构 AI 模块
-    - [ ] 重新制作音频，调整音量（当前：震耳欲聋）
-    - [ ] 重制 UI
     - [ ] 支持手柄操作（*已完成部分）
+    - [ ] 重新制作音频，调整音量（当前：震耳欲聋）
 - 在线行动`（Operation Online，当游戏逐渐稳定后才会着手开发）`
     - [ ] 基础的在线内容:video_game:
         - [ ] 账号
